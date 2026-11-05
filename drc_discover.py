@@ -72,10 +72,14 @@ def fetch(story_id, tries=4):
             with urllib.request.urlopen(req, timeout=30) as r:
                 return r.getcode(), r.read()
         except urllib.error.HTTPError as e:
+            # 5xx are transient (DRC flakes) -> retry; 4xx (404/410) are final.
+            if e.code >= 500 and attempt < tries - 1:
+                time.sleep(2 * (attempt + 1))
+                continue
             return e.code, (e.read() or b"")
         except Exception:
             if attempt == tries - 1:
-                raise
+                return None, b""
             time.sleep(2 * (attempt + 1))
 
 
@@ -111,19 +115,21 @@ def extract_body(text):
 
 
 def classify(class_name):
-    """DRC class label -> our code, or None to skip. PSM and everything else skip."""
-    n = (class_name or "").lower()
-    if "pro stock motorcycle" in n or "motorcycle" in n:
-        return None
-    if "top fuel" in n:
-        return "TF"
-    if "funny car" in n:
-        return "FC"
-    if "pro mod" in n:          # "Pro Mod" / "Pro Modified"
-        return "PM"
-    if "pro stock" in n:
-        return "PS"
-    return None
+    """DRC class label -> our code, or None to skip.
+
+    Match the professional class name EXACTLY (after normalizing whitespace/case).
+    This is deliberately strict: DRC also runs 'Top Alcohol Funny Car', 'Top
+    Alcohol Dragster', 'Pro Stock Motorcycle', etc. A loose substring test would
+    map 'Top Alcohol Funny Car' to Funny Car -- exactly the bug that injected
+    sportsman runs into a nitro class. Only the four pro classes we track pass."""
+    n = re.sub(r"\s+", " ", (class_name or "").strip().lower())
+    return {
+        "top fuel": "TF",
+        "funny car": "FC",
+        "pro stock": "PS",
+        "pro modified": "PM",
+        "pro mod": "PM",
+    }.get(n)
 
 
 def parse_date(text):
@@ -201,15 +207,15 @@ def main():
             break
         code, raw = fetch(sid)
         fetched += 1
-        html_text = raw.decode("iso-8859-1", "replace")
-        mt = TITLE_RE.search(html_text)
-        title = (mt.group(1).strip() if mt else "")
-        is_live = bool(title) or len(raw) > 2000
-        if is_live:
+        text = to_text(raw)
+        # A real published story is HTTP 200 and carries a publication dateline.
+        # Out-of-range ids return 410/500 (or tiny stubs) and must NOT advance the
+        # frontier, or the scan runs away past where real stories will appear.
+        is_story = (code == 200) and bool(parse_date(text))
+        if is_story:
             last_live = max(last_live, sid)
 
-        text = to_text(raw)
-        if "Summary of eliminations" in text:
+        if code == 200 and "Summary of eliminations" in text:
             cm = CLASS_RE.search(text)
             class_name = cm.group(1).strip() if cm else ""
             code = classify(class_name)
