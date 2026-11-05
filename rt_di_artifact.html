@@ -743,6 +743,7 @@
           <th data-sort="best" class="num">BEST<span class="arrow">↕</span></th>
           <th data-sort="worst" class="num">WORST<span class="arrow">↕</span></th>
           <th data-sort="lf" class="num" title="How often this driver had the quickest legal reaction time in the actual matchup (head-to-head or 4-wide). Byes excluded; own red-lights count against.">LEAVES 1ST<span class="arrow">↕</span></th>
+          <th data-sort="hs" class="num" title="Holeshot wins: rounds won despite a slower ET than a clean opponent — won on the starting line.">HOLESHOTS<span class="arrow">↕</span></th>
           <th data-sort="wl" class="num">ROUND W-L<span class="arrow">↕</span></th>
         </tr>
       </thead>
@@ -806,6 +807,7 @@
     <b>METHODOLOGY:</b> Every elimination run sourced from CompuLink timing data via DragRaceCentral.com "Summary of Eliminations" reports.
     Reaction times measured to the .001. Fouls (negative RT) and DQs (no valid timing) are excluded from leaderboard averages but included in best/worst counts.
     "LEAVES 1ST" = how often the driver had the quickest legal reaction time in the actual matchup (beating the other lane, or holding the best clean light when an opponent fouled). A driver's own red-lights count against them; byes are excluded.<br>
+    "HOLESHOTS" = round wins earned on the starting line: the driver won despite a slower ET than a clean (non-fouling) opponent.<br>
     <b>SAMPLE:</b> <span id="footer-counts"></span>.<br>
     <b>FIELD SIZE:</b> <span id="footer-fields"></span>. Run-count disparities across classes are primarily a function of field size, not data quality.<br>
     <span id="footer-meta"><b>UPDATED:</b> 11.04.26 // <b>RT.DI v1.7.1</b> // © DRAG ILLUSTRATED 2026</span><br>
@@ -927,7 +929,8 @@
 
     // RT of every driver keyed by race|year|round, for head-to-head "leaves first"
     const rtByKey = {};
-    runs.forEach(r => { rtByKey[r.r + '|' + r.y + '|' + r.rd + '|' + r.d] = r.rt; });
+    const etByKey = {};
+    runs.forEach(r => { const k = r.r + '|' + r.y + '|' + r.rd + '|' + r.d; rtByKey[k] = r.rt; etByKey[k] = r.et; });
 
     const drivers = {};
     runs.forEach(r => {
@@ -943,6 +946,7 @@
         roundL: 0,
         lfWins: 0,
         lfTotal: 0,
+        holeshots: 0,
       };
       d.runs++;
       if (r.w) d.roundW++; else d.roundL++;
@@ -964,6 +968,14 @@
           if (r.rt > 0 && (legalOpp.length === 0 || r.rt < Math.min.apply(null, legalOpp))) d.lfWins++;
         }
       }
+      // Holeshot win: won the round despite a slower ET than a clean (non-fouling) opponent — won on the tree
+      if (r.w && r.rt > 0 && r.et > 0 && r.o && r.o.length) {
+        for (let i = 0; i < r.o.length; i++) {
+          const kk = r.r + '|' + r.y + '|' + r.rd + '|' + r.o[i];
+          const oet = etByKey[kk], ort = rtByKey[kk];
+          if (oet !== undefined && oet > 0 && ort >= 0 && oet < r.et) { d.holeshots++; break; }
+        }
+      }
     });
 
     return Object.values(drivers).map(d => ({
@@ -974,6 +986,7 @@
       worst: d.worst === -Infinity ? null : d.worst,
       bir: d.birTotal ? d.birWins / d.birTotal : null,
       lf: d.lfTotal ? d.lfWins / d.lfTotal : null,
+      hs: d.holeshots,
       wl: d.roundW + '-' + d.roundL,
       wlNum: (d.roundW + d.roundL) > 0 ? d.roundW / (d.roundW + d.roundL) : 0,
     }));
@@ -1105,6 +1118,7 @@
         '<td class="num" data-label="BEST">' + fmtRT(r.best) + '</td>' +
         '<td class="num" data-label="WORST">' + fmtRT(r.worst) + '</td>' +
         '<td class="num" data-label="LEAVES 1ST">' + fmtPct(r.lf) + '</td>' +
+        '<td class="num" data-label="HOLESHOTS">' + r.hs + '</td>' +
         '<td class="num" data-label="ROUND W-L">' + r.wl + '</td>' +
       '</tr>';
     }).join('');
