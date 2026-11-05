@@ -1,0 +1,26 @@
+name: DRC Recon (temporary)
+
+# Proves dragracecentral.com is reachable from GitHub's servers (RT.DI plan step 4)
+# and dumps page structure so auto-discovery + date extraction can be designed.
+# Temporary: delete once the production pipeline is in place.
+on:
+  workflow_dispatch:
+
+jobs:
+  recon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Fetch sample DRC stories and report
+        run: python3 -I tools/recon_drc.py
+      - name: Upload raw HTML + findings
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: drc-recon
+          path: recon_out/
+          retention-days: 7
