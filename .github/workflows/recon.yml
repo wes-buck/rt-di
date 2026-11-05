@@ -29,7 +29,7 @@ jobs:
           RTDI_STORIES: /tmp/stories
           RTDI_SCAN_MAX_FETCH: "60"
         run: |
-          python3 -I drc_discover.py --from 424110
+          python3 drc_discover.py --from 424110
           echo "===== resulting sandbox index ====="
           cat /tmp/idx.json
       - name: Upload sandbox output

@@ -25,9 +25,10 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-import race_resolver
-
 ROOT = Path(__file__).parent
+sys.path.insert(0, str(ROOT))  # work even under `python -I` (isolated mode)
+
+import race_resolver  # noqa: E402
 RAW = ROOT / "raw_data"
 # Index/stories locations can be redirected (CI dry-runs) so a validation scan
 # never touches the committed state.

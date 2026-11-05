@@ -18,6 +18,7 @@ from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).parent
+sys.path.insert(0, str(ROOT))  # local imports work even under `python -I`
 RAW = ROOT / "raw_data"
 TRACKED = ("TF", "FC", "PS", "PM")
 
