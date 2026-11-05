@@ -55,8 +55,12 @@ def latest_year(years):
 
 
 def sanity_gate(per, years, total):
-    """Return (ok, reasons). Blocks if the total drops vs the last published
-    counts, or if a tracked class is empty in the latest season."""
+    """Return (ok, reasons). Data only ever grows (stories are kept forever and
+    only appended), so any shrinkage signals a scrape/parse failure. Block if:
+      - the total run count drops vs the last published counts, or
+      - any class/year that previously had runs comes back empty (0).
+    We do NOT require every class in the newest season: classes post one at a
+    time over a weekend, and Pro Modified does not run at every event."""
     reasons = []
     prev = {}
     if COUNTS_FILE.exists():
@@ -66,18 +70,11 @@ def sanity_gate(per, years, total):
     if prev_total is not None and total < prev_total:
         reasons.append(f"total runs dropped: {prev_total} -> {total}")
 
-    ly = latest_year(years)
-    if ly is not None:
-        for cls in TRACKED:
-            if per.get(f"{cls}_{ly}", 0) == 0:
-                reasons.append(f"class {cls} is empty for {ly}")
-
-    # Per-class/year regressions (a class-year that had data losing it all)
     for key, pc in prev.items():
         if key.startswith("_"):
             continue
         if pc > 0 and per.get(key, 0) == 0:
-            reasons.append(f"{key} went from {pc} runs to 0")
+            reasons.append(f"{key} came back empty (was {pc} runs)")
 
     return (len(reasons) == 0), reasons
 
