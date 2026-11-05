@@ -1,0 +1,99 @@
+{
+ "frontier": 424923,
+ "stories": {
+  "424124": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Comp Cash Clash' not tracked",
+   "status": "skipped"
+  },
+  "424125": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Pro Stock Motorcycle' not tracked",
+   "status": "skipped"
+  },
+  "424139": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Summit Sportsman' not tracked",
+   "status": "skipped"
+  },
+  "424140": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Summit Super Pro' not tracked",
+   "status": "skipped"
+  },
+  "424141": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Summit Pro ET' not tracked",
+   "status": "skipped"
+  },
+  "424142": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Summit ET Motorcycle' not tracked",
+   "status": "skipped"
+  },
+  "424143": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Top Sportsman' not tracked",
+   "status": "skipped"
+  },
+  "424144": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Top Dragster' not tracked",
+   "status": "skipped"
+  },
+  "424145": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Super Comp' not tracked",
+   "status": "skipped"
+  },
+  "424146": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Super Gas' not tracked",
+   "status": "skipped"
+  },
+  "424147": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Stock Eliminator' not tracked",
+   "status": "skipped"
+  },
+  "424148": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Super Stock' not tracked",
+   "status": "skipped"
+  },
+  "424149": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Competition Eliminator' not tracked",
+   "status": "skipped"
+  },
+  "424150": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Top Alcohol Dragster' not tracked",
+   "status": "skipped"
+  },
+  "424151": {
+   "city": "LAS VEGAS",
+   "class": "FC",
+   "confident": true,
+   "date": "2026-11-02",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "race": "Nevada Nationals",
+   "status": "ingested",
+   "year": 2026
+  }
+ }
+}
