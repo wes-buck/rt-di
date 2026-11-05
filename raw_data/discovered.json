@@ -88,11 +88,12 @@
   "424151": {
    "city": "LAS VEGAS",
    "class": "FC",
-   "confident": true,
    "date": "2026-11-02",
+   "duplicate_of": "committed",
    "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
    "race": "Nevada Nationals",
-   "status": "ingested",
+   "reason": "duplicate of committed FC Nevada Nationals 2026",
+   "status": "skipped",
    "year": 2026
   }
  }

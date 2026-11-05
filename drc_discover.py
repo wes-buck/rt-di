@@ -160,6 +160,24 @@ def ingested_triples(idx):
     return out
 
 
+def existing_coverage():
+    """(class, race, year) triples already present in the committed data
+    (hand-built history below the scan seed, plus everything published so far).
+    Seeding dedup with these stops a late/duplicate re-post of a race we already
+    have from being ingested a second time."""
+    import csv as _csv
+    cov = {}
+    mf = ROOT / "master_runs.csv"
+    if mf.exists():
+        with open(mf) as f:
+            for r in _csv.DictReader(f):
+                try:
+                    cov[(r["class"], r["race"], int(r["year"]))] = "committed"
+                except (KeyError, ValueError):
+                    continue
+    return cov
+
+
 def main():
     start_override = None
     if "--from" in sys.argv:
@@ -168,7 +186,10 @@ def main():
     idx = load_index()
     frontier = idx["frontier"]
     start = start_override if start_override is not None else max(SEED_FRONTIER, frontier - OVERLAP)
-    triples = ingested_triples(idx)
+    # Dedup against both previously ingested stories and races already in the
+    # committed baseline data (so a duplicate re-post of a historical race is skipped).
+    triples = existing_coverage()
+    triples.update(ingested_triples(idx))
 
     print(f"scan start={start} frontier={frontier} gap={GAP} max_fetch={MAX_FETCH}")
     sid = start
