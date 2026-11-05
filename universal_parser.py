@@ -557,43 +557,53 @@ def resolve_initials(rows):
     return rows
 
 
+def _resolve_opps(runs):
+    """Resolve opponent initials ("J Beckman") to full names within each race."""
+    by_race = {}
+    for r in runs:
+        by_race.setdefault(r["race_id"], []).append(r)
+    for race_id, rs in by_race.items():
+        full_map = {}
+        for r in rs:
+            n = r["driver"]
+            if " " in n and len(n.split()[0]) > 1 and not n.startswith("'"):
+                last = n.split()[-1].rstrip(",.")
+                first = n.split()[0]
+                key = f"{first[0]} {last}"
+                full_map.setdefault(key, n)
+        for r in rs:
+            resolved = []
+            for opp in r.get("opps", []):
+                if re.match(r"^[A-Z]\s+[A-Z]", opp) or re.match(r"^[A-Z]\.?[A-Z]?\.?\s+[A-Z]", opp):
+                    key = f"{opp[0]} {opp.split()[-1].rstrip(',.')}"
+                    resolved.append(full_map.get(key, opp))
+                else:
+                    resolved.append(opp)
+            r["opps"] = resolved
+
+
+def _years_for_class(class_code):
+    """Every year with a <year>_<class>_summaries.txt file (generic, no hardcoding)."""
+    years = []
+    for fp in RAW.glob(f"*_{class_code}_summaries.txt"):
+        m = re.match(r"(\d{4})_", fp.name)
+        if m:
+            years.append(int(m.group(1)))
+    return sorted(set(years))
+
+
 def parse_class_files(class_code):
-    """Parse 2025 and 2026 summary files for one class and return a list of rows
-    with year, race, class metadata attached. Also resolves opps from shorthand
-    initials ("J Beckman") to full names within each race.
-    """
+    """Parse every year's summary file for one class and return run rows with
+    year/race/class metadata attached, opponent initials resolved."""
     out = []
-    for year in (2023, 2024, 2025, 2026):
+    for year in _years_for_class(class_code):
         fpath = RAW / f"{year}_{class_code}_summaries.txt"
         if not fpath.exists():
             continue
         text = fpath.read_text(encoding="utf-8")
         runs = parse_summaries(text)
         runs = resolve_initials(runs)
-        # Resolve opponents (the parser writes them in raw form — some may be
-        # initial-shorthand). Use the same per-race full-name map.
-        by_race = {}
-        for r in runs:
-            by_race.setdefault(r["race_id"], []).append(r)
-        for race_id, rs in by_race.items():
-            full_map = {}
-            for r in rs:
-                n = r["driver"]
-                if " " in n and len(n.split()[0]) > 1 and not n.startswith("'"):
-                    last = n.split()[-1].rstrip(",.")
-                    first = n.split()[0]
-                    key = f"{first[0]} {last}"
-                    full_map.setdefault(key, n)
-            for r in rs:
-                resolved = []
-                for opp in r.get("opps", []):
-                    if re.match(r"^[A-Z]\s+[A-Z]", opp) or re.match(r"^[A-Z]\.?[A-Z]?\.?\s+[A-Z]", opp):
-                        key = f"{opp[0]} {opp.split()[-1].rstrip(',.')}"
-                        resolved.append(full_map.get(key, opp))
-                    else:
-                        resolved.append(opp)
-                r["opps"] = resolved
-
+        _resolve_opps(runs)
         for r in runs:
             race_name = RACE_NAMES.get(r["race_id"], r["race_id"])
             date = RACE_DATES.get(r["race_id"], "")
@@ -616,12 +626,54 @@ def parse_class_files(class_code):
     return out
 
 
+def parse_discovered():
+    """Parse auto-discovered stories (raw_data/stories/<id>.txt) using the
+    class/race/year/date recorded in raw_data/discovered.json by drc_discover.py.
+    Returns run rows in the same shape as parse_class_files. Any (class,race,year)
+    already present in the hand-built tables is skipped so history is never
+    double-counted."""
+    index = RAW / "discovered.json"
+    if not index.exists():
+        return []
+    idx = json.loads(index.read_text())
+    # (race_id already in the legacy tables) -> don't re-ingest
+    legacy_ids = set(RACE_NAMES) | set(RACE_DATES)
+    out = []
+    for sid, meta in sorted(idx.get("stories", {}).items()):
+        if meta.get("status") != "ingested" or sid in legacy_ids:
+            continue
+        body_path = RAW / "stories" / f"{sid}.txt"
+        if not body_path.exists():
+            continue
+        wrapped = f"===== RACE_ID={sid} =====\n{body_path.read_text(encoding='utf-8')}\n"
+        runs = parse_summaries(wrapped)
+        runs = resolve_initials(runs)
+        _resolve_opps(runs)
+        for r in runs:
+            out.append(
+                {
+                    "class": meta["class"],
+                    "race": meta["race"],
+                    "year": int(meta["year"]),
+                    "round": r["round"],
+                    "driver": r["driver"],
+                    "rt": r["rt"],
+                    "et": r["et"],
+                    "mph": r["mph"],
+                    "win": r["win"],
+                    "race_id": sid,
+                    "date": meta.get("date", ""),
+                    "opps": r.get("opps", []),
+                }
+            )
+    return out
+
+
 def write_class_csv(class_code, rows):
     """Write per-class per-year CSVs in the existing TF format
-    (race,round,driver,rt,et,mph,win).
-    """
-    for year in (2023, 2024, 2025, 2026):
-        yr_rows = [r for r in rows if r["year"] == year]
+    (race,round,driver,rt,et,mph,win)."""
+    for year in sorted({r["year"] for r in rows if r["class"] == class_code}):
+        yr_rows = [r for r in rows if r["year"] == year and r["class"] == class_code]
         if not yr_rows:
             continue
         out_path = ROOT / f"{year}_{class_code}_runs.csv"
@@ -739,12 +791,15 @@ def main():
     ps_rows = parse_class_files("PS")
     pm_rows = parse_class_files("PM")
 
-    write_class_csv("TF", tf_rows)
-    write_class_csv("FC", fc_rows)
-    write_class_csv("PS", ps_rows)
-    write_class_csv("PM", pm_rows)
-
     all_rows = tf_rows + fc_rows + ps_rows + pm_rows
+    # Auto-discovered stories (new races scraped by drc_discover.py)
+    discovered = parse_discovered()
+    if discovered:
+        print(f"Discovered stories added: {len(discovered)} runs")
+        all_rows += discovered
+
+    for code in ("TF", "FC", "PS", "PM"):
+        write_class_csv(code, all_rows)
 
     write_master(all_rows)
     write_races(all_rows)
