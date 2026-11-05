@@ -22,10 +22,14 @@ on:
   push:
     branches: [claude/cool-davinci-vxlzac]   # lets the pipeline be tested on the dev branch
     paths:
-      - "**.py"
+      - run.py
+      - drc_discover.py
+      - universal_parser.py
+      - build_artifact.py
+      - race_resolver.py
+      - pdra_data.py
       - rt_di_artifact.html
       - CNAME
-      - .github/workflows/rtdi.yml
 
 permissions:
   contents: write
