@@ -5,10 +5,51 @@ Run after universal_parser.py has produced master_runs.csv.
 
 import csv
 import json
+from datetime import date as _date
 from pathlib import Path
 from collections import Counter
 
 ROOT = Path(__file__).parent
+RAW = ROOT / "raw_data"
+DEFAULT_VERSION = "v1.7.1"
+
+
+def _load_discovered():
+    """Return (dates, cities): (race,year)->date and (race,year)->DRC city, for
+    auto-discovered stories. Hand-built RACE_DATES below take precedence."""
+    idx = RAW / "discovered.json"
+    dates, cities = {}, {}
+    if idx.exists():
+        data = json.loads(idx.read_text())
+        for meta in data.get("stories", {}).values():
+            if meta.get("status") == "ingested" and meta.get("race") and meta.get("year"):
+                key = (meta["race"], int(meta["year"]))
+                if meta.get("date"):
+                    dates[key] = meta["date"]
+                if meta.get("city"):
+                    cities[key] = meta["city"].title()
+    return dates, cities
+
+
+def _read_version():
+    vf = RAW / "version.txt"
+    if vf.exists():
+        v = vf.read_text().strip()
+        if v:
+            return v
+    return DEFAULT_VERSION
+
+
+def _fmt_ticker(race, year, iso_date, city):
+    """Ticker string in the existing style, e.g.
+    'NHRA Nevada Nationals — Las Vegas — 11.01.26'."""
+    bits = [f"NHRA {race}"]
+    if city:
+        bits.append(city)
+    if iso_date:
+        y, m, d = iso_date.split("-")
+        bits.append(f"{m}.{d}.{y[2:]}")
+    return " — ".join(bits)
 
 # Canonical race name → date (used for TF/FC/PS/PM and PDRA after normalization)
 RACE_DATES = {
@@ -157,11 +198,16 @@ def main():
     except ImportError:
         print("WARN: pdra_data not loaded")
 
+    # Merge auto-discovered race dates/cities (hand-built RACE_DATES win)
+    disc_dates, disc_cities = _load_discovered()
+    merged_dates = dict(disc_dates)
+    merged_dates.update(RACE_DATES)  # curated values override discovered ones
+
     # Build races meta — for every (race, year) present in the data
     race_meta = {}
     races_in_data = set((r["r"], r["y"]) for r in rows)
     for (race, year) in races_in_data:
-        race_meta[(race, year)] = RACE_DATES.get((race, year), "")
+        race_meta[(race, year)] = merged_dates.get((race, year), "")
 
     # Average field-size per class per year (R1 unique drivers / # races)
     by_class_year = {}
@@ -176,6 +222,15 @@ def main():
         sizes = [len(d) for d in races.values()]
         field_avg["{}_{}".format(*key)] = round(sum(sizes) / len(sizes), 1) if sizes else 0
 
+    # Latest-dated race drives the ticker (lastRace)
+    dated = [(d, r, y) for (r, y), d in race_meta.items() if d]
+    if dated:
+        last_date, last_race, last_year = max(dated)
+        ticker = _fmt_ticker(last_race, last_year, last_date,
+                             disc_cities.get((last_race, last_year), ""))
+    else:
+        ticker = "NHRA RT.DI"
+
     data = {
         "runs": rows,
         "races": [
@@ -183,8 +238,8 @@ def main():
             for k, v in sorted(race_meta.items(), key=lambda kv: (kv[1] or "", kv[0][0]))
         ],
         "fieldAvg": field_avg,
-        "version": "v1.7.1",
-        "lastRace": "NHRA Nevada Nationals — Las Vegas, NV — 11.01.26",
+        "version": _read_version(),
+        "lastRace": ticker,
     }
 
     out_json = ROOT / "rt_di_data.json"

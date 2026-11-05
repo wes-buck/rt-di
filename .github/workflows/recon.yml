@@ -1,16 +1,21 @@
 name: DRC Recon (temporary)
 
-# Proves dragracecentral.com is reachable from GitHub's servers (RT.DI plan step 4)
-# and dumps page structure so auto-discovery + date extraction can be designed.
-# Temporary: delete once the production pipeline is in place.
+# Validates drc_discover.py against LIVE DragRaceCentral from GitHub's servers,
+# scanning a known range into a sandbox (no committed state touched) so the
+# class/name/date classification can be checked before the production pipeline
+# is turned on. Temporary: removed once validated.
 on:
   workflow_dispatch:
   push:
     branches: [claude/cool-davinci-vxlzac]
-    paths: [tools/recon_drc.py, .github/workflows/recon.yml]
+    paths:
+      - tools/recon_drc.py
+      - .github/workflows/recon.yml
+      - drc_discover.py
+      - race_resolver.py
 
 jobs:
-  recon:
+  validate:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -18,12 +23,19 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
-      - name: Fetch sample DRC stories and report
-        run: python3 -I tools/recon_drc.py
-      - name: Upload raw HTML + findings
+      - name: Discovery dry-run over a known weekend (sandbox)
+        env:
+          RTDI_INDEX: /tmp/idx.json
+          RTDI_STORIES: /tmp/stories
+          RTDI_SCAN_MAX_FETCH: "60"
+        run: |
+          python3 -I drc_discover.py --from 424110
+          echo "===== resulting sandbox index ====="
+          cat /tmp/idx.json
+      - name: Upload sandbox output
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: drc-recon
-          path: recon_out/
+          name: drc-validate
+          path: /tmp/stories/
           retention-days: 7
