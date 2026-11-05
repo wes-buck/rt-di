@@ -1,0 +1,296 @@
+race,round,driver,rt,et,mph,win
+Nevada Nationals,1,Jordan Lazic,0.017,5.788,245.72,True
+Nevada Nationals,1,Billy Banaka,0.111,5.796,245.67,False
+Nevada Nationals,1,Kevin Rivenbark,0.054,5.754,247.25,True
+Nevada Nationals,1,Khalid alBalooshi,0.122,5.797,232.07,False
+Nevada Nationals,1,Justin Bond,0.025,5.801,239.82,True
+Nevada Nationals,1,Stan Shelton,0.039,5.789,244.47,False
+Nevada Nationals,1,Mike Thielen,0.017,5.761,248.11,True
+Nevada Nationals,1,Sidnei Frigo,0.061,5.758,248.98,False
+Nevada Nationals,1,Kris Thorne,0.039,5.747,248.84,True
+Nevada Nationals,1,Mason Wright,0.074,5.802,244.74,False
+Nevada Nationals,1,Ken Quartuccio,0.034,5.765,244.03,True
+Nevada Nationals,1,JR Gray,0.028,5.786,246.66,False
+Nevada Nationals,1,Mike Castellana,0.047,5.746,247.7,True
+Nevada Nationals,1,Nick Januik,0.058,14.103,68.95,False
+Nevada Nationals,1,Mike Janis,0.064,5.733,245.54,True
+Nevada Nationals,1,Dmitry Samorukov,0.056,5.813,244.87,False
+Nevada Nationals,2,Jordan Lazic,0.068,5.793,245.0,True
+Nevada Nationals,2,Justin Bond,0.182,5.778,242.28,False
+Nevada Nationals,2,Mike Thielen,0.019,5.779,247.84,True
+Nevada Nationals,2,Mike Castellana,0.041,5.777,248.43,False
+Nevada Nationals,2,Mike Janis,0.039,5.729,245.85,True
+Nevada Nationals,2,Ken Quartuccio,-0.088,9.886,99.05,False
+Nevada Nationals,2,Kris Thorne,0.04,5.748,248.57,True
+Nevada Nationals,2,Kevin Rivenbark,0.013,5.791,246.03,False
+Nevada Nationals,3,Jordan Lazic,0.047,5.759,247.57,True
+Nevada Nationals,3,Kris Thorne,0.025,6.669,144.81,False
+Nevada Nationals,3,Mike Janis,0.007,5.729,246.53,True
+Nevada Nationals,3,Mike Thielen,0.015,5.774,247.66,False
+Nevada Nationals,4,Jordan Lazic,0.008,5.729,251.53,True
+Nevada Nationals,4,Mike Janis,-0.019,9.22,99.31,False
+Midwest Nationals,1,Mike Castellana,0.03,5.738,249.76,True
+Midwest Nationals,1,Kevin Rivenbark,0.05,5.821,246.98,False
+Midwest Nationals,1,Jordan Lazic,0.007,5.777,248.98,True
+Midwest Nationals,1,Nick Januik,0.048,5.904,242.19,False
+Midwest Nationals,1,JR Gray,0.044,5.769,248.98,True
+Midwest Nationals,1,Dmitry Samorukov,0.034,6.064,241.07,False
+Midwest Nationals,1,Justin Bond,0.087,5.772,245.23,True
+Midwest Nationals,1,Billy Banaka,0.161,5.74,249.03,False
+Midwest Nationals,1,Lyle Barnett,0.014,5.805,244.74,True
+Midwest Nationals,1,Kris Thorne,-0.006,10.158,85.85,False
+Midwest Nationals,1,Stan Shelton,0.01,5.766,245.99,True
+Midwest Nationals,1,Mike Stavrinos,0.044,5.781,245.27,False
+Midwest Nationals,1,Khalid alBalooshi,0.067,5.796,249.95,True
+Midwest Nationals,1,Doug Winters,0.008,8.061,115.59,False
+Midwest Nationals,1,Mason Wright,0.013,5.728,250.32,True
+Midwest Nationals,1,Chip King,0.072,7.158,128.1,False
+Midwest Nationals,2,Stan Shelton,0.013,5.811,244.92,True
+Midwest Nationals,2,Lyle Barnett,0.019,5.818,244.65,False
+Midwest Nationals,2,Jordan Lazic,0.015,5.741,249.39,True
+Midwest Nationals,2,JR Gray,0.037,5.766,250.51,False
+Midwest Nationals,2,Mason Wright,0.035,5.744,249.53,True
+Midwest Nationals,2,Mike Castellana,-0.006,5.764,249.86,False
+Midwest Nationals,2,Justin Bond,0.04,6.768,150.11,True
+Midwest Nationals,2,K alBalooshi,0.051,0.0,0.0,False
+Midwest Nationals,3,Stan Shelton,0.011,5.841,244.92,True
+Midwest Nationals,3,Jordan Lazic,0.001,6.744,146.42,False
+Midwest Nationals,3,Mason Wright,0.08,5.742,249.35,True
+Midwest Nationals,3,Justin Bond,0.07,5.792,244.83,False
+Midwest Nationals,4,Stan Shelton,0.047,5.786,245.58,True
+Midwest Nationals,4,Mason Wright,0.096,5.806,234.66,False
+Carolina Nationals,1,Jordan Lazic,0.041,5.752,249.44,True
+Carolina Nationals,1,Ken Quartuccio,0.027,5.808,245.72,False
+Carolina Nationals,1,Dmitry Samorukov,0.034,5.856,244.56,True
+Carolina Nationals,1,Jason Scruggs,0.038,7.361,132.22,False
+Carolina Nationals,1,Travis Harvey,0.014,5.787,246.44,True
+Carolina Nationals,1,Rickie Smith,0.043,9.089,101.58,False
+Carolina Nationals,1,Steve Jackson,0.039,5.972,206.01,True
+Carolina Nationals,1,Jose Gonzalez,0.034,6.28,223.95,False
+Carolina Nationals,1,Mike Janis,0.034,5.814,245.67,True
+Carolina Nationals,1,Kevin Rivenbark,0.037,5.846,245.67,False
+Carolina Nationals,1,Mike Castellana,0.051,5.791,249.07,True
+Carolina Nationals,1,Billy Banaka,0.07,5.827,247.66,False
+Carolina Nationals,1,Justin Bond,0.043,5.77,246.44,True
+Carolina Nationals,1,Chip King,0.086,9.12,98.94,False
+Carolina Nationals,1,Kris Thorne,0.024,5.845,242.23,True
+Carolina Nationals,1,Mason Wright,0.046,6.191,212.76,False
+Carolina Nationals,2,Dmitry Samorukov,0.052,5.807,245.36,True
+Carolina Nationals,2,Jordan Lazic,0.044,10.369,98.79,False
+Carolina Nationals,2,Kris Thorne,0.028,5.845,248.52,True
+Carolina Nationals,2,Mike Castellana,0.022,6.653,242.41,True
+Carolina Nationals,2,Justin Bond,0.055,0.0,0.0,False
+Carolina Nationals,2,Travis Harvey,0.032,5.801,247.34,True
+Carolina Nationals,2,Mike Janis,0.047,5.84,245.99,False
+Carolina Nationals,3,Dmitry Samorukov,0.069,5.8,245.76,True
+Carolina Nationals,3,Kris Thorne,0.047,5.823,249.72,False
+Carolina Nationals,3,Travis Harvey,0.034,5.811,247.38,True
+Carolina Nationals,3,Mike Castellana,0.073,5.877,248.66,False
+Carolina Nationals,4,Travis Harvey,0.029,5.786,247.61,True
+Carolina Nationals,4,Dmitry Samorukov,0.082,5.949,245.18,False
+US Nationals,1,Justin Bond,0.039,5.71,249.3,True
+US Nationals,1,Scott Wildgust,0.039,5.79,248.25,False
+US Nationals,1,Lyle Barnett,0.021,5.755,248.89,True
+US Nationals,1,Steve Jackson,0.05,5.809,244.03,False
+US Nationals,1,Khalid alBalooshi,0.075,5.724,251.11,True
+US Nationals,1,Mike Castellana,0.016,5.801,248.75,False
+US Nationals,1,Ken Quartuccio,0.053,5.747,249.49,True
+US Nationals,1,Sidnei Frigo,0.029,5.781,247.79,False
+US Nationals,1,Jordan Lazic,0.048,5.767,247.57,True
+US Nationals,1,Stan Shelton,0.042,5.799,247.38,False
+US Nationals,1,Mike Stavrinos,0.05,5.791,246.21,True
+US Nationals,1,Dmitry Samorukov,0.066,0.0,0.0,False
+US Nationals,1,Kevin Rivenbark,0.013,5.768,247.11,True
+US Nationals,1,JR Gray,-0.107,5.785,249.12,False
+US Nationals,1,Billy Banaka,0.05,5.765,247.38,True
+US Nationals,1,Mason Wright,0.077,5.816,246.84,False
+US Nationals,2,Billy Banaka,0.06,5.817,245.76,True
+US Nationals,2,Justin Bond,0.037,5.851,240.51,False
+US Nationals,2,Kevin Rivenbark,0.033,6.357,231.83,True
+US Nationals,2,K alBalooshi,0.081,10.513,84.45,False
+US Nationals,2,Ken Quartuccio,0.025,5.818,247.61,True
+US Nationals,2,Lyle Barnett,-0.004,5.783,248.11,False
+US Nationals,2,Mike Stavrinos,0.044,5.809,246.3,True
+US Nationals,2,Jordan Lazic,0.067,5.792,246.71,False
+US Nationals,3,Ken Quartuccio,0.023,5.789,245.67,True
+US Nationals,3,Kevin Rivenbark,0.024,5.808,245.09,False
+US Nationals,3,Mike Stavrinos,0.041,5.814,243.9,True
+US Nationals,3,Billy Banaka,0.076,5.798,246.08,False
+US Nationals,4,Ken Quartuccio,0.029,5.766,247.34,True
+US Nationals,4,Mike Stavrinos,0.008,5.937,244.52,False
+Virginia Nationals,1,Jordan Lazic,0.05,5.81,249.35,True
+Virginia Nationals,1,Dmitry Samorukov,0.03,5.892,244.03,False
+Virginia Nationals,1,Rickie Smith,0.051,5.809,252.57,True
+Virginia Nationals,1,Lyle Barnett,0.023,5.87,247.07,False
+Virginia Nationals,1,Kris Thorne,0.065,5.871,248.8,True
+Virginia Nationals,1,Khalid alBalooshi,0.067,5.87,247.16,False
+Virginia Nationals,1,Jason Scruggs,0.03,5.788,250.18,True
+Virginia Nationals,1,Mike Stavrinos,0.053,5.987,241.32,False
+Virginia Nationals,1,JR Gray,0.028,5.885,248.29,True
+Virginia Nationals,1,Sidnei Frigo,0.056,13.213,96.65,False
+Virginia Nationals,1,Justin Bond,0.049,5.829,247.29,True
+Virginia Nationals,1,Mason Wright,0.062,5.922,245.09,False
+Virginia Nationals,1,Kevin Rivenbark,0.047,10.992,88.65,True
+Virginia Nationals,1,Ken Quartuccio,0.039,5.855,246.12,True
+Virginia Nationals,1,Mike Castellana,0.04,5.857,247.02,False
+Virginia Nationals,2,Kevin Rivenbark,0.038,5.771,245.76,True
+Virginia Nationals,2,Jordan Lazic,0.046,5.871,233.6,False
+Virginia Nationals,2,Jason Scruggs,0.023,5.748,249.49,True
+Virginia Nationals,2,Ken Quartuccio,0.023,5.768,248.43,False
+Virginia Nationals,2,Rickie Smith,0.05,5.746,253.71,True
+Virginia Nationals,2,JR Gray,0.019,6.297,238.93,False
+Virginia Nationals,2,Kris Thorne,0.027,5.739,251.77,True
+Virginia Nationals,2,Justin Bond,0.041,5.769,248.75,False
+Virginia Nationals,3,Rickie Smith,0.011,5.745,252.85,True
+Virginia Nationals,3,Jason Scruggs,0.036,8.149,115.6,False
+Virginia Nationals,3,Kris Thorne,0.07,5.721,252.0,True
+Virginia Nationals,3,Kevin Rivenbark,0.044,5.756,246.17,False
+Virginia Nationals,4,Rickie Smith,0.018,5.702,253.37,True
+Virginia Nationals,4,Kris Thorne,0.078,5.714,252.43,False
+Thunder Valley Nationals,1,Jose Gonzalez,0.014,5.806,247.79,True
+Thunder Valley Nationals,1,Kevin Rivenbark,0.02,5.838,244.34,False
+Thunder Valley Nationals,1,Ken Quartuccio,0.03,5.809,244.6,True
+Thunder Valley Nationals,1,Dwayne Wolfe,0.032,7.83,121.54,False
+Thunder Valley Nationals,1,Mike Castellana,0.02,5.783,247.57,True
+Thunder Valley Nationals,1,Lyle Barnett,0.025,5.803,245.4,False
+Thunder Valley Nationals,1,Billy Banaka,0.002,5.853,233.44,True
+Thunder Valley Nationals,1,Khalid alBalooshi,0.041,5.837,246.62,False
+Thunder Valley Nationals,1,Kris Thorne,0.04,5.756,249.86,True
+Thunder Valley Nationals,1,Rickie Smith,0.061,6.017,190.67,False
+Thunder Valley Nationals,1,JR Gray,0.04,5.868,247.43,True
+Thunder Valley Nationals,1,Doug Winters,0.036,6.012,227.8,False
+Thunder Valley Nationals,1,Mike Thielen,0.03,5.857,246.03,True
+Thunder Valley Nationals,1,Justin Bond,0.043,5.957,244.34,False
+Thunder Valley Nationals,1,Dmitry Samorukov,0.033,5.835,244.69,True
+Thunder Valley Nationals,1,Jordan Lazic,0.08,5.844,247.66,False
+Thunder Valley Nationals,2,Jose Gonzalez,0.028,5.815,247.2,True
+Thunder Valley Nationals,2,Billy Banaka,0.104,5.883,239.82,False
+Thunder Valley Nationals,2,Mike Thielen,0.008,5.866,246.44,True
+Thunder Valley Nationals,2,Mike Castellana,0.022,6.039,196.59,False
+Thunder Valley Nationals,2,Kris Thorne,0.025,6.147,185.61,True
+Thunder Valley Nationals,2,Ken Quartuccio,-0.076,5.821,240.59,False
+Thunder Valley Nationals,2,JR Gray,0.033,5.808,247.93,True
+Thunder Valley Nationals,2,Dmitry Samorukov,-0.01,5.85,237.46,False
+Thunder Valley Nationals,3,Kris Thorne,0.03,5.82,248.29,True
+Thunder Valley Nationals,3,Jose Gonzalez,0.025,5.826,247.66,False
+Thunder Valley Nationals,3,JR Gray,0.034,5.844,247.38,True
+Thunder Valley Nationals,3,Mike Thielen,-0.017,5.872,246.62,False
+Thunder Valley Nationals,4,Kris Thorne,0.062,5.937,203.55,True
+Thunder Valley Nationals,4,JR Gray,0.048,0.0,0.0,False
+New England Nationals,1,Sidnei Frigo,0.049,5.819,251.16,True
+New England Nationals,1,Billy Banaka,0.068,5.845,246.26,False
+New England Nationals,1,Dmitry Samorukov,0.009,5.813,245.72,True
+New England Nationals,1,Justin Bond,0.041,5.797,245.58,False
+New England Nationals,1,Kevin Rivenbark,0.037,5.739,249.58,True
+New England Nationals,1,Tony Wilson,0.011,7.668,124.71,False
+New England Nationals,1,Ken Quartuccio,0.049,5.772,249.12,True
+New England Nationals,1,Mike Castellana,0.052,5.791,248.29,False
+New England Nationals,1,Jordan Lazic,0.013,5.772,252.24,True
+New England Nationals,1,Lyle Barnett,0.021,5.832,248.02,False
+New England Nationals,1,Mason Wright,0.033,5.795,247.02,True
+New England Nationals,1,Mike Thielen,0.041,5.898,249.26,False
+New England Nationals,1,Jose Gonzalez,0.031,5.771,251.16,True
+New England Nationals,1,Khalid alBalooshi,0.045,5.792,249.81,False
+New England Nationals,1,Kris Thorne,0.02,5.783,246.75,True
+New England Nationals,1,JR Gray,0.042,5.804,251.53,False
+New England Nationals,2,Sidnei Frigo,0.036,5.797,251.77,True
+New England Nationals,2,Dmitry Samorukov,0.048,5.81,247.02,False
+New England Nationals,2,Mason Wright,0.032,5.771,248.02,True
+New England Nationals,2,Kevin Rivenbark,0.019,5.798,246.8,False
+New England Nationals,2,Kris Thorne,0.111,5.779,248.98,True
+New England Nationals,2,Ken Quartuccio,0.032,7.317,125.49,False
+New England Nationals,2,Jordan Lazic,0.034,5.92,204.01,True
+New England Nationals,2,Jose Gonzalez,-0.017,5.845,232.51,False
+New England Nationals,3,Jordan Lazic,0.031,5.767,251.02,True
+New England Nationals,3,Sidnei Frigo,-0.057,13.258,75.08,False
+New England Nationals,3,Mason Wright,0.044,5.752,249.07,True
+New England Nationals,3,Kris Thorne,0.045,5.775,249.53,False
+New England Nationals,4,Mason Wright,0.047,5.74,249.72,True
+New England Nationals,4,Jordan Lazic,0.079,5.733,254.47,False
+Route 66,1,Khalid alBalooshi,0.064,5.725,248.75,True
+Route 66,1,Jason Lee,0.0,5.84,237.63,False
+Route 66,1,Justin Bond,0.071,5.7,249.16,True
+Route 66,1,Mason Wright,-0.007,7.344,100.28,False
+Route 66,1,Jordan Lazic,0.049,5.687,253.04,True
+Route 66,1,Mike Thielen,0.036,5.752,251.11,False
+Route 66,1,Ken Quartuccio,0.019,5.716,166.11,True
+Route 66,1,Dwayne Wolfe,0.084,8.492,109.1,False
+Route 66,1,Eric Dillard,0.056,5.769,250.69,True
+Route 66,1,Stan Shelton,0.009,6.943,146.18,False
+Route 66,1,Billy Banaka,0.01,5.741,249.67,True
+Route 66,1,Dmitry Samorukov,0.044,5.772,245.32,False
+Route 66,1,Kris Thorne,0.041,5.777,248.52,True
+Route 66,1,JR Gray,0.001,7.704,130.62,False
+Route 66,1,Lyle Barnett,0.016,5.759,249.49,True
+Route 66,1,Kevin Rivenbark,0.014,7.463,126.03,False
+Route 66,2,Billy Banaka,0.131,6.019,193.68,True
+Route 66,2,Lyle Barnett,0.006,8.866,101.71,False
+Route 66,2,K alBalooshi,0.055,8.086,111.07,True
+Route 66,2,Ken Quartuccio,-0.014,5.738,250.09,False
+Route 66,2,Eric Dillard,0.053,5.758,250.09,True
+Route 66,2,Justin Bond,0.038,5.85,249.49,False
+Route 66,2,Kris Thorne,0.021,5.762,250.64,True
+Route 66,2,Jordan Lazic,0.044,7.829,118.66,False
+Route 66,3,K alBalooshi,0.061,5.788,248.8,True
+Route 66,3,Kris Thorne,-0.006,9.688,94.65,False
+Route 66,3,Eric Dillard,0.085,5.765,249.67,True
+Route 66,3,Billy Banaka,0.163,5.824,246.62,False
+Route 66,4,Eric Dillard,0.043,5.766,249.95,True
+Route 66,4,K alBalooshi,0.042,11.656,70.29,False
+Arizona Nationals,1,Kevin Rivenbark,0.028,5.776,250.23,True
+Arizona Nationals,1,Mike Castellana,0.047,8.6,105.46,False
+Arizona Nationals,1,Jose Gonzalez,0.016,6.676,147.44,True
+Arizona Nationals,1,Mike Thielen,0.012,9.901,81.52,False
+Arizona Nationals,1,Ken Quartuccio,0.044,5.731,249.86,True
+Arizona Nationals,1,Billy Banaka,0.025,5.738,252.0,True
+Arizona Nationals,1,Mike Stavrinos,0.038,5.895,242.5,False
+Arizona Nationals,1,Mason Wright,0.031,5.749,248.84,True
+Arizona Nationals,1,Dmitry Samorukov,0.074,11.337,77.0,False
+Arizona Nationals,1,JR Gray,0.032,6.167,242.23,True
+Arizona Nationals,1,Stan Shelton,0.043,6.296,234.33,False
+Arizona Nationals,1,Justin Bond,0.049,5.681,251.11,True
+Arizona Nationals,1,Jason Lee,0.037,5.929,235.06,False
+Arizona Nationals,1,Lyle Barnett,0.02,5.774,248.66,True
+Arizona Nationals,1,Khalid alBalooshi,0.08,5.716,252.85,False
+Arizona Nationals,2,Mason Wright,0.012,5.766,247.93,True
+Arizona Nationals,2,Jose Gonzalez,0.013,7.675,123.71,False
+Arizona Nationals,2,Ken Quartuccio,0.031,5.756,249.44,True
+Arizona Nationals,2,Lyle Barnett,0.02,5.816,248.57,False
+Arizona Nationals,2,Kevin Rivenbark,0.021,10.048,85.6,True
+Arizona Nationals,2,Justin Bond,0.022,31.055,98.64,False
+Arizona Nationals,2,Billy Banaka,0.059,5.761,251.53,True
+Arizona Nationals,2,JR Gray,0.014,6.238,219.97,False
+Arizona Nationals,3,Kevin Rivenbark,0.038,5.738,251.02,True
+Arizona Nationals,3,Mason Wright,0.065,6.235,210.7,False
+Arizona Nationals,3,Ken Quartuccio,0.025,5.748,248.98,True
+Arizona Nationals,3,Billy Banaka,0.036,5.998,192.47,False
+Arizona Nationals,4,Kevin Rivenbark,0.032,5.746,249.76,True
+Arizona Nationals,4,Ken Quartuccio,0.05,5.828,238.47,False
+Gatornationals,1,Tony Wilson,0.036,6.288,218.19,True
+Gatornationals,1,Stan Shelton,0.022,6.595,212.46,False
+Gatornationals,1,Ken Quartuccio,0.036,5.703,250.37,True
+Gatornationals,1,Billy Banaka,0.006,5.774,249.3,False
+Gatornationals,1,Mike Thielen,0.041,5.713,246.17,True
+Gatornationals,1,Scott Wildgust,0.014,9.821,90.03,False
+Gatornationals,1,Jason Scruggs,0.042,5.833,247.79,True
+Gatornationals,1,Kevin Rivenbark,0.061,7.368,143.03,False
+Gatornationals,1,Mason Wright,0.041,5.719,249.07,True
+Gatornationals,1,Lyle Barnett,0.013,5.787,246.26,False
+Gatornationals,1,Jose Gonzalez,0.0,7.152,152.83,True
+Gatornationals,1,Dwayne Wolfe,-0.012,5.691,253.37,False
+Gatornationals,1,Justin Bond,0.037,5.653,251.67,True
+Gatornationals,1,JR Gray Jr.,0.038,6.274,243.77,False
+Gatornationals,1,Kris Thorne,0.032,5.768,249.9,True
+Gatornationals,1,Mike Castellana,0.025,9.507,93.7,False
+Gatornationals,2,Kris Thorne,0.036,5.953,218.44,True
+Gatornationals,2,Mason Wright,0.064,6.054,237.38,False
+Gatornationals,2,Mike Thielen,0.022,6.784,143.26,True
+Gatornationals,2,Jose Gonzalez,0.021,5.704,252.95,True
+Gatornationals,2,Justin Bond,0.132,5.657,251.11,False
+Gatornationals,2,Jason Scruggs,0.03,5.682,249.67,True
+Gatornationals,2,Ken Quartuccio,0.025,11.239,63.08,False
+Gatornationals,3,Kris Thorne,0.039,5.709,249.95,True
+Gatornationals,3,Mike Thielen,0.024,8.652,106.99,False
+Gatornationals,3,Jose Gonzalez,0.092,5.701,252.9,True
+Gatornationals,4,Jose Gonzalez,0.022,5.685,253.23,True
+Gatornationals,4,Kris Thorne,0.081,10.333,80.64,False

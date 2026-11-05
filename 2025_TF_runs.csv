@@ -1,0 +1,516 @@
+race,round,driver,rt,et,mph,win
+Gatornationals,1,Clay Millican,0.071,4.365,283.49,True
+Gatornationals,1,Josh Hart,0.069,6.599,94.69,False
+Gatornationals,1,Tony Stewart,0.075,3.722,329.91,True
+Gatornationals,1,Brittany Force,0.077,8.643,74.73,False
+Gatornationals,1,Shawn Langdon,0.062,5.02,235.19,True
+Gatornationals,1,Justin Ashley,0.04,5.682,130.61,False
+Gatornationals,1,Antron Brown,0.06,4.664,253.18,True
+Gatornationals,1,Krista Baldwin,0.088,5.241,183.67,False
+Gatornationals,1,Doug Kalitta,0.069,5.575,193.13,True
+Gatornationals,1,Ida Zetterstrom,0.092,11.004,74.49,False
+Gatornationals,1,Dan Mercier,0.077,4.161,308.28,True
+Gatornationals,1,Tripp Tatum,0.031,0.0,0.0,False
+Gatornationals,1,Steve Torrence,0.076,3.749,335.15,True
+Gatornationals,1,Doug Foley,0.089,3.757,318.47,False
+Gatornationals,1,Jasmine Salinas,0.105,3.753,330.23,True
+Gatornationals,1,Shawn Reed,0.106,4.1,275.79,False
+Gatornationals,2,Antron Brown,0.052,3.721,333.25,True
+Gatornationals,2,Clay Millican,0.064,3.772,324.9,False
+Gatornationals,2,Jasmine Salinas,0.09,3.751,333.99,True
+Gatornationals,2,Dan Mercier,0.081,3.848,310.91,False
+Gatornationals,2,Steve Torrence,0.07,3.975,278.63,True
+Gatornationals,2,Doug Kalitta,0.049,4.051,281.07,False
+Gatornationals,2,Shawn Langdon,0.048,3.739,333.82,True
+Gatornationals,2,Tony Stewart,0.076,3.742,331.53,False
+Gatornationals,3,Shawn Langdon,0.063,3.727,332.84,True
+Gatornationals,3,Jasmine Salinas,0.088,3.777,328.94,False
+Gatornationals,3,Antron Brown,0.032,3.754,324.36,True
+Gatornationals,3,Steve Torrence,0.044,3.773,329.1,False
+Gatornationals,4,Antron Brown,0.036,3.673,333.99,True
+Gatornationals,4,Shawn Langdon,0.046,3.684,332.67,False
+Arizona Nationals,1,Tony Stewart,0.088,4.94,189.84,True
+Arizona Nationals,1,Shawn Reed,0.099,7.961,64.16,False
+Arizona Nationals,1,Justin Ashley,0.049,3.805,327.19,True
+Arizona Nationals,1,Ida Zetterstrom,0.1,3.818,324.51,False
+Arizona Nationals,1,Brittany Force,0.092,3.779,320.89,True
+Arizona Nationals,1,Steven Chrisman,0.135,4.089,254.9,False
+Arizona Nationals,1,Doug Kalitta,0.082,3.762,325.92,True
+Arizona Nationals,1,Travis Shumake,0.096,3.829,330.88,False
+Arizona Nationals,1,Shawn Langdon,0.066,3.783,323.66,True
+Arizona Nationals,1,Scott Palmer,0.072,3.918,296.57,False
+Arizona Nationals,1,Antron Brown,0.072,3.77,329.34,True
+Arizona Nationals,1,Josh Hart,0.061,3.81,322.27,False
+Arizona Nationals,1,Jasmine Salinas,0.122,3.779,328.7,True
+Arizona Nationals,1,Clay Millican,0.119,3.815,319.98,False
+Arizona Nationals,2,Shawn Langdon,0.054,3.841,311.49,True
+Arizona Nationals,2,Justin Ashley,0.072,4.124,246.08,False
+Arizona Nationals,2,Brittany Force,0.103,3.793,328.38,True
+Arizona Nationals,2,Tony Stewart,0.09,5.328,135.0,False
+Arizona Nationals,2,Jasmine Salinas,0.115,3.821,322.88,True
+Arizona Nationals,2,Antron Brown,0.085,3.87,314.24,False
+Arizona Nationals,2,Doug Kalitta,0.1,3.821,322.27,True
+Arizona Nationals,3,Doug Kalitta,0.066,3.767,317.94,True
+Arizona Nationals,3,Jasmine Salinas,0.111,3.809,320.66,False
+Arizona Nationals,3,Shawn Langdon,0.094,3.833,325.37,True
+Arizona Nationals,4,Shawn Langdon,0.05,3.724,330.39,True
+Arizona Nationals,4,Doug Kalitta,0.076,3.77,325.53,False
+Winternationals,1,Tony Stewart,0.06,3.713,314.68,True
+Winternationals,1,Antron Brown,0.086,5.253,139.7,False
+Winternationals,1,Josh Hart,0.05,3.675,332.67,True
+Winternationals,1,Justin Ashley,0.04,4.536,184.75,False
+Winternationals,1,Brittany Force,0.093,3.7,337.75,True
+Winternationals,1,Steven Chrisman,0.155,4.048,252.61,False
+Winternationals,1,Shawn Langdon,0.059,3.668,331.28,True
+Winternationals,1,Ida Zetterstrom,0.092,3.806,278.4,False
+Winternationals,1,Doug Kalitta,0.08,3.66,338.34,True
+Winternationals,1,Scott Palmer,0.09,3.852,288.52,False
+Winternationals,1,Clay Millican,0.051,3.874,282.54,True
+Winternationals,1,Shawn Reed,0.058,4.696,238.01,False
+Winternationals,1,Jasmine Salinas,0.072,3.716,331.45,True
+Winternationals,1,Steve Torrence,-0.136,9.274,82.19,False
+Winternationals,2,Clay Millican,0.058,3.717,313.37,True
+Winternationals,2,Jasmine Salinas,0.082,3.707,331.69,False
+Winternationals,2,Brittany Force,0.072,3.693,332.26,True
+Winternationals,2,Shawn Langdon,0.041,3.691,334.73,True
+Winternationals,2,Josh Hart,0.074,11.965,61.44,False
+Winternationals,2,Tony Stewart,0.049,3.702,332.92,True
+Winternationals,2,Doug Kalitta,0.072,4.456,178.26,False
+Winternationals,3,Clay Millican,0.051,3.75,324.12,True
+Winternationals,3,Brittany Force,0.087,3.812,263.92,False
+Winternationals,3,Tony Stewart,0.064,3.723,330.07,True
+Winternationals,3,Shawn Langdon,0.055,3.835,316.01,False
+Winternationals,4,Clay Millican,0.038,4.273,189.71,True
+Winternationals,4,Tony Stewart,0.065,6.187,99.83,False
+4-Wide Nationals,1,Tony Stewart,0.071,3.864,321.19,True
+4-Wide Nationals,1,Steve Torrence,0.092,3.846,328.94,True
+4-Wide Nationals,1,Steven Chrisman,0.185,4.097,279.79,False
+4-Wide Nationals,1,Rob Passey,0.132,4.722,185.38,False
+4-Wide Nationals,1,Antron Brown,0.052,3.779,329.02,True
+4-Wide Nationals,1,Jasmine Salinas,0.04,3.93,290.76,True
+4-Wide Nationals,1,Scott Palmer,0.071,4.772,141.24,False
+4-Wide Nationals,1,Shawn Langdon,0.054,5.021,151.87,False
+4-Wide Nationals,1,Shawn Reed,0.121,3.851,321.58,True
+4-Wide Nationals,1,Josh Hart,0.066,4.19,237.75,True
+4-Wide Nationals,1,Brittany Force,0.051,4.293,285.41,False
+4-Wide Nationals,1,Terry Totten,0.096,5.261,134.36,False
+4-Wide Nationals,1,Doug Kalitta,0.057,3.774,317.12,True
+4-Wide Nationals,1,Justin Ashley,0.041,4.022,280.08,True
+4-Wide Nationals,1,Clay Millican,0.063,4.08,230.53,False
+4-Wide Nationals,2,Antron Brown,0.08,3.903,313.88,True
+4-Wide Nationals,2,Jasmine Salinas,0.076,3.994,307.23,True
+4-Wide Nationals,2,Shawn Reed,0.095,4.514,267.85,False
+4-Wide Nationals,2,Josh Hart,0.084,6.319,101.76,False
+4-Wide Nationals,2,Tony Stewart,0.052,3.943,303.5,True
+4-Wide Nationals,2,Justin Ashley,0.024,4.09,269.94,True
+4-Wide Nationals,2,Steve Torrence,0.23,3.928,294.82,False
+4-Wide Nationals,2,Doug Kalitta,-0.351,7.089,105.31,False
+4-Wide Nationals,3,Tony Stewart,0.082,3.87,317.42,True
+4-Wide Nationals,3,Antron Brown,0.058,3.912,302.35,False
+4-Wide Nationals,3,Justin Ashley,0.049,3.965,304.25,False
+4-Wide Nationals,3,Jasmine Salinas,0.086,4.237,196.67,False
+Route 66,1,Josh Hart,0.066,3.733,330.07,True
+Route 66,1,Clay Millican,0.059,3.746,328.7,False
+Route 66,1,Shawn Reed,0.07,3.75,334.4,True
+Route 66,1,Dan Mercier,0.101,3.748,329.26,False
+Route 66,1,Antron Brown,0.062,3.689,337.16,True
+Route 66,1,T.J. Zizzo,0.045,10.108,80.54,False
+Route 66,1,Tony Stewart,0.071,3.694,329.26,True
+Route 66,1,Terry Totten,0.127,4.276,212.43,False
+Route 66,1,Doug Kalitta,0.098,3.724,332.02,True
+Route 66,1,Lex Joon,0.092,3.975,255.19,False
+Route 66,1,Shawn Langdon,0.069,3.733,330.88,True
+Route 66,1,Kyle Wurtzel,0.102,3.783,316.6,False
+Route 66,1,Justin Ashley,0.018,3.706,336.49,True
+Route 66,1,Brittany Force,0.047,5.149,142.84,False
+Route 66,1,Steve Torrence,0.058,3.735,333.08,True
+Route 66,1,Spencer Massey,0.047,3.784,324.12,False
+Route 66,2,Steve Torrence,0.076,3.772,331.69,True
+Route 66,2,Shawn Langdon,0.051,5.776,150.36,False
+Route 66,2,Doug Kalitta,0.078,3.723,332.43,True
+Route 66,2,Josh Hart,0.058,9.266,78.73,False
+Route 66,2,Tony Stewart,0.08,4.539,261.47,True
+Route 66,2,Shawn Reed,0.091,5.043,267.11,False
+Route 66,2,Justin Ashley,0.045,4.407,295.53,True
+Route 66,2,Antron Brown,0.063,7.178,113.87,False
+Route 66,3,Tony Stewart,0.059,3.762,329.18,True
+Route 66,3,Steve Torrence,0.1,4.021,268.28,False
+Route 66,3,Justin Ashley,0.04,3.816,326.87,True
+Route 66,3,Doug Kalitta,0.099,4.803,178.42,False
+Route 66,4,Tony Stewart,0.048,3.777,329.1,True
+Route 66,4,Justin Ashley,0.042,3.818,324.12,False
+New England Nationals,1,Ida Zetterstrom,0.121,3.72,332.18,True
+New England Nationals,1,Steve Torrence,0.072,7.295,121.23,False
+New England Nationals,1,Dan Mercier,0.087,3.738,324.83,True
+New England Nationals,1,Shawn Langdon,0.053,5.199,157.67,False
+New England Nationals,1,Doug Kalitta,0.088,3.646,338.34,True
+New England Nationals,1,Tony Stewart,0.087,3.699,331.45,True
+New England Nationals,1,Rit Pustari,0.136,7.738,75.65,False
+New England Nationals,1,Shawn Reed,0.121,3.724,335.23,True
+New England Nationals,1,Scott Farley,0.134,4.345,189.71,False
+New England Nationals,1,Brittany Force,0.08,3.692,339.87,True
+New England Nationals,1,Clay Millican,0.054,3.74,333.74,False
+New England Nationals,1,Justin Ashley,0.042,3.723,338.34,True
+New England Nationals,1,Josh Hart,0.077,7.158,97.47,False
+New England Nationals,1,Antron Brown,0.066,4.229,259.56,True
+New England Nationals,1,Mike Bucher,0.073,10.285,40.34,False
+New England Nationals,2,Antron Brown,0.057,4.707,175.64,True
+New England Nationals,2,Dan Mercier,0.084,6.978,88.25,False
+New England Nationals,2,Tony Stewart,0.064,3.733,330.96,True
+New England Nationals,2,Justin Ashley,0.042,5.893,118.9,False
+New England Nationals,2,Brittany Force,0.073,3.69,338.26,True
+New England Nationals,2,Shawn Reed,0.097,3.721,334.57,False
+New England Nationals,2,Doug Kalitta,0.08,3.68,330.31,True
+New England Nationals,2,Ida Zetterstrom,0.087,3.72,330.55,False
+New England Nationals,3,Tony Stewart,0.054,3.711,332.34,True
+New England Nationals,3,Antron Brown,0.064,3.738,333.66,False
+New England Nationals,3,Brittany Force,0.099,3.681,341.42,True
+New England Nationals,3,Doug Kalitta,0.057,5.841,157.41,False
+New England Nationals,4,Brittany Force,0.068,3.694,340.39,True
+New England Nationals,4,Tony Stewart,0.049,3.72,329.91,False
+Thunder Valley Nationals,1,Brittany Force,0.081,3.811,330.39,True
+Thunder Valley Nationals,1,Ida Zetterstrom,0.091,6.84,88.9,False
+Thunder Valley Nationals,1,Josh Hart,0.071,4.026,311.85,True
+Thunder Valley Nationals,1,Doug Kalitta,0.075,4.754,224.92,False
+Thunder Valley Nationals,1,Justin Ashley,0.04,3.783,328.14,True
+Thunder Valley Nationals,1,Antron Brown,0.056,4.403,199.11,False
+Thunder Valley Nationals,1,Tony Stewart,0.075,3.821,327.27,True
+Thunder Valley Nationals,1,Cameron Ferre,0.124,8.227,83.57,False
+Thunder Valley Nationals,1,Shawn Langdon,0.132,3.922,259.31,True
+Thunder Valley Nationals,1,Clay Millican,0.089,4.119,222.22,True
+Thunder Valley Nationals,1,Shawn Reed,0.116,8.822,97.27,False
+Thunder Valley Nationals,1,Steve Torrence,0.068,3.974,312.93,True
+Thunder Valley Nationals,1,Dan Mercier,0.102,3.983,307.72,False
+Thunder Valley Nationals,2,Steve Torrence,0.076,3.859,328.14,True
+Thunder Valley Nationals,2,Clay Millican,0.074,6.187,112.38,False
+Thunder Valley Nationals,2,Shawn Langdon,0.059,4.46,245.9,True
+Thunder Valley Nationals,2,Josh Hart,0.071,5.086,266.79,False
+Thunder Valley Nationals,2,Tony Stewart,0.07,4.178,212.13,True
+Thunder Valley Nationals,2,Justin Ashley,0.036,3.839,329.91,True
+Thunder Valley Nationals,2,Brittany Force,0.093,4.925,160.4,False
+Thunder Valley Nationals,3,Steve Torrence,0.08,3.857,327.27,True
+Thunder Valley Nationals,3,Tony Stewart,0.078,3.861,326.08,False
+Thunder Valley Nationals,3,Justin Ashley,0.04,3.858,326.24,True
+Thunder Valley Nationals,3,Shawn Langdon,0.056,9.785,74.97,False
+Thunder Valley Nationals,4,Steve Torrence,0.06,4.022,325.37,True
+Thunder Valley Nationals,4,Justin Ashley,0.047,8.6,82.6,False
+Summit Racing Nationals,1,Clay Millican,0.085,3.817,331.94,True
+Summit Racing Nationals,1,Dan Mercier,0.089,4.93,159.87,False
+Summit Racing Nationals,1,Brittany Force,0.071,4.291,292.77,True
+Summit Racing Nationals,1,Lex Joon,0.141,4.552,203.28,False
+Summit Racing Nationals,1,Tony Stewart,0.076,3.894,270.7,True
+Summit Racing Nationals,1,Kyle Wurtzel,0.103,9.96,88.86,False
+Summit Racing Nationals,1,Doug Kalitta,0.066,3.816,327.43,True
+Summit Racing Nationals,1,Antron Brown,0.076,3.903,322.5,False
+Summit Racing Nationals,1,Justin Ashley,0.053,3.88,318.39,True
+Summit Racing Nationals,1,Scott Farley,0.119,4.872,190.83,False
+Summit Racing Nationals,1,Shawn Langdon,0.074,3.872,307.09,True
+Summit Racing Nationals,1,Doug Foley,0.073,4.721,162.08,False
+Summit Racing Nationals,1,Steve Torrence,0.078,3.939,313.73,True
+Summit Racing Nationals,1,Shawn Reed,0.096,4.0,285.77,False
+Summit Racing Nationals,1,Josh Hart,0.074,3.907,323.5,True
+Summit Racing Nationals,1,Spencer Massey,0.042,6.803,99.81,False
+Summit Racing Nationals,2,Tony Stewart,0.091,3.908,318.77,True
+Summit Racing Nationals,2,Steve Torrence,0.069,5.113,143.89,False
+Summit Racing Nationals,2,Justin Ashley,0.061,3.902,318.47,True
+Summit Racing Nationals,2,Josh Hart,0.08,3.976,320.28,False
+Summit Racing Nationals,2,Shawn Langdon,0.069,3.906,312.35,True
+Summit Racing Nationals,2,Brittany Force,0.077,3.953,302.41,False
+Summit Racing Nationals,2,Clay Millican,0.1,3.912,314.83,True
+Summit Racing Nationals,2,Doug Kalitta,0.119,3.9,324.36,False
+Summit Racing Nationals,3,Clay Millican,0.085,3.958,306.33,True
+Summit Racing Nationals,3,Tony Stewart,0.085,3.974,307.72,False
+Summit Racing Nationals,3,Justin Ashley,0.051,3.935,317.57,True
+Summit Racing Nationals,3,Shawn Langdon,0.051,4.008,310.41,False
+Summit Racing Nationals,4,Justin Ashley,0.027,3.931,317.34,True
+Summit Racing Nationals,4,Clay Millican,0.089,3.922,322.34,False
+4-Wide Carolina,1,Doug Foley,0.076,3.775,320.58,True
+4-Wide Carolina,1,Antron Brown,0.049,4.999,207.56,True
+4-Wide Carolina,1,Shawn Reed,0.086,5.811,113.2,False
+4-Wide Carolina,1,Clay Millican,0.08,0.0,0.0,False
+4-Wide Carolina,1,Justin Ashley,0.04,3.749,332.02,True
+4-Wide Carolina,1,Brittany Force,0.073,4.044,276.35,True
+4-Wide Carolina,1,Todd Paton,0.108,4.02,259.41,False
+4-Wide Carolina,1,Spencer Massey,0.055,9.855,78.37,False
+4-Wide Carolina,1,Shawn Langdon,0.068,3.728,333.25,True
+4-Wide Carolina,1,Josh Hart,0.045,3.755,332.34,True
+4-Wide Carolina,1,Ida Zetterstrom,0.095,3.753,330.55,False
+4-Wide Carolina,1,Scott Farley,0.151,4.26,192.96,False
+4-Wide Carolina,1,Steve Torrence,0.07,3.747,335.65,True
+4-Wide Carolina,1,Tony Stewart,0.069,3.774,325.53,True
+4-Wide Carolina,1,Doug Kalitta,0.1,3.755,328.46,False
+4-Wide Carolina,1,Lex Joon,0.09,8.651,84.9,False
+4-Wide Carolina,2,Antron Brown,0.056,3.751,334.24,True
+4-Wide Carolina,2,Tony Stewart,0.067,3.76,323.35,True
+4-Wide Carolina,2,Doug Foley,0.089,3.85,316.38,False
+4-Wide Carolina,2,Steve Torrence,0.071,3.961,311.56,False
+4-Wide Carolina,2,Shawn Langdon,0.062,3.773,331.45,True
+4-Wide Carolina,2,Justin Ashley,0.055,3.781,328.78,True
+4-Wide Carolina,2,Brittany Force,0.086,3.834,322.81,False
+4-Wide Carolina,2,Josh Hart,0.097,6.727,94.39,False
+4-Wide Carolina,3,Shawn Langdon,0.071,3.714,330.63,True
+4-Wide Carolina,3,Justin Ashley,0.031,3.776,329.99,False
+4-Wide Carolina,3,Tony Stewart,0.078,3.792,309.06,False
+4-Wide Carolina,3,Antron Brown,0.075,5.441,136.39,False
+Virginia Nationals,1,Justin Ashley,0.046,3.934,315.93,True
+Virginia Nationals,1,Doug Foley,0.074,3.999,259.71,False
+Virginia Nationals,1,Shawn Langdon,0.076,3.905,322.11,True
+Virginia Nationals,1,Cameron Ferre,0.083,4.07,293.09,False
+Virginia Nationals,1,Dan Mercier,0.064,3.951,304.12,True
+Virginia Nationals,1,Shawn Reed,0.123,3.934,321.19,False
+Virginia Nationals,1,Tony Stewart,0.065,3.872,318.99,True
+Virginia Nationals,1,Brittany Force,0.07,3.938,319.14,False
+Virginia Nationals,1,Clay Millican,0.978,4.155,224.92,True
+Virginia Nationals,1,Steve Torrence,0.103,3.92,321.12,True
+Virginia Nationals,1,Josh Hart,0.07,4.041,304.94,False
+Virginia Nationals,1,Doug Kalitta,0.096,3.877,326.87,True
+Virginia Nationals,1,Antron Brown,0.072,3.933,302.41,False
+Virginia Nationals,2,Justin Ashley,0.058,3.925,317.64,True
+Virginia Nationals,2,Steve Torrence,0.186,4.568,175.96,False
+Virginia Nationals,2,Shawn Langdon,0.08,3.952,319.52,True
+Virginia Nationals,2,Dan Mercier,0.102,12.443,55.03,False
+Virginia Nationals,2,Doug Kalitta,0.078,3.882,326.0,True
+Virginia Nationals,2,Clay Millican,0.093,4.014,276.46,False
+Virginia Nationals,2,Tony Stewart,0.096,11.465,68.75,True
+Virginia Nationals,3,Shawn Langdon,0.059,6.35,108.73,True
+Virginia Nationals,3,Tony Stewart,-0.093,8.267,84.72,False
+Virginia Nationals,3,Justin Ashley,0.046,4.422,266.69,True
+Virginia Nationals,3,Doug Kalitta,0.079,5.856,143.76,False
+Virginia Nationals,4,Justin Ashley,0.055,4.167,227.92,True
+Northwest Nationals,1,Justin Ashley,0.071,11.887,77.15,True
+Northwest Nationals,1,Tony Stewart,0.073,3.751,328.38,True
+Northwest Nationals,1,Josh Hart,0.108,3.746,331.12,False
+Northwest Nationals,1,Antron Brown,0.064,3.712,335.23,True
+Northwest Nationals,1,Clay Millican,0.085,3.739,293.09,False
+Northwest Nationals,1,Brittany Force,0.07,3.696,340.82,True
+Northwest Nationals,1,Ida Zetterstrom,0.093,3.752,330.63,False
+Northwest Nationals,1,Shawn Langdon,0.066,3.7,335.98,True
+Northwest Nationals,1,Cameron Ferre,0.106,4.286,275.0,False
+Northwest Nationals,1,Doug Kalitta,0.076,3.628,341.34,True
+Northwest Nationals,2,Shawn Langdon,0.058,3.685,334.24,True
+Northwest Nationals,2,Tony Stewart,0.07,4.817,122.53,False
+Northwest Nationals,2,Brittany Force,0.07,4.146,202.48,True
+Northwest Nationals,2,Antron Brown,0.068,5.083,162.35,False
+Northwest Nationals,2,Doug Kalitta,0.073,3.676,337.92,True
+Northwest Nationals,2,Justin Ashley,0.047,3.876,280.78,False
+Northwest Nationals,3,Shawn Langdon,0.069,3.651,338.6,True
+Northwest Nationals,3,Brittany Force,0.078,3.659,341.85,True
+Northwest Nationals,3,Doug Kalitta,0.077,3.752,325.22,False
+Northwest Nationals,4,Shawn Langdon,0.05,3.662,337.07,True
+Northwest Nationals,4,Brittany Force,0.086,4.04,215.93,False
+Sonoma Nationals,1,Josh Hart,0.06,3.746,329.26,True
+Sonoma Nationals,1,Tony Stewart,0.076,10.343,68.96,False
+Sonoma Nationals,1,Shawn Langdon,0.066,3.688,336.65,True
+Sonoma Nationals,1,Brittany Force,0.074,3.721,289.26,False
+Sonoma Nationals,1,Antron Brown,0.075,3.718,336.07,True
+Sonoma Nationals,1,Ida Zetterstrom,0.093,3.739,323.12,False
+Sonoma Nationals,1,Justin Ashley,0.035,3.75,330.55,True
+Sonoma Nationals,1,Clay Millican,0.079,3.718,331.04,False
+Sonoma Nationals,1,Doug Kalitta,0.093,3.703,332.92,True
+Sonoma Nationals,1,Ron August,0.064,3.826,319.98,False
+Sonoma Nationals,2,Antron Brown,0.052,3.74,336.15,True
+Sonoma Nationals,2,Justin Ashley,0.066,3.817,322.42,False
+Sonoma Nationals,2,Shawn Langdon,0.087,8.019,86.37,True
+Sonoma Nationals,2,Doug Kalitta,0.081,3.719,336.65,True
+Sonoma Nationals,2,Josh Hart,0.054,4.813,153.3,False
+Sonoma Nationals,3,Antron Brown,0.061,4.195,251.81,True
+Sonoma Nationals,3,Shawn Langdon,0.071,5.322,166.05,False
+Sonoma Nationals,3,Doug Kalitta,0.084,3.734,335.4,True
+Sonoma Nationals,4,Doug Kalitta,0.085,3.752,334.57,True
+Sonoma Nationals,4,Antron Brown,0.058,4.067,229.74,False
+Lucas Oil Nationals,1,Shawn Langdon,0.066,3.683,334.9,True
+Lucas Oil Nationals,1,Antron Brown,0.052,6.742,93.16,False
+Lucas Oil Nationals,1,Clay Millican,0.047,3.693,330.8,True
+Lucas Oil Nationals,1,Justin Ashley,0.039,3.74,336.57,False
+Lucas Oil Nationals,1,Tony Stewart,0.074,3.733,328.54,True
+Lucas Oil Nationals,1,Josh Hart,0.04,3.788,328.78,False
+Lucas Oil Nationals,1,Jordan Vandergriff,0.088,3.778,283.97,True
+Lucas Oil Nationals,1,Kyle Satenstein,0.054,3.851,316.01,False
+Lucas Oil Nationals,1,Doug Kalitta,0.077,3.721,337.5,True
+Lucas Oil Nationals,1,Terry Totten,0.106,4.269,213.37,False
+Lucas Oil Nationals,1,Brittany Force,0.067,3.692,338.77,True
+Lucas Oil Nationals,1,Will Smith,0.061,4.239,206.2,False
+Lucas Oil Nationals,1,Billy Torrence,0.095,3.706,335.73,True
+Lucas Oil Nationals,1,Ida Zetterstrom,0.1,6.733,89.99,False
+Lucas Oil Nationals,2,Doug Kalitta,0.063,3.683,337.5,True
+Lucas Oil Nationals,2,Billy Torrence,0.083,3.708,335.73,True
+Lucas Oil Nationals,2,Tony Stewart,0.064,3.746,328.54,False
+Lucas Oil Nationals,2,Clay Millican,0.066,3.715,337.66,True
+Lucas Oil Nationals,2,Jordan Vandergriff,0.105,3.726,332.18,False
+Lucas Oil Nationals,2,Brittany Force,0.074,3.679,341.25,True
+Lucas Oil Nationals,2,Shawn Langdon,0.044,4.087,219.4,False
+Lucas Oil Nationals,3,Doug Kalitta,0.052,3.665,329.83,True
+Lucas Oil Nationals,3,Billy Torrence,0.094,3.71,335.32,False
+Lucas Oil Nationals,3,Clay Millican,0.053,3.715,321.5,True
+Lucas Oil Nationals,3,Brittany Force,0.059,3.718,337.07,False
+Lucas Oil Nationals,4,Doug Kalitta,0.078,3.67,338.77,True
+Lucas Oil Nationals,4,Clay Millican,0.099,0.0,0.0,False
+US Nationals,1,Clay Millican,0.041,3.749,284.69,True
+US Nationals,1,Shawn Langdon,0.061,3.767,265.74,False
+US Nationals,1,Justin Ashley,0.036,3.721,328.46,True
+US Nationals,1,Antron Brown,0.062,3.706,333.66,False
+US Nationals,1,Kyle Wurtzel,0.094,3.766,321.73,True
+US Nationals,1,Jordan Vandergriff,0.084,4.385,255.87,False
+US Nationals,1,Brittany Force,0.053,3.69,343.51,True
+US Nationals,1,Ida Zetterstrom,0.06,7.434,79.06,False
+US Nationals,1,Jasmine Salinas,0.092,3.759,331.53,True
+US Nationals,1,T.J. Zizzo,0.117,8.287,80.09,False
+US Nationals,1,Doug Kalitta,0.061,3.706,337.41,True
+US Nationals,1,Tony Schumacher,0.088,3.736,336.49,False
+US Nationals,1,Tony Stewart,0.052,3.716,334.65,True
+US Nationals,1,Steve Torrence,0.082,3.741,331.2,False
+US Nationals,1,Tripp Tatum,0.077,3.724,327.74,True
+US Nationals,1,Josh Hart,0.057,5.61,119.65,False
+US Nationals,2,Jasmine Salinas,0.083,3.78,329.1,True
+US Nationals,2,Clay Millican,0.07,6.095,110.56,False
+US Nationals,2,Tony Stewart,0.08,3.802,328.06,True
+US Nationals,2,Kyle Wurtzel,0.091,4.454,177.65,False
+US Nationals,2,Tripp Tatum,0.073,4.603,215.13,True
+US Nationals,2,Brittany Force,0.063,11.057,45.56,False
+US Nationals,2,Justin Ashley,0.035,4.087,293.15,True
+US Nationals,2,Doug Kalitta,0.075,4.486,234.61,False
+US Nationals,3,Justin Ashley,0.034,3.808,327.74,True
+US Nationals,3,Tripp Tatum,0.081,8.317,86.04,False
+US Nationals,3,Tony Stewart,0.06,3.837,325.85,True
+US Nationals,3,Jasmine Salinas,0.078,10.754,73.87,False
+US Nationals,4,Justin Ashley,0.027,3.839,326.16,True
+US Nationals,4,Tony Stewart,0.053,3.815,321.88,False
+Reading Nationals,1,Tony Stewart,0.072,3.808,329.58,True
+Reading Nationals,1,Tony Schumacher,0.085,4.261,195.19,False
+Reading Nationals,1,Shawn Langdon,0.067,3.763,335.07,True
+Reading Nationals,1,Doug Foley,0.848,3.824,328.7,False
+Reading Nationals,1,Clay Millican,0.223,3.764,333.25,True
+Reading Nationals,1,Justin Ashley,0.029,3.761,330.31,True
+Reading Nationals,1,Scott Farley,0.304,6.176,101.06,False
+Reading Nationals,1,Doug Kalitta,0.073,3.779,336.4,True
+Reading Nationals,1,Antron Brown,0.06,3.839,299.93,False
+Reading Nationals,1,Shawn Reed,0.087,3.801,328.54,True
+Reading Nationals,1,Kyle Satenstein,0.076,4.002,293.73,False
+Reading Nationals,1,Steve Torrence,0.087,3.766,334.15,True
+Reading Nationals,1,Josh Hart,0.099,3.804,335.07,False
+Reading Nationals,1,Brittany Force,0.087,3.798,337.41,True
+Reading Nationals,1,Dan Mercier,0.112,6.453,94.86,False
+Reading Nationals,2,Doug Kalitta,0.058,3.787,335.73,True
+Reading Nationals,2,Tony Stewart,0.087,3.809,326.71,False
+Reading Nationals,2,Clay Millican,0.088,3.866,313.88,True
+Reading Nationals,2,Brittany Force,0.076,4.22,237.88,False
+Reading Nationals,2,Shawn Reed,0.104,3.834,326.87,True
+Reading Nationals,2,Shawn Langdon,0.049,4.198,247.38,False
+Reading Nationals,2,Steve Torrence,0.045,3.835,331.77,True
+Reading Nationals,2,Justin Ashley,0.039,3.994,279.38,False
+Reading Nationals,3,Shawn Reed,0.09,3.833,326.87,True
+Reading Nationals,3,Clay Millican,0.093,6.135,102.32,False
+Reading Nationals,3,Doug Kalitta,0.061,3.812,335.23,True
+Reading Nationals,3,Steve Torrence,0.071,3.83,330.55,False
+Reading Nationals,4,Shawn Reed,0.074,3.844,326.63,True
+Reading Nationals,4,Doug Kalitta,0.072,4.717,202.12,False
+Carolina 4-Wide Nationals,1,Shawn Langdon,0.048,3.792,332.1,True
+Carolina 4-Wide Nationals,1,Justin Ashley,0.033,3.811,323.81,True
+Carolina 4-Wide Nationals,1,Tony Schumacher,0.063,3.865,290.76,False
+Carolina 4-Wide Nationals,1,Doug Foley,0.069,4.054,217.42,False
+Carolina 4-Wide Nationals,1,Steve Torrence,0.064,3.754,331.61,True
+Carolina 4-Wide Nationals,1,Clay Millican,0.072,3.785,326.56,True
+Carolina 4-Wide Nationals,1,Dan Mercier,0.108,3.761,327.66,False
+Carolina 4-Wide Nationals,1,Tony Stewart,0.065,3.766,326.79,True
+Carolina 4-Wide Nationals,1,Brittany Force,0.1,3.758,338.34,True
+Carolina 4-Wide Nationals,1,Shawn Reed,0.072,3.787,327.66,False
+Carolina 4-Wide Nationals,1,Doug Kalitta,0.058,3.757,327.43,True
+Carolina 4-Wide Nationals,1,Antron Brown,0.061,3.78,330.31,True
+Carolina 4-Wide Nationals,1,Josh Hart,0.038,3.82,331.2,False
+Carolina 4-Wide Nationals,2,Justin Ashley,0.036,3.788,326.56,True
+Carolina 4-Wide Nationals,2,Shawn Langdon,0.068,3.761,333.82,True
+Carolina 4-Wide Nationals,2,Brittany Force,0.066,3.773,338.26,False
+Carolina 4-Wide Nationals,2,Tony Stewart,0.073,3.784,328.62,False
+Carolina 4-Wide Nationals,2,Doug Kalitta,0.056,3.797,326.48,True
+Carolina 4-Wide Nationals,2,Clay Millican,0.083,3.821,327.74,True
+Carolina 4-Wide Nationals,2,Antron Brown,0.064,3.844,326.79,False
+Carolina 4-Wide Nationals,2,Steve Torrence,0.05,4.141,261.67,False
+Carolina 4-Wide Nationals,3,Justin Ashley,0.043,3.784,329.83,True
+Carolina 4-Wide Nationals,3,Doug Kalitta,0.068,3.784,332.84,False
+Carolina 4-Wide Nationals,3,Shawn Langdon,0.062,3.814,334.24,False
+Carolina 4-Wide Nationals,3,Clay Millican,0.081,4.235,195.19,False
+Midwest Nationals,1,Kyle Wurtzel,0.072,3.789,320.58,True
+Midwest Nationals,1,Josh Hart,0.061,3.809,330.96,False
+Midwest Nationals,1,Justin Ashley,0.036,3.753,331.94,True
+Midwest Nationals,1,Brittany Force,0.058,5.328,137.9,False
+Midwest Nationals,1,Antron Brown,0.051,3.752,333.16,True
+Midwest Nationals,1,Cameron Ferre,1.257,24.267,52.78,False
+Midwest Nationals,1,Doug Kalitta,0.077,3.74,334.82,True
+Midwest Nationals,1,Will Smith,0.081,10.361,85.16,False
+Midwest Nationals,1,Ida Zetterstrom,0.0,3.801,323.66,True
+Midwest Nationals,1,Tony Stewart,0.026,3.927,298.93,False
+Midwest Nationals,1,Tony Schumacher,0.085,3.787,318.47,True
+Midwest Nationals,1,Clay Millican,0.098,3.85,305.08,False
+Midwest Nationals,1,Steve Torrence,0.061,4.426,180.91,True
+Midwest Nationals,1,T.J. Zizzo,-0.02,3.805,334.32,False
+Midwest Nationals,1,Shawn Langdon,0.062,3.772,336.82,True
+Midwest Nationals,1,Shawn Reed,0.069,3.788,330.8,False
+Midwest Nationals,2,Ida Zetterstrom,0.088,3.802,326.87,True
+Midwest Nationals,2,Kyle Wurtzel,0.102,3.889,321.04,False
+Midwest Nationals,2,Justin Ashley,0.044,3.794,330.55,True
+Midwest Nationals,2,Shawn Langdon,0.049,3.817,329.42,False
+Midwest Nationals,2,Antron Brown,0.076,3.807,331.61,True
+Midwest Nationals,2,Tony Schumacher,0.065,4.852,151.75,False
+Midwest Nationals,2,Doug Kalitta,0.083,3.813,331.94,True
+Midwest Nationals,2,Steve Torrence,0.077,5.703,119.57,False
+Midwest Nationals,3,Ida Zetterstrom,0.069,3.925,292.08,True
+Midwest Nationals,3,Antron Brown,0.075,5.663,132.41,False
+Midwest Nationals,3,Doug Kalitta,0.068,3.805,332.59,True
+Midwest Nationals,3,Justin Ashley,0.045,3.931,310.41,False
+Midwest Nationals,4,Doug Kalitta,0.074,3.796,327.98,True
+Midwest Nationals,4,Ida Zetterstrom,0.065,4.036,247.79,False
+FallNationals,1,Clay Millican,0.072,3.7,335.32,True
+FallNationals,1,Tony Stewart,0.09,3.774,321.52,False
+FallNationals,1,Brittany Force,0.066,3.729,340.14,True
+FallNationals,1,Tony Schumacher,0.068,5.441,125.47,False
+FallNationals,1,Shawn Reed,0.102,3.717,338.83,True
+FallNationals,1,Kyle Satenstein,0.069,0.0,0.0,False
+FallNationals,1,Justin Ashley,0.023,3.732,334.25,True
+FallNationals,1,Doug Foley,0.077,4.857,160.19,False
+FallNationals,1,Shawn Langdon,0.082,3.697,336.0,True
+FallNationals,1,Mitch King,0.102,10.68,79.99,False
+FallNationals,1,Ida Zetterstrom,0.077,4.257,206.86,True
+FallNationals,1,Antron Brown,0.062,5.127,158.61,False
+FallNationals,1,Doug Kalitta,0.078,3.751,333.93,True
+FallNationals,1,Jasmine Salinas,0.074,6.219,99.89,False
+FallNationals,1,Steve Torrence,0.087,3.993,264.07,True
+FallNationals,1,Josh Hart,0.072,4.194,208.21,False
+FallNationals,2,Doug Kalitta,0.078,3.757,332.37,True
+FallNationals,2,Ida Zetterstrom,0.095,3.845,323.37,False
+FallNationals,2,Steve Torrence,0.078,3.833,330.37,True
+FallNationals,2,Shawn Reed,0.06,4.076,257.84,False
+FallNationals,2,Brittany Force,0.05,3.828,332.79,True
+FallNationals,2,Justin Ashley,0.045,3.943,292.85,False
+FallNationals,2,Shawn Langdon,0.069,3.79,333.38,True
+FallNationals,2,Clay Millican,0.075,4.385,187.38,False
+FallNationals,3,Steve Torrence,0.123,3.836,328.08,True
+FallNationals,3,Doug Kalitta,0.055,3.805,332.59,True
+FallNationals,3,Shawn Langdon,0.07,4.545,193.1,False
+FallNationals,4,Doug Kalitta,0.079,3.777,333.04,True
+FallNationals,4,Steve Torrence,0.063,3.874,317.46,False
+Nevada Nationals,1,Clay Millican,0.077,3.75,333.74,True
+Nevada Nationals,1,Antron Brown,0.064,3.791,333.58,False
+Nevada Nationals,1,Justin Ashley,0.042,5.667,119.55,True
+Nevada Nationals,1,Josh Hart,0.069,6.895,94.68,False
+Nevada Nationals,1,Tony Schumacher,0.077,3.794,335.32,True
+Nevada Nationals,1,Shawn Reed,0.109,3.959,240.42,False
+Nevada Nationals,1,Brittany Force,0.084,3.758,337.24,True
+Nevada Nationals,1,Doug Kalitta,0.08,3.743,338.0,True
+Nevada Nationals,1,Rob Passey,0.152,4.047,287.29,False
+Nevada Nationals,1,Shawn Langdon,0.081,5.183,222.36,True
+Nevada Nationals,1,Kelly Harper,0.11,6.517,91.14,False
+Nevada Nationals,1,Tony Stewart,0.067,3.856,293.22,True
+Nevada Nationals,1,Dan Mercier,0.099,4.695,163.71,False
+Nevada Nationals,2,Shawn Langdon,0.079,3.738,333.33,True
+Nevada Nationals,2,Justin Ashley,0.041,3.779,332.43,False
+Nevada Nationals,2,Tony Stewart,0.069,3.778,328.38,True
+Nevada Nationals,2,Tony Schumacher,0.065,3.808,319.9,False
+Nevada Nationals,2,Brittany Force,0.07,3.764,335.65,True
+Nevada Nationals,2,Clay Millican,0.097,4.074,225.79,False
+Nevada Nationals,2,Doug Kalitta,0.059,3.757,328.54,True
+Nevada Nationals,3,Brittany Force,0.095,3.824,323.35,True
+Nevada Nationals,3,Tony Stewart,0.072,5.015,144.58,False
+Nevada Nationals,3,Shawn Langdon,0.083,3.721,334.24,True
+Nevada Nationals,3,Doug Kalitta,0.068,3.757,336.15,False
+Nevada Nationals,4,Brittany Force,0.065,3.704,337.33,True
+Nevada Nationals,4,Shawn Langdon,0.059,3.727,333.91,False

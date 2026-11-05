@@ -1,0 +1,1302 @@
+{
+  "FC_2025": [
+    [
+      405877,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      406214,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      406401,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      406600,
+      "LAS VEGAS 1",
+      "4-Wide Nationals"
+    ],
+    [
+      407224,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      407557,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      408179,
+      "EPPING",
+      "New England"
+    ],
+    [
+      408405,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      408742,
+      "RICHMOND",
+      "Virginia Nationals"
+    ],
+    [
+      409175,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      409898,
+      "SEATTLE",
+      "Northwest"
+    ],
+    [
+      410054,
+      "SONOMA",
+      "Sonoma"
+    ],
+    [
+      410846,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      411531,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      412097,
+      "READING",
+      "Reading"
+    ],
+    [
+      412542,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      412870,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      413597,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      414398,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ]
+  ],
+  "PS_2025": [
+    [
+      405876,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      406213,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      406400,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      406602,
+      "LAS VEGAS 1",
+      "4-Wide Nationals"
+    ],
+    [
+      407223,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      408178,
+      "EPPING",
+      "New England"
+    ],
+    [
+      408404,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      409174,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      409895,
+      "SEATTLE",
+      "Northwest"
+    ],
+    [
+      410053,
+      "SONOMA",
+      "Sonoma"
+    ],
+    [
+      410844,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      411530,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      412095,
+      "READING",
+      "Reading"
+    ],
+    [
+      412540,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      412871,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      413606,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      414397,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ]
+  ],
+  "PM_2025": [
+    [
+      406156,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      406212,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      407214,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      407555,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      408401,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      408740,
+      "RICHMOND",
+      "Virginia Nationals"
+    ],
+    [
+      411525,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      412531,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      412863,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      414393,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ]
+  ],
+  "TF_2026": [
+    [
+      415431,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      423038,
+      "MADISON",
+      "Midwest Nationals"
+    ],
+    [
+      416022,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      416579,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      417090,
+      "CHARLOTTE",
+      "4-Wide Nationals"
+    ],
+    [
+      417321,
+      "VALDOSTA",
+      "Southern Nationals"
+    ],
+    [
+      417778,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      418136,
+      "BUDDS CREEK",
+      "Potomac Nationals"
+    ],
+    [
+      418328,
+      "EPPING",
+      "New England Nationals"
+    ],
+    [
+      418597,
+      "BRISTOL",
+      "Thunder Valley Nationals"
+    ],
+    [
+      419295,
+      "NORWALK",
+      "Summit Racing Nationals"
+    ],
+    [
+      419894,
+      "SONOMA",
+      "Sonoma Nationals"
+    ],
+    [
+      420193,
+      "SEATTLE",
+      "Northwest Nationals"
+    ],
+    [
+      421171,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      421919,
+      "INDIANAPOLIS",
+      "US Nationals"
+    ],
+    [
+      422463,
+      "MARTIN",
+      "Great Lakes Nationals"
+    ],
+    [
+      422774,
+      "ROCKINGHAM",
+      "Nationals at The Rock"
+    ],
+    [
+      423626,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      424121,
+      "LAS VEGAS",
+      "Nevada Nationals"
+    ]
+  ],
+  "FC_2026": [
+    [
+      415429,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      423037,
+      "MADISON",
+      "Midwest Nationals"
+    ],
+    [
+      416021,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      416580,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      417089,
+      "CHARLOTTE",
+      "4-Wide Nationals"
+    ],
+    [
+      417319,
+      "VALDOSTA",
+      "Southern Nationals"
+    ],
+    [
+      417780,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      418135,
+      "BUDDS CREEK",
+      "Potomac Nationals"
+    ],
+    [
+      418327,
+      "EPPING",
+      "New England Nationals"
+    ],
+    [
+      418598,
+      "BRISTOL",
+      "Thunder Valley Nationals"
+    ],
+    [
+      419298,
+      "NORWALK",
+      "Summit Racing Nationals"
+    ],
+    [
+      419895,
+      "SONOMA",
+      "Sonoma Nationals"
+    ],
+    [
+      420208,
+      "SEATTLE",
+      "Northwest Nationals"
+    ],
+    [
+      421170,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      421918,
+      "INDIANAPOLIS",
+      "US Nationals"
+    ],
+    [
+      422462,
+      "MARTIN",
+      "Great Lakes Nationals"
+    ],
+    [
+      422773,
+      "ROCKINGHAM",
+      "Nationals at The Rock"
+    ],
+    [
+      423623,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      424123,
+      "LAS VEGAS",
+      "Nevada Nationals"
+    ]
+  ],
+  "PS_2026": [
+    [
+      415430,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      423036,
+      "MADISON",
+      "Midwest Nationals"
+    ],
+    [
+      416020,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      416578,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      417087,
+      "CHARLOTTE",
+      "4-Wide Nationals"
+    ],
+    [
+      417316,
+      "VALDOSTA",
+      "Southern Nationals"
+    ],
+    [
+      417779,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      418134,
+      "BUDDS CREEK",
+      "Potomac Nationals"
+    ],
+    [
+      418326,
+      "EPPING",
+      "New England Nationals"
+    ],
+    [
+      418593,
+      "BRISTOL",
+      "Thunder Valley Nationals"
+    ],
+    [
+      419297,
+      "NORWALK",
+      "Summit Racing Nationals"
+    ],
+    [
+      419893,
+      "SONOMA",
+      "Sonoma Nationals"
+    ],
+    [
+      420192,
+      "SEATTLE",
+      "Northwest Nationals"
+    ],
+    [
+      421169,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      421917,
+      "INDIANAPOLIS",
+      "US Nationals"
+    ],
+    [
+      422464,
+      "MARTIN",
+      "Great Lakes Nationals"
+    ],
+    [
+      422772,
+      "ROCKINGHAM",
+      "Nationals at The Rock"
+    ],
+    [
+      423617,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      424120,
+      "LAS VEGAS",
+      "Nevada Nationals"
+    ]
+  ],
+  "PM_2026": [
+    [
+      415420,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      416018,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      417080,
+      "CHARLOTTE",
+      "4-Wide Nationals"
+    ],
+    [
+      417314,
+      "VALDOSTA",
+      "Southern Nationals"
+    ],
+    [
+      417770,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      418592,
+      "BRISTOL",
+      "Thunder Valley Nationals"
+    ],
+    [
+      419294,
+      "NORWALK",
+      "Summit Racing Nationals"
+    ],
+    [
+      421913,
+      "INDIANAPOLIS",
+      "US Nationals"
+    ],
+    [
+      422770,
+      "ROCKINGHAM",
+      "Nationals at The Rock"
+    ],
+    [
+      423034,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      424122,
+      "LAS VEGAS",
+      "Nevada Nationals"
+    ]
+  ],
+  "TF_2024": [
+    [
+      396882,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      397317,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      397599,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      397547,
+      "LAS VEGAS 1",
+      "4-Wide Nationals"
+    ],
+    [
+      398133,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      398775,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      399291,
+      "EPPING",
+      "New England"
+    ],
+    [
+      399534,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      399957,
+      "RICHMOND",
+      "Virginia Nationals"
+    ],
+    [
+      400331,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      401114,
+      "SEATTLE",
+      "Northwest"
+    ],
+    [
+      401415,
+      "SONOMA",
+      "Sonoma"
+    ],
+    [
+      401949,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      402367,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      402815,
+      "READING",
+      "Reading"
+    ],
+    [
+      403284,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      403508,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      404189,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      404671,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ],
+    [
+      405009,
+      "POMONA 2",
+      "Finals"
+    ]
+  ],
+  "FC_2024": [
+    [
+      396883,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      397320,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      397600,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      397546,
+      "LAS VEGAS 1",
+      "4-Wide Nationals"
+    ],
+    [
+      398134,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      398774,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      399290,
+      "EPPING",
+      "New England"
+    ],
+    [
+      399533,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      399958,
+      "RICHMOND",
+      "Virginia Nationals"
+    ],
+    [
+      400330,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      401113,
+      "SEATTLE",
+      "Northwest"
+    ],
+    [
+      401416,
+      "SONOMA",
+      "Sonoma"
+    ],
+    [
+      401948,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      402366,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      402814,
+      "READING",
+      "Reading"
+    ],
+    [
+      403283,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      403509,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      404188,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      404673,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ],
+    [
+      405012,
+      "POMONA 2",
+      "Finals"
+    ]
+  ],
+  "PS_2024": [
+    [
+      396880,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      397315,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      397601,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      397544,
+      "LAS VEGAS 1",
+      "4-Wide Nationals"
+    ],
+    [
+      398131,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      398773,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      399289,
+      "EPPING",
+      "New England"
+    ],
+    [
+      399532,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      399955,
+      "RICHMOND",
+      "Virginia Nationals"
+    ],
+    [
+      400329,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      401112,
+      "SEATTLE",
+      "Northwest"
+    ],
+    [
+      401414,
+      "SONOMA",
+      "Sonoma"
+    ],
+    [
+      401947,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      402365,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      402812,
+      "READING",
+      "Reading"
+    ],
+    [
+      403281,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      403506,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      404187,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      404670,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ],
+    [
+      405010,
+      "POMONA 2",
+      "Finals"
+    ]
+  ],
+  "PM_2024": [
+    [
+      396870,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      397311,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      398772,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      399292,
+      "EPPING",
+      "New England"
+    ],
+    [
+      399526,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      399946,
+      "RICHMOND",
+      "Virginia Nationals"
+    ],
+    [
+      402354,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      403272,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      403500,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      404659,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ]
+  ],
+  "TF_2023": [
+    [
+      387184,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      387517,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      387784,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      388064,
+      "LAS VEGAS 1",
+      "4-Wide Nationals"
+    ],
+    [
+      388740,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      389020,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      390089,
+      "EPPING",
+      "New England"
+    ],
+    [
+      390056,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      390457,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      391016,
+      "DENVER",
+      "Mile-High Nationals"
+    ],
+    [
+      391329,
+      "SEATTLE",
+      "Northwest"
+    ],
+    [
+      391629,
+      "SONOMA",
+      "Sonoma"
+    ],
+    [
+      392235,
+      "TOPEKA",
+      "Heartland Nationals"
+    ],
+    [
+      392460,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      393205,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      393750,
+      "READING",
+      "Reading"
+    ],
+    [
+      394084,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      394313,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      395028,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      395465,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ],
+    [
+      395823,
+      "POMONA 2",
+      "Finals"
+    ]
+  ],
+  "FC_2023": [
+    [
+      387185,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      387516,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      387783,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      388063,
+      "LAS VEGAS 1",
+      "4-Wide Nationals"
+    ],
+    [
+      388739,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      389019,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      390088,
+      "EPPING",
+      "New England"
+    ],
+    [
+      390067,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      390458,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      391004,
+      "DENVER",
+      "Mile-High Nationals"
+    ],
+    [
+      391328,
+      "SEATTLE",
+      "Northwest"
+    ],
+    [
+      391628,
+      "SONOMA",
+      "Sonoma"
+    ],
+    [
+      392234,
+      "TOPEKA",
+      "Heartland Nationals"
+    ],
+    [
+      392459,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      393204,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      393749,
+      "READING",
+      "Reading"
+    ],
+    [
+      394082,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      394312,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      395027,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      395464,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ],
+    [
+      395822,
+      "POMONA 2",
+      "Finals"
+    ]
+  ],
+  "PS_2023": [
+    [
+      387183,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      387515,
+      "PHOENIX",
+      "Arizona Nationals"
+    ],
+    [
+      387782,
+      "POMONA 1",
+      "Winternationals"
+    ],
+    [
+      388062,
+      "LAS VEGAS 1",
+      "4-Wide Nationals"
+    ],
+    [
+      388737,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      389018,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      390066,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      390455,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      391014,
+      "DENVER",
+      "Mile-High Nationals"
+    ],
+    [
+      392233,
+      "TOPEKA",
+      "Heartland Nationals"
+    ],
+    [
+      392458,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      393203,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      393747,
+      "READING",
+      "Reading"
+    ],
+    [
+      394080,
+      "CHARLOTTE 2",
+      "Carolina"
+    ],
+    [
+      394311,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      395026,
+      "DALLAS",
+      "FallNationals"
+    ],
+    [
+      395463,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ],
+    [
+      395821,
+      "POMONA 2",
+      "Finals"
+    ]
+  ],
+  "PM_2023": [
+    [
+      387177,
+      "GAINESVILLE",
+      "Gatornationals"
+    ],
+    [
+      388733,
+      "CHARLOTTE 1",
+      "4-Wide Carolina"
+    ],
+    [
+      389004,
+      "CHICAGO",
+      "Route 66"
+    ],
+    [
+      390061,
+      "BRISTOL",
+      "Thunder Valley"
+    ],
+    [
+      390086,
+      "EPPING",
+      "New England"
+    ],
+    [
+      390442,
+      "NORWALK",
+      "Summit Racing"
+    ],
+    [
+      392446,
+      "BRAINERD",
+      "Lucas Oil Nationals"
+    ],
+    [
+      393201,
+      "INDY",
+      "US Nationals"
+    ],
+    [
+      394307,
+      "ST. LOUIS",
+      "Midwest Nationals"
+    ],
+    [
+      395453,
+      "LAS VEGAS 2",
+      "Nevada Nationals"
+    ]
+  ]
+}

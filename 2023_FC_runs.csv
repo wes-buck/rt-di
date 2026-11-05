@@ -1,0 +1,602 @@
+race,round,driver,rt,et,mph,win
+Gatornationals,1,J.R. Todd,0.074,3.893,331.04,True
+Gatornationals,1,Blake Alexander,0.064,3.953,323.04,False
+Gatornationals,1,Bob Tasca III,0.079,3.865,332.84,True
+Gatornationals,1,Alex Laughlin,0.1,3.993,320.51,False
+Gatornationals,1,John Force,0.088,6.527,99.27,True
+Gatornationals,1,Ron Capps,0.094,3.855,334.57,True
+Gatornationals,1,Terry Haddock,0.138,6.478,90.28,False
+Gatornationals,1,Robert Hight,0.105,3.843,334.98,True
+Gatornationals,1,John Smith,0.109,4.477,201.07,False
+Gatornationals,1,Matt Hagan,0.062,3.879,335.82,True
+Gatornationals,1,Tim Wilkerson,0.103,4.233,221.63,False
+Gatornationals,1,Chad Green,0.061,3.943,327.27,True
+Gatornationals,1,Paul Lee,0.104,4.137,253.95,False
+Gatornationals,1,Alexis DeJoria,0.093,3.9,334.32,True
+Gatornationals,1,Cruz Pedregon,0.055,8.424,89.0,False
+Gatornationals,2,Matt Hagan,0.062,3.882,329.67,True
+Gatornationals,2,Bob Tasca III,0.086,3.922,328.14,False
+Gatornationals,2,Alexis DeJoria,0.116,3.931,330.47,True
+Gatornationals,2,Ron Capps,0.077,9.617,74.27,False
+Gatornationals,2,J.R. Todd,0.067,3.913,329.99,True
+Gatornationals,2,Robert Hight,0.62,23.626,59.96,False
+Gatornationals,2,Chad Green,0.068,3.934,321.19,True
+Gatornationals,2,John Force,0.092,3.942,329.91,False
+Gatornationals,3,J.R. Todd,0.055,3.903,332.43,True
+Gatornationals,3,Chad Green,0.037,3.967,325.69,False
+Gatornationals,3,Matt Hagan,0.086,3.896,330.39,True
+Gatornationals,3,Alexis DeJoria,0.119,3.912,327.19,False
+Gatornationals,4,Matt Hagan,0.054,3.926,329.34,True
+Gatornationals,4,J.R. Todd,0.054,4.141,239.95,False
+Arizona Nationals,1,Bob Tasca III,0.113,3.922,319.45,True
+Arizona Nationals,1,Alexis DeJoria,0.108,3.906,327.66,True
+Arizona Nationals,1,J.R. Todd,0.093,3.923,328.38,False
+Arizona Nationals,1,Chad Green,0.044,4.618,178.8,True
+Arizona Nationals,1,Bobby Bode,0.109,5.046,150.53,False
+Arizona Nationals,1,Blake Alexander,0.089,3.962,285.11,True
+Arizona Nationals,1,Paul Lee,0.098,4.034,305.77,False
+Arizona Nationals,1,Matt Hagan,0.083,4.178,225.79,True
+Arizona Nationals,1,Ron Capps,0.067,3.912,324.36,True
+Arizona Nationals,1,Alex Laughlin,0.115,7.591,80.73,False
+Arizona Nationals,1,Tim Wilkerson,0.125,4.003,315.27,True
+Arizona Nationals,1,Terry Haddock,0.121,4.031,309.13,False
+Arizona Nationals,1,Robert Hight,0.074,3.911,325.37,True
+Arizona Nationals,1,John Force,0.046,4.286,219.26,False
+Arizona Nationals,2,Alexis DeJoria,0.082,3.949,323.35,True
+Arizona Nationals,2,Tim Wilkerson,0.1,4.678,175.96,False
+Arizona Nationals,2,Chad Green,0.057,3.984,323.97,True
+Arizona Nationals,2,Matt Hagan,0.07,4.962,165.9,False
+Arizona Nationals,2,Ron Capps,0.078,3.982,318.09,True
+Arizona Nationals,2,Blake Alexander,-0.051,8.83,88.86,False
+Arizona Nationals,2,Robert Hight,0.063,3.936,330.07,True
+Arizona Nationals,2,Bob Tasca III,0.054,3.966,321.88,False
+Arizona Nationals,3,Ron Capps,0.044,3.93,322.73,True
+Arizona Nationals,3,Alexis DeJoria,0.101,3.935,323.35,False
+Arizona Nationals,3,Robert Hight,0.092,3.9,329.34,True
+Arizona Nationals,3,Chad Green,0.055,3.955,322.96,False
+Arizona Nationals,4,Robert Hight,0.062,3.93,328.62,True
+Arizona Nationals,4,Ron Capps,0.063,5.534,136.8,False
+Winternationals,1,Alexis DeJoria,0.08,3.945,323.89,True
+Winternationals,1,Jeff Arend,0.087,12.709,68.97,False
+Winternationals,1,Bob Tasca III,0.085,4.212,265.43,True
+Winternationals,1,Jason Rupert,0.128,6.613,100.06,False
+Winternationals,1,Cruz Pedregon,0.184,3.881,322.19,True
+Winternationals,1,John Force,0.098,7.28,89.47,False
+Winternationals,1,Terry Haddock,0.114,4.015,310.55,True
+Winternationals,1,Robert Hight,0.104,4.341,303.5,False
+Winternationals,1,Alex Laughlin,0.076,4.066,317.72,True
+Winternationals,1,J.R. Todd,0.078,4.154,234.57,False
+Winternationals,1,Tim Wilkerson,0.081,3.976,312.86,True
+Winternationals,1,Chad Green,0.081,8.387,92.42,False
+Winternationals,1,Matt Hagan,0.069,3.929,330.07,True
+Winternationals,1,Blake Alexander,0.095,3.941,324.36,False
+Winternationals,1,Ron Capps,0.053,3.947,325.69,True
+Winternationals,1,Paul Lee,0.095,4.412,201.97,False
+Winternationals,2,Terry Haddock,0.123,4.058,306.12,True
+Winternationals,2,Tim Wilkerson,0.091,4.182,250.41,False
+Winternationals,2,Ron Capps,0.044,3.997,324.44,True
+Winternationals,2,Cruz Pedregon,0.102,0.0,0.0,False
+Winternationals,2,Matt Hagan,0.067,3.95,324.67,True
+Winternationals,2,Alexis DeJoria,0.081,4.06,269.62,False
+Winternationals,2,Bob Tasca III,0.052,3.997,321.88,True
+Winternationals,2,Alex Laughlin,0.077,4.972,158.2,False
+Winternationals,3,Ron Capps,0.059,3.987,323.89,True
+Winternationals,3,Bob Tasca III,0.03,4.078,298.47,False
+Winternationals,3,Matt Hagan,0.073,3.955,326.4,True
+Winternationals,3,Terry Haddock,0.092,4.11,299.6,False
+Winternationals,4,Matt Hagan,0.032,3.967,328.06,True
+Winternationals,4,Ron Capps,0.064,4.303,211.13,False
+4-Wide Nationals,1,John Force,0.086,3.979,327.03,True
+4-Wide Nationals,1,Alexis DeJoria,0.108,3.967,326.95,True
+4-Wide Nationals,1,Paul Lee,0.054,4.552,195.14,False
+4-Wide Nationals,1,Jason Rupert,0.095,5.153,159.63,False
+4-Wide Nationals,1,Cruz Pedregon,0.058,3.976,327.27,True
+4-Wide Nationals,1,Tim Wilkerson,0.092,3.963,322.27,True
+4-Wide Nationals,1,Steven Densham,0.113,4.767,193.05,False
+4-Wide Nationals,1,Bobby Bode,0.1,0.0,0.0,False
+4-Wide Nationals,1,Matt Hagan,0.099,3.997,317.72,True
+4-Wide Nationals,1,Jeff Diehl,0.113,4.003,303.5,True
+4-Wide Nationals,1,Alex Laughlin,0.106,4.225,265.22,False
+4-Wide Nationals,1,Robert Hight,0.086,4.27,249.58,False
+4-Wide Nationals,1,Chad Green,0.06,4.051,314.61,True
+4-Wide Nationals,1,Blake Alexander,0.086,4.149,249.39,True
+4-Wide Nationals,1,Ron Capps,0.093,4.469,272.5,False
+4-Wide Nationals,1,Bob Tasca III,0.069,11.205,67.24,False
+4-Wide Nationals,2,Tim Wilkerson,0.103,4.053,310.7,True
+4-Wide Nationals,2,Chad Green,0.062,4.157,293.6,True
+4-Wide Nationals,2,Blake Alexander,0.106,5.271,141.89,False
+4-Wide Nationals,2,Cruz Pedregon,0.079,11.088,72.22,False
+4-Wide Nationals,2,Matt Hagan,0.086,3.968,322.81,True
+4-Wide Nationals,2,John Force,0.089,4.069,321.04,True
+4-Wide Nationals,2,Alexis DeJoria,0.171,4.061,275.9,False
+4-Wide Nationals,2,Jeff Diehl,0.095,4.291,228.31,False
+4-Wide Nationals,3,Matt Hagan,0.064,3.943,326.79,True
+4-Wide Nationals,3,Tim Wilkerson,0.081,3.969,319.45,False
+4-Wide Nationals,3,John Force,0.078,4.005,321.81,False
+4-Wide Nationals,3,Chad Green,0.041,4.222,250.74,False
+4-Wide Carolina,1,Alexis DeJoria,0.082,3.854,332.51,True
+4-Wide Carolina,1,Chad Green,0.086,3.951,319.98,True
+4-Wide Carolina,1,Matt Hagan,0.087,4.343,293.73,False
+4-Wide Carolina,1,Dale Creasy Jr.,-0.016,4.469,278.86,False
+4-Wide Carolina,1,Ron Capps,0.076,3.885,335.57,True
+4-Wide Carolina,1,Bob Tasca III,0.08,3.891,321.35,True
+4-Wide Carolina,1,Tim Wilkerson,0.072,5.276,170.86,False
+4-Wide Carolina,1,Dave Richards,0.186,7.659,83.8,False
+4-Wide Carolina,1,Cruz Pedregon,0.081,3.892,327.35,True
+4-Wide Carolina,1,John Force,0.081,5.846,128.79,True
+4-Wide Carolina,1,John Smith,0.043,0.0,0.0,False
+4-Wide Carolina,1,Blake Alexander,0.053,0.0,0.0,False
+4-Wide Carolina,1,Robert Hight,0.103,3.926,329.1,True
+4-Wide Carolina,1,Mike McIntire,0.127,3.94,321.35,True
+4-Wide Carolina,1,Alex Laughlin,0.082,4.155,307.3,False
+4-Wide Carolina,1,J.R. Todd,0.068,5.53,134.23,False
+4-Wide Carolina,2,Robert Hight,0.065,3.875,331.28,True
+4-Wide Carolina,2,John Force,0.055,3.967,326.32,True
+4-Wide Carolina,2,Mike McIntire,0.102,3.941,309.7,False
+4-Wide Carolina,2,Cruz Pedregon,0.115,9.796,87.59,False
+4-Wide Carolina,2,Ron Capps,0.063,3.881,335.15,True
+4-Wide Carolina,2,Alexis DeJoria,0.115,3.883,333.58,True
+4-Wide Carolina,2,Chad Green,0.047,4.228,235.27,False
+4-Wide Carolina,2,Bob Tasca III,0.075,5.302,165.54,False
+4-Wide Carolina,3,Robert Hight,0.053,3.888,328.3,True
+4-Wide Carolina,3,Alexis DeJoria,0.082,3.872,333.41,False
+4-Wide Carolina,3,Ron Capps,0.037,3.923,331.85,False
+4-Wide Carolina,3,John Force,0.062,3.924,329.26,False
+Route 66,1,Cruz Pedregon,0.103,4.029,285.89,True
+Route 66,1,Alexis DeJoria,-0.21,8.06,85.77,False
+Route 66,1,Robert Hight,0.091,3.941,327.43,True
+Route 66,1,Dale Creasy Jr.,0.111,4.464,201.55,False
+Route 66,1,Bob Tasca III,0.097,4.57,185.69,True
+Route 66,1,J.R. Todd,0.053,8.32,87.67,False
+Route 66,1,Alex Laughlin,0.089,4.093,304.87,True
+Route 66,1,Matt Hagan,0.065,4.179,283.37,False
+Route 66,1,Tim Wilkerson,0.106,3.98,316.6,True
+Route 66,1,Blake Alexander,0.077,4.139,277.26,False
+Route 66,1,Ron Capps,0.087,4.002,316.15,True
+Route 66,1,Terry Haddock,0.139,4.07,312.78,False
+Route 66,1,Chad Green,0.134,4.16,248.71,True
+Route 66,1,John Force,0.092,3.94,320.2,True
+Route 66,2,Tim Wilkerson,0.111,4.01,320.36,True
+Route 66,2,Alex Laughlin,0.114,4.808,171.47,False
+Route 66,2,John Force,0.058,4.003,323.5,True
+Route 66,2,Robert Hight,0.099,4.159,262.44,False
+Route 66,2,Ron Capps,0.071,3.983,321.96,True
+Route 66,2,Bob Tasca III,0.069,4.05,320.97,False
+Route 66,2,Chad Green,0.041,3.998,324.44,True
+Route 66,2,Cruz Pedregon,0.057,4.279,222.0,False
+Route 66,3,Tim Wilkerson,0.094,4.012,319.9,True
+Route 66,3,John Force,0.023,9.67,76.53,False
+Route 66,3,Ron Capps,0.078,3.985,323.12,True
+Route 66,3,Chad Green,0.056,4.085,316.6,False
+Route 66,4,Tim Wilkerson,0.101,3.966,325.14,True
+Route 66,4,Ron Capps,0.053,4.11,261.83,False
+New England Nationals,1,Alex Laughlin,0.13,4.182,302.08,True
+New England Nationals,1,J.R. Todd,0.068,4.025,325.53,True
+New England Nationals,1,Cruz Pedregon,0.058,5.48,129.84,False
+New England Nationals,1,John Force,0.006,4.063,324.36,True
+New England Nationals,1,Tim Wilkerson,0.07,4.004,318.99,False
+New England Nationals,1,Robert Hight,0.087,3.938,321.35,True
+New England Nationals,1,Alexis DeJoria,0.094,3.999,322.88,False
+New England Nationals,1,Bob Tasca III,0.039,3.972,329.26,True
+New England Nationals,1,Ron Capps,0.069,3.962,318.92,False
+New England Nationals,1,Matt Hagan,0.058,4.051,308.5,True
+New England Nationals,1,Terry Haddock,0.133,9.974,73.0,False
+New England Nationals,1,Chad Green,0.139,3.969,322.5,True
+New England Nationals,2,Bob Tasca III,0.077,4.418,267.69,True
+New England Nationals,2,Robert Hight,0.097,0.0,0.0,False
+New England Nationals,2,Chad Green,0.083,4.081,309.84,True
+New England Nationals,2,J.R. Todd,0.084,4.117,314.9,True
+New England Nationals,2,Matt Hagan,0.063,4.608,193.16,False
+New England Nationals,2,John Force,0.064,4.09,318.54,True
+New England Nationals,2,Alex Laughlin,0.081,5.204,153.06,False
+New England Nationals,3,Bob Tasca III,0.087,4.062,315.64,True
+New England Nationals,3,Chad Green,0.019,4.259,282.9,False
+New England Nationals,3,John Force,0.049,4.105,319.07,True
+New England Nationals,3,J.R. Todd,0.066,4.098,319.9,False
+New England Nationals,4,Bob Tasca III,0.065,4.032,322.96,True
+New England Nationals,4,John Force,0.045,4.085,320.51,False
+Thunder Valley Nationals,1,Chad Green,0.073,3.966,325.85,True
+Thunder Valley Nationals,1,Terry Haddock,0.15,4.06,310.41,False
+Thunder Valley Nationals,1,Bobby Bode,0.085,4.603,242.93,True
+Thunder Valley Nationals,1,Bob Tasca III,0.079,4.767,209.33,False
+Thunder Valley Nationals,1,Robert Hight,0.109,3.962,324.36,True
+Thunder Valley Nationals,1,Alex Laughlin,0.079,4.261,259.66,False
+Thunder Valley Nationals,1,Ron Capps,0.078,3.964,328.94,True
+Thunder Valley Nationals,1,Dave Richards,0.164,4.223,302.35,False
+Thunder Valley Nationals,1,Alexis DeJoria,0.154,3.983,324.44,True
+Thunder Valley Nationals,1,Tim Wilkerson,0.117,3.984,324.59,True
+Thunder Valley Nationals,1,Dale Creasy Jr.,0.1,5.305,139.86,False
+Thunder Valley Nationals,1,John Force,0.067,3.999,326.95,True
+Thunder Valley Nationals,1,J.R. Todd,0.095,4.131,258.52,False
+Thunder Valley Nationals,1,Matt Hagan,0.06,4.021,324.75,True
+Thunder Valley Nationals,1,Mike McIntire,0.094,4.164,265.01,False
+Thunder Valley Nationals,2,Chad Green,0.053,3.97,326.79,True
+Thunder Valley Nationals,2,Tim Wilkerson,0.098,3.968,327.51,False
+Thunder Valley Nationals,2,Robert Hight,0.056,3.913,324.2,True
+Thunder Valley Nationals,2,Matt Hagan,0.056,3.952,330.23,False
+Thunder Valley Nationals,2,Ron Capps,0.057,3.946,321.81,True
+Thunder Valley Nationals,2,John Force,0.098,6.143,108.43,False
+Thunder Valley Nationals,2,Alexis DeJoria,0.062,4.154,296.31,True
+Thunder Valley Nationals,2,Bobby Bode,0.122,0.0,0.0,False
+Thunder Valley Nationals,3,Ron Capps,0.088,3.918,328.86,True
+Thunder Valley Nationals,3,Chad Green,0.067,4.003,321.73,False
+Thunder Valley Nationals,3,Alexis DeJoria,0.084,3.979,324.05,True
+Thunder Valley Nationals,3,Robert Hight,0.106,7.84,87.07,False
+Thunder Valley Nationals,4,Ron Capps,0.049,3.998,325.45,True
+Thunder Valley Nationals,4,Alexis DeJoria,0.113,3.999,326.48,False
+Summit Racing Nationals,1,Bob Tasca III,0.091,3.959,322.27,True
+Summit Racing Nationals,1,Bobby Bode,0.091,4.193,237.17,False
+Summit Racing Nationals,1,Alexis DeJoria,0.14,3.923,330.23,True
+Summit Racing Nationals,1,Paul Lee,0.035,12.466,56.14,False
+Summit Racing Nationals,1,Matt Hagan,0.067,3.962,323.43,True
+Summit Racing Nationals,1,Dale Creasy Jr.,0.095,4.629,183.12,False
+Summit Racing Nationals,1,Ron Capps,0.084,3.93,320.2,True
+Summit Racing Nationals,1,Alex Laughlin,0.077,4.119,304.74,False
+Summit Racing Nationals,1,Blake Alexander,0.078,3.995,319.22,True
+Summit Racing Nationals,1,Tim Wilkerson,-0.015,6.231,105.79,False
+Summit Racing Nationals,1,Robert Hight,0.078,8.139,85.21,True
+Summit Racing Nationals,1,Mike McIntire,-0.305,13.049,72.34,False
+Summit Racing Nationals,1,J.R. Todd,0.054,3.972,326.16,True
+Summit Racing Nationals,1,John Force,0.033,4.001,322.42,False
+Summit Racing Nationals,1,Chad Green,0.052,4.001,322.96,True
+Summit Racing Nationals,1,Cruz Pedregon,0.076,4.642,177.0,False
+Summit Racing Nationals,2,Blake Alexander,0.061,5.144,144.66,True
+Summit Racing Nationals,2,Alexis DeJoria,-0.003,4.412,200.29,False
+Summit Racing Nationals,2,Bob Tasca III,0.061,3.938,324.2,True
+Summit Racing Nationals,2,Chad Green,0.074,4.02,310.48,False
+Summit Racing Nationals,2,J.R. Todd,0.036,3.95,324.83,True
+Summit Racing Nationals,2,Ron Capps,0.092,3.912,323.74,False
+Summit Racing Nationals,2,Matt Hagan,0.068,3.912,329.18,True
+Summit Racing Nationals,2,Robert Hight,0.085,3.931,322.81,False
+Summit Racing Nationals,3,Blake Alexander,0.07,3.924,322.81,True
+Summit Racing Nationals,3,Bob Tasca III,0.061,10.17,84.07,False
+Summit Racing Nationals,3,Matt Hagan,0.057,3.959,328.3,True
+Summit Racing Nationals,3,J.R. Todd,0.067,3.954,324.2,False
+Summit Racing Nationals,4,Blake Alexander,0.028,3.935,321.96,True
+Summit Racing Nationals,4,Matt Hagan,0.067,3.991,327.9,False
+Mile-High Nationals,1,Cruz Pedregon,0.073,4.571,204.32,True
+Mile-High Nationals,1,Bob Tasca III,0.109,5.689,122.87,False
+Mile-High Nationals,1,John Force,0.085,4.026,320.2,True
+Mile-High Nationals,1,Steven Densham,0.084,4.731,180.62,False
+Mile-High Nationals,1,Matt Hagan,0.064,4.041,312.35,True
+Mile-High Nationals,1,Robert Hight,0.078,4.086,305.91,True
+Mile-High Nationals,1,Alex Laughlin,0.071,4.596,212.19,False
+Mile-High Nationals,1,Ron Capps,0.075,4.029,303.84,True
+Mile-High Nationals,1,Terry Haddock,0.177,4.174,292.58,False
+Mile-High Nationals,1,Alexis DeJoria,0.126,4.089,314.61,True
+Mile-High Nationals,1,Chad Green,0.073,4.201,305.36,False
+Mile-High Nationals,1,J.R. Todd,0.09,4.051,316.82,True
+Mile-High Nationals,1,Tim Wilkerson,0.123,4.462,206.01,False
+Mile-High Nationals,2,Alexis DeJoria,0.153,4.818,224.06,True
+Mile-High Nationals,2,Cruz Pedregon,0.074,5.887,120.44,False
+Mile-High Nationals,2,J.R. Todd,0.069,4.037,320.05,True
+Mile-High Nationals,2,John Force,0.077,4.073,304.12,False
+Mile-High Nationals,2,Ron Capps,0.055,4.066,314.61,True
+Mile-High Nationals,2,Robert Hight,0.077,4.931,178.64,False
+Mile-High Nationals,2,Matt Hagan,0.075,4.28,232.39,True
+Mile-High Nationals,3,Matt Hagan,0.008,4.107,303.64,True
+Mile-High Nationals,3,Ron Capps,0.088,4.057,308.85,False
+Mile-High Nationals,3,Alexis DeJoria,0.107,4.245,301.67,True
+Mile-High Nationals,3,J.R. Todd,0.063,4.383,209.82,False
+Mile-High Nationals,4,Matt Hagan,0.054,4.135,304.25,True
+Mile-High Nationals,4,Alexis DeJoria,0.14,4.217,251.34,False
+Northwest Nationals,1,Cruz Pedregon,0.091,3.956,323.5,True
+Northwest Nationals,1,Robert Hight,0.096,4.445,214.89,False
+Northwest Nationals,1,Ron Capps,0.084,4.481,243.02,True
+Northwest Nationals,1,Jeff Diehl,0.081,12.26,68.72,False
+Northwest Nationals,1,John Force,0.113,3.925,323.89,True
+Northwest Nationals,1,Blake Alexander,0.069,4.148,277.32,True
+Northwest Nationals,1,Bob Tasca III,0.079,4.329,218.55,False
+Northwest Nationals,1,J.R. Todd,0.09,3.909,329.34,True
+Northwest Nationals,1,Tim Wilkerson,0.128,3.928,324.83,True
+Northwest Nationals,1,Matt Hagan,0.121,5.068,163.63,False
+Northwest Nationals,1,Chad Green,0.109,3.963,318.32,True
+Northwest Nationals,1,Alexis DeJoria,0.117,4.176,234.7,False
+Northwest Nationals,2,Blake Alexander,0.162,5.044,148.58,True
+Northwest Nationals,2,Tim Wilkerson,0.085,4.006,314.61,True
+Northwest Nationals,2,Ron Capps,0.066,4.958,157.96,False
+Northwest Nationals,2,Chad Green,0.091,3.979,319.52,True
+Northwest Nationals,2,John Force,0.069,4.229,255.43,False
+Northwest Nationals,2,J.R. Todd,0.065,3.964,324.28,True
+Northwest Nationals,2,Cruz Pedregon,0.089,4.085,265.22,False
+Northwest Nationals,3,Tim Wilkerson,0.1,4.007,321.96,True
+Northwest Nationals,3,Blake Alexander,0.065,4.065,295.34,False
+Northwest Nationals,3,J.R. Todd,0.08,3.988,320.05,True
+Northwest Nationals,3,Chad Green,0.129,3.974,321.12,False
+Northwest Nationals,4,Tim Wilkerson,0.05,4.007,321.96,True
+Northwest Nationals,4,J.R. Todd,0.095,4.014,323.27,False
+Sonoma Nationals,1,Bob Tasca III,0.084,3.935,322.81,True
+Sonoma Nationals,1,Paul Lee,0.058,3.991,291.89,True
+Sonoma Nationals,1,Alexis DeJoria,-0.228,6.439,101.65,False
+Sonoma Nationals,1,Tim Wilkerson,0.119,3.966,326.4,True
+Sonoma Nationals,1,Alex Laughlin,0.054,5.055,177.58,False
+Sonoma Nationals,1,Ron Capps,0.101,4.602,180.07,True
+Sonoma Nationals,1,Matt Hagan,0.104,3.997,317.87,True
+Sonoma Nationals,1,Jason Rupert,0.14,4.038,314.24,False
+Sonoma Nationals,1,Robert Hight,0.057,3.904,331.53,True
+Sonoma Nationals,1,John Force,0.07,4.845,163.77,False
+Sonoma Nationals,1,Chad Green,0.062,3.923,328.78,True
+Sonoma Nationals,1,Cruz Pedregon,0.09,4.607,182.48,False
+Sonoma Nationals,1,J.R. Todd,0.081,3.958,322.58,True
+Sonoma Nationals,1,Blake Alexander,0.069,3.98,320.58,False
+Sonoma Nationals,2,Chad Green,0.036,3.963,325.45,True
+Sonoma Nationals,2,Paul Lee,0.071,4.068,269.29,False
+Sonoma Nationals,2,J.R. Todd,0.059,3.985,326.24,True
+Sonoma Nationals,2,Bob Tasca III,0.084,4.11,271.9,False
+Sonoma Nationals,2,Ron Capps,0.057,4.018,316.9,True
+Sonoma Nationals,2,Robert Hight,0.077,4.577,190.48,False
+Sonoma Nationals,2,Matt Hagan,0.104,3.955,324.98,True
+Sonoma Nationals,2,Tim Wilkerson,0.109,4.014,297.81,False
+Sonoma Nationals,3,Chad Green,0.07,3.991,324.67,True
+Sonoma Nationals,3,Ron Capps,0.054,4.013,317.49,False
+Sonoma Nationals,3,J.R. Todd,0.071,3.965,325.14,True
+Sonoma Nationals,3,Matt Hagan,0.085,3.999,323.12,False
+Sonoma Nationals,4,J.R. Todd,0.076,3.972,322.81,True
+Sonoma Nationals,4,Chad Green,0.063,4.039,314.17,False
+Heartland Nationals,1,Tim Wilkerson,0.125,3.987,318.77,True
+Heartland Nationals,1,Terry Haddock,0.116,4.593,203.65,False
+Heartland Nationals,1,Bob Tasca III,0.075,4.053,277.03,True
+Heartland Nationals,1,Blake Alexander,0.083,5.463,139.8,False
+Heartland Nationals,1,Robert Hight,0.061,3.967,322.19,True
+Heartland Nationals,1,Jack Wyatt,0.095,4.555,199.58,False
+Heartland Nationals,1,Ron Capps,0.068,4.337,272.17,True
+Heartland Nationals,1,Dave Richards,0.232,5.828,119.72,False
+Heartland Nationals,1,Matt Hagan,0.066,4.039,283.85,True
+Heartland Nationals,1,Alex Laughlin,0.043,4.705,260.01,False
+Heartland Nationals,1,Alexis DeJoria,0.111,4.029,306.19,True
+Heartland Nationals,1,John Force,0.095,4.867,159.66,False
+Heartland Nationals,1,J.R. Todd,0.053,3.963,321.65,True
+Heartland Nationals,1,Chad Green,0.045,4.119,310.41,False
+Heartland Nationals,1,Paul Lee,0.064,4.054,313.15,True
+Heartland Nationals,1,Cruz Pedregon,0.062,6.414,114.56,False
+Heartland Nationals,2,Matt Hagan,0.06,3.987,317.64,True
+Heartland Nationals,2,Tim Wilkerson,0.097,3.988,322.88,False
+Heartland Nationals,2,Bob Tasca III,0.075,4.025,303.03,True
+Heartland Nationals,2,Alexis DeJoria,0.088,4.046,317.57,False
+Heartland Nationals,2,Robert Hight,0.068,3.956,318.09,True
+Heartland Nationals,2,Paul Lee,0.066,4.244,236.26,False
+Heartland Nationals,2,J.R. Todd,0.059,3.96,324.36,True
+Heartland Nationals,2,Ron Capps,0.046,4.977,158.95,False
+Heartland Nationals,3,Matt Hagan,0.044,3.933,329.34,True
+Heartland Nationals,3,J.R. Todd,0.052,3.945,323.12,False
+Heartland Nationals,3,Bob Tasca III,0.044,3.933,305.63,True
+Heartland Nationals,3,Robert Hight,0.056,3.969,320.58,False
+Heartland Nationals,4,Bob Tasca III,0.055,3.885,332.26,True
+Heartland Nationals,4,Matt Hagan,0.024,3.965,329.18,False
+Lucas Oil Nationals,1,Bob Tasca III,0.082,3.884,331.36,True
+Lucas Oil Nationals,1,Blake Alexander,0.052,3.927,325.37,False
+Lucas Oil Nationals,1,Dave Richards,0.102,4.469,234.98,True
+Lucas Oil Nationals,1,Matt Hagan,0.089,8.022,90.47,False
+Lucas Oil Nationals,1,Dale Creasy Jr.,0.064,4.038,316.67,True
+Lucas Oil Nationals,1,J.R. Todd,0.084,4.045,319.98,False
+Lucas Oil Nationals,1,Ron Capps,0.088,3.906,330.23,True
+Lucas Oil Nationals,1,Cruz Pedregon,0.103,3.924,327.74,True
+Lucas Oil Nationals,1,Alex Laughlin,0.111,4.062,298.87,False
+Lucas Oil Nationals,1,Robert Hight,0.09,3.881,330.88,True
+Lucas Oil Nationals,1,Bobby Bode,0.079,3.929,322.5,False
+Lucas Oil Nationals,1,John Force,0.056,3.959,329.99,True
+Lucas Oil Nationals,1,Chad Green,0.072,3.945,325.3,False
+Lucas Oil Nationals,1,Tim Wilkerson,0.093,3.883,331.69,True
+Lucas Oil Nationals,1,Alexis DeJoria,0.096,3.906,331.28,False
+Lucas Oil Nationals,2,Ron Capps,0.079,3.892,333.08,True
+Lucas Oil Nationals,2,Tim Wilkerson,0.064,8.517,107.19,False
+Lucas Oil Nationals,2,Bob Tasca III,0.118,3.905,331.12,True
+Lucas Oil Nationals,2,Cruz Pedregon,0.07,3.96,322.96,False
+Lucas Oil Nationals,2,John Force,0.108,3.9,328.94,True
+Lucas Oil Nationals,2,Dale Creasy Jr.,0.082,0.0,0.0,False
+Lucas Oil Nationals,2,Robert Hight,0.096,3.913,329.83,True
+Lucas Oil Nationals,2,Dave Richards,0.112,0.0,0.0,False
+Lucas Oil Nationals,3,Robert Hight,0.067,3.918,325.61,True
+Lucas Oil Nationals,3,John Force,0.058,11.323,76.73,False
+Lucas Oil Nationals,3,Ron Capps,0.063,3.914,327.66,True
+Lucas Oil Nationals,3,Bob Tasca III,0.052,8.814,88.17,False
+Lucas Oil Nationals,4,Ron Capps,0.053,3.887,332.75,True
+Lucas Oil Nationals,4,Robert Hight,0.069,3.9,324.9,False
+US Nationals,1,Bob Tasca III,0.08,3.899,332.43,True
+US Nationals,1,Terry Haddock,0.11,4.061,300.8,False
+US Nationals,1,Alexis DeJoria,0.108,3.889,331.61,True
+US Nationals,1,Bobby Bode,0.092,4.187,253.9,False
+US Nationals,1,Robert Hight,0.095,3.889,329.67,True
+US Nationals,1,Paul Lee,0.068,4.119,258.81,False
+US Nationals,1,Matt Hagan,0.072,3.914,329.91,True
+US Nationals,1,Alex Laughlin,0.064,6.157,108.84,False
+US Nationals,1,Ron Capps,0.072,3.894,326.87,True
+US Nationals,1,Dale Creasy Jr.,0.068,4.605,193.24,False
+US Nationals,1,Cruz Pedregon,0.053,3.962,324.36,True
+US Nationals,1,John Force,0.072,3.998,318.69,False
+US Nationals,1,J.R. Todd,0.046,3.913,304.19,True
+US Nationals,1,Blake Alexander,0.098,3.972,324.83,False
+US Nationals,1,Tim Wilkerson,0.088,3.913,329.58,True
+US Nationals,1,Chad Green,0.034,3.989,328.94,False
+US Nationals,2,J.R. Todd,0.052,3.974,327.66,True
+US Nationals,2,Bob Tasca III,0.084,3.945,327.11,False
+US Nationals,2,Cruz Pedregon,0.1,3.944,325.3,True
+US Nationals,2,Alexis DeJoria,0.086,3.973,326.48,False
+US Nationals,2,Robert Hight,0.066,3.952,318.99,True
+US Nationals,2,Tim Wilkerson,0.088,5.032,152.37,False
+US Nationals,2,Ron Capps,0.063,4.582,235.19,True
+US Nationals,2,Matt Hagan,0.067,5.146,184.5,False
+US Nationals,3,J.R. Todd,0.068,4.007,326.32,True
+US Nationals,3,Cruz Pedregon,0.028,5.557,133.16,False
+US Nationals,3,Ron Capps,0.06,4.029,323.5,True
+US Nationals,3,Robert Hight,0.071,5.58,138.43,False
+US Nationals,4,Ron Capps,0.032,3.986,323.27,True
+US Nationals,4,J.R. Todd,0.057,4.131,288.09,False
+Reading Nationals,1,Tim Wilkerson,0.126,3.9,329.67,True
+Reading Nationals,1,Alex Laughlin,0.106,4.303,294.88,False
+Reading Nationals,1,Chad Green,0.081,5.309,156.37,True
+Reading Nationals,1,Terry Haddock,-0.019,4.066,311.13,False
+Reading Nationals,1,John Force,0.041,4.657,277.37,True
+Reading Nationals,1,Cruz Pedregon,0.093,5.423,131.19,False
+Reading Nationals,1,Bob Tasca III,0.083,4.381,198.38,True
+Reading Nationals,1,Cory Lee,0.09,4.523,211.66,False
+Reading Nationals,1,Robert Hight,0.074,3.875,331.2,True
+Reading Nationals,1,Jim Campbell,0.136,6.603,98.93,False
+Reading Nationals,1,Ron Capps,0.079,3.903,325.77,True
+Reading Nationals,1,Dave Richards,0.12,6.589,98.16,False
+Reading Nationals,1,Matt Hagan,0.06,3.871,336.15,True
+Reading Nationals,1,J.R. Todd,0.074,3.93,332.75,False
+Reading Nationals,1,Alexis DeJoria,0.099,3.879,334.57,True
+Reading Nationals,1,Blake Alexander,0.076,4.684,179.23,False
+Reading Nationals,2,Chad Green,0.066,4.005,277.94,True
+Reading Nationals,2,Tim Wilkerson,0.08,12.626,79.6,False
+Reading Nationals,2,Robert Hight,0.059,3.852,327.66,True
+Reading Nationals,2,Matt Hagan,0.052,3.859,335.48,False
+Reading Nationals,2,Ron Capps,0.045,3.899,326.4,True
+Reading Nationals,2,John Force,0.06,3.953,328.62,False
+Reading Nationals,2,Bob Tasca III,0.068,3.867,334.4,True
+Reading Nationals,2,Alexis DeJoria,0.162,3.904,332.67,False
+Reading Nationals,3,Chad Green,0.077,3.886,330.23,True
+Reading Nationals,3,Bob Tasca III,0.061,5.043,159.17,False
+Reading Nationals,3,Robert Hight,0.054,3.861,330.31,True
+Reading Nationals,3,Ron Capps,0.042,11.331,59.0,False
+Reading Nationals,4,Robert Hight,0.057,3.854,330.39,True
+Reading Nationals,4,Chad Green,0.071,3.928,327.27,False
+Carolina Nationals,1,Bob Tasca III,0.065,3.871,328.7,True
+Carolina Nationals,1,Alexis DeJoria,0.127,6.692,106.27,False
+Carolina Nationals,1,Robert Hight,-0.009,7.473,87.25,True
+Carolina Nationals,1,Matt Hagan,0.064,3.868,331.28,True
+Carolina Nationals,1,John Smith,-0.131,4.275,281.36,False
+Carolina Nationals,1,Alex Laughlin,0.078,4.138,306.46,True
+Carolina Nationals,1,John Force,0.049,9.366,79.86,False
+Carolina Nationals,1,Dave Richards,0.101,4.176,299.2,True
+Carolina Nationals,1,Ron Capps,0.105,4.729,177.67,False
+Carolina Nationals,1,Terry Haddock,0.104,4.157,296.57,True
+Carolina Nationals,1,Chad Green,0.065,4.52,188.99,False
+Carolina Nationals,1,Tim Wilkerson,0.058,3.918,329.91,True
+Carolina Nationals,1,Cruz Pedregon,0.098,4.822,160.96,False
+Carolina Nationals,1,Paul Lee,0.056,3.919,322.81,True
+Carolina Nationals,1,J.R. Todd,0.064,3.947,323.58,False
+Carolina Nationals,2,Bob Tasca III,0.086,3.894,329.02,True
+Carolina Nationals,2,Terry Haddock,-0.172,4.299,266.21,False
+Carolina Nationals,2,Alex Laughlin,0.085,4.203,300.66,True
+Carolina Nationals,2,Dave Richards,0.128,8.719,77.54,False
+Carolina Nationals,2,Robert Hight,0.107,3.963,314.68,True
+Carolina Nationals,2,Paul Lee,0.073,4.643,176.7,False
+Carolina Nationals,2,Matt Hagan,0.084,3.996,313.88,True
+Carolina Nationals,2,Tim Wilkerson,0.082,4.543,186.82,False
+Carolina Nationals,3,Bob Tasca III,0.066,3.935,327.35,True
+Carolina Nationals,3,Matt Hagan,0.054,3.953,321.04,False
+Carolina Nationals,3,Robert Hight,0.109,3.934,325.22,True
+Carolina Nationals,3,Alex Laughlin,0.079,4.2,305.77,False
+Carolina Nationals,4,Bob Tasca III,0.05,3.933,329.26,True
+Carolina Nationals,4,Robert Hight,0.091,3.932,326.95,False
+Midwest Nationals,1,Bob Tasca III,0.078,3.947,312.13,True
+Midwest Nationals,1,Jack Wyatt,0.082,8.444,83.24,False
+Midwest Nationals,1,Alex Laughlin,0.139,4.221,278.29,True
+Midwest Nationals,1,Chad Green,0.098,4.286,230.8,False
+Midwest Nationals,1,Blake Alexander,0.084,4.252,229.2,True
+Midwest Nationals,1,Dave Richards,0.134,5.319,139.73,False
+Midwest Nationals,1,John Force,0.093,3.969,311.85,True
+Midwest Nationals,1,Terry Haddock,0.13,9.438,87.27,False
+Midwest Nationals,1,Matt Hagan,0.086,3.961,322.04,True
+Midwest Nationals,1,Alexis DeJoria,0.115,5.104,147.99,False
+Midwest Nationals,1,J.R. Todd,0.084,4.048,311.7,True
+Midwest Nationals,1,Bobby Bode,0.089,0.0,0.0,False
+Midwest Nationals,1,Ron Capps,0.075,3.998,306.12,True
+Midwest Nationals,1,Tim Wilkerson,0.1,3.977,318.47,False
+Midwest Nationals,1,Robert Hight,0.066,3.94,314.53,True
+Midwest Nationals,1,Cruz Pedregon,0.104,4.024,320.36,False
+Midwest Nationals,2,Blake Alexander,0.084,6.689,164.13,True
+Midwest Nationals,2,J.R. Todd,0.071,9.245,86.46,False
+Midwest Nationals,2,Ron Capps,0.068,4.066,308.78,True
+Midwest Nationals,2,Alex Laughlin,0.082,4.263,286.74,False
+Midwest Nationals,2,Bob Tasca III,0.018,4.008,323.74,True
+Midwest Nationals,2,Robert Hight,0.077,3.977,317.49,False
+Midwest Nationals,2,Matt Hagan,0.091,4.031,312.35,True
+Midwest Nationals,2,John Force,0.047,5.037,161.17,False
+Midwest Nationals,3,Matt Hagan,0.062,4.016,316.38,True
+Midwest Nationals,3,Bob Tasca III,0.063,5.037,165.27,False
+Midwest Nationals,3,Ron Capps,0.088,4.014,323.35,True
+Midwest Nationals,3,Blake Alexander,0.077,4.803,176.28,False
+Midwest Nationals,4,Matt Hagan,0.029,3.991,324.9,True
+Midwest Nationals,4,Ron Capps,0.071,4.025,306.88,False
+FallNationals,1,Bob Tasca III,0.081,4.248,239.34,True
+FallNationals,1,Jack Wyatt,0.137,4.84,167.7,False
+FallNationals,1,Terry Haddock,0.038,4.266,298.73,True
+FallNationals,1,Robert Hight,0.088,4.273,288.68,False
+FallNationals,1,John Force,0.113,3.839,331.74,True
+FallNationals,1,Jeff Diehl,0.087,10.318,89.19,False
+FallNationals,1,Alex Laughlin,0.056,4.237,275.21,True
+FallNationals,1,Ron Capps,0.078,8.428,85.81,False
+FallNationals,1,Matt Hagan,0.067,3.895,318.88,True
+FallNationals,1,Paul Lee,0.064,5.014,148.91,False
+FallNationals,1,J.R. Todd,0.053,3.882,327.11,True
+FallNationals,1,Blake Alexander,0.067,4.164,237.6,False
+FallNationals,1,Cruz Pedregon,0.04,3.935,332.1,True
+FallNationals,1,Chad Green,0.049,3.939,326.87,False
+FallNationals,1,Tim Wilkerson,0.079,4.416,202.42,True
+FallNationals,1,Alexis DeJoria,0.102,5.238,209.17,False
+FallNationals,2,Tim Wilkerson,0.078,3.866,327.58,True
+FallNationals,2,Bob Tasca III,0.069,3.921,328.25,False
+FallNationals,2,John Force,0.102,3.845,327.68,True
+FallNationals,2,Cruz Pedregon,0.099,3.889,328.59,False
+FallNationals,2,J.R. Todd,0.076,3.928,327.03,True
+FallNationals,2,Terry Haddock,0.093,5.92,112.88,False
+FallNationals,2,Matt Hagan,0.073,3.868,331.3,True
+FallNationals,2,Alex Laughlin,0.061,4.344,255.77,False
+FallNationals,3,Matt Hagan,0.056,3.875,328.85,True
+FallNationals,3,Tim Wilkerson,0.081,3.897,328.95,False
+FallNationals,3,John Force,0.05,4.711,288.31,True
+FallNationals,3,J.R. Todd,0.036,6.83,106.21,False
+FallNationals,4,Matt Hagan,0.062,3.883,332.25,True
+FallNationals,4,John Force,0.054,6.818,94.02,False
+Nevada Nationals,1,Paul Lee,0.107,3.899,326.08,True
+Nevada Nationals,1,Chad Green,0.07,3.998,265.69,False
+Nevada Nationals,1,Blake Alexander,0.061,3.94,319.52,True
+Nevada Nationals,1,John Force,0.08,5.468,134.22,False
+Nevada Nationals,1,Bob Tasca III,0.084,4.347,226.54,True
+Nevada Nationals,1,Steven Densham,0.109,4.727,170.58,False
+Nevada Nationals,1,Robert Hight,0.096,3.816,332.67,True
+Nevada Nationals,1,Jeff Diehl,-0.093,4.03,309.63,False
+Nevada Nationals,1,Alex Laughlin,0.048,4.089,309.06,True
+Nevada Nationals,1,Ron Capps,0.082,4.09,254.04,False
+Nevada Nationals,1,Matt Hagan,0.079,3.889,330.72,True
+Nevada Nationals,1,Terry Haddock,0.109,6.844,98.13,False
+Nevada Nationals,1,Cruz Pedregon,0.062,4.749,275.06,True
+Nevada Nationals,1,J.R. Todd,0.049,4.83,253.56,False
+Nevada Nationals,1,Alexis DeJoria,0.105,3.923,326.16,True
+Nevada Nationals,1,Tim Wilkerson,0.101,4.674,164.49,False
+Nevada Nationals,2,Bob Tasca III,0.057,3.986,316.67,True
+Nevada Nationals,2,Cruz Pedregon,1.994,0.0,0.0,False
+Nevada Nationals,2,Blake Alexander,0.088,3.935,321.12,True
+Nevada Nationals,2,Robert Hight,0.085,3.859,333.99,True
+Nevada Nationals,2,Alexis DeJoria,0.107,4.085,247.79,False
+Nevada Nationals,2,Matt Hagan,0.064,3.892,331.36,True
+Nevada Nationals,2,Paul Lee,0.072,3.947,317.64,False
+Nevada Nationals,3,Bob Tasca III,0.055,3.886,332.84,True
+Nevada Nationals,3,Matt Hagan,0.049,3.901,328.38,False
+Nevada Nationals,3,Robert Hight,0.085,3.868,330.55,True
+Nevada Nationals,3,Blake Alexander,0.06,7.579,89.89,False
+Nevada Nationals,4,Robert Hight,0.063,3.851,326.79,True
+Nevada Nationals,4,Bob Tasca III,0.04,4.235,268.28,False
+Finals,1,Blake Alexander,0.065,3.931,323.81,True
+Finals,1,Paul Lee,0.056,8.424,90.31,False
+Finals,1,John Force,0.064,3.948,326.56,True
+Finals,1,Terry Haddock,0.133,5.042,151.83,False
+Finals,1,Cruz Pedregon,0.12,3.955,318.54,True
+Finals,1,Bobby Bode,0.104,4.017,304.53,False
+Finals,1,Robert Hight,0.096,3.87,333.41,True
+Finals,1,Jeff Diehl,0.051,4.035,304.25,False
+Finals,1,Matt Hagan,0.07,3.945,327.11,True
+Finals,1,Alex Laughlin,0.066,5.272,155.76,False
+Finals,1,Bob Tasca III,0.054,4.002,317.27,True
+Finals,1,Steven Densham,0.102,4.014,309.13,False
+Finals,1,Tim Wilkerson,0.055,3.978,314.39,True
+Finals,1,Ron Capps,0.06,4.595,186.0,False
+Finals,1,Chad Green,0.11,3.986,319.45,True
+Finals,1,J.R. Todd,0.036,4.98,163.51,False
+Finals,2,Cruz Pedregon,0.077,3.967,323.19,True
+Finals,2,Bob Tasca III,0.069,5.483,142.48,False
+Finals,2,Blake Alexander,0.074,4.196,258.71,True
+Finals,2,Matt Hagan,0.062,4.251,261.52,False
+Finals,2,Tim Wilkerson,0.089,3.956,320.81,True
+Finals,2,John Force,0.059,4.003,324.2,False
+Finals,2,Chad Green,0.083,3.971,322.11,True
+Finals,2,Robert Hight,0.075,4.216,246.39,False
+Finals,3,Chad Green,0.065,3.961,325.45,True
+Finals,3,Blake Alexander,0.118,3.96,317.34,False
+Finals,3,Tim Wilkerson,0.094,3.92,328.14,True
+Finals,3,Cruz Pedregon,0.107,3.953,326.56,False
+Finals,4,Chad Green,0.033,3.916,328.54,True
+Finals,4,Tim Wilkerson,0.092,3.9,327.59,False

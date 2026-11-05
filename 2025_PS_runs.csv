@@ -1,0 +1,494 @@
+race,round,driver,rt,et,mph,win
+Gatornationals,1,Derrick Reese,0.036,6.594,208.75,True
+Gatornationals,1,Erica Enders,0.036,13.199,67.63,False
+Gatornationals,1,Mason McGaha,0.045,6.932,207.75,True
+Gatornationals,1,Matt Hartford,0.079,6.983,206.2,False
+Gatornationals,1,Troy Coughlin Jr.,0.025,6.555,210.18,True
+Gatornationals,1,Aaron Stanfield,0.03,7.237,153.51,False
+Gatornationals,1,Jeg Coughlin,0.015,9.193,110.95,True
+Gatornationals,1,Greg Stanfield,-0.077,13.391,79.24,False
+Gatornationals,1,Dallas Glenn,0.013,6.547,210.93,True
+Gatornationals,1,Brandon Miller,0.023,6.746,198.12,False
+Gatornationals,1,Cory Reed,0.028,6.539,210.08,True
+Gatornationals,1,Deric Kramer,0.031,6.61,209.33,False
+Gatornationals,1,Greg Anderson,0.059,6.54,210.44,True
+Gatornationals,1,Chris McGaha,0.066,6.657,207.85,False
+Gatornationals,1,Eric Latino,0.064,6.538,211.03,True
+Gatornationals,1,Kenny Delco,0.073,6.63,208.26,False
+Gatornationals,2,Dallas Glenn,0.026,6.571,209.65,True
+Gatornationals,2,Troy Coughlin Jr.,0.029,6.591,209.36,False
+Gatornationals,2,Greg Anderson,0.033,6.541,209.56,True
+Gatornationals,2,Derrick Reese,0.04,13.207,64.75,False
+Gatornationals,2,Cory Reed,0.039,6.539,209.69,True
+Gatornationals,2,Mason McGaha,0.047,6.622,207.18,False
+Gatornationals,2,Jeg Coughlin,0.025,6.565,208.97,True
+Gatornationals,2,Eric Latino,0.038,6.553,210.31,False
+Gatornationals,3,Greg Anderson,0.032,6.541,210.54,True
+Gatornationals,3,Jeg Coughlin,0.004,6.572,209.23,False
+Gatornationals,3,Dallas Glenn,0.028,6.542,210.6,True
+Gatornationals,3,Cory Reed,-0.003,8.977,85.1,False
+Gatornationals,4,Dallas Glenn,0.022,6.549,211.13,True
+Gatornationals,4,Greg Anderson,0.055,0.0,0.0,False
+Arizona Nationals,1,Mason McGaha,0.029,6.907,207.69,True
+Arizona Nationals,1,Deric Kramer,0.049,9.62,109.58,False
+Arizona Nationals,1,Eric Latino,0.086,6.598,209.2,True
+Arizona Nationals,1,Erica Enders,0.108,6.824,209.39,False
+Arizona Nationals,1,Aaron Stanfield,0.061,6.596,209.33,True
+Arizona Nationals,1,Cristian Cuadra,-0.009,6.582,206.92,False
+Arizona Nationals,1,Cory Reed,0.092,6.546,209.62,True
+Arizona Nationals,1,Jeg Coughlin,0.009,7.075,205.6,False
+Arizona Nationals,1,Matt Hartford,0.084,6.56,208.71,True
+Arizona Nationals,1,Brandon Foster,0.055,6.619,207.5,False
+Arizona Nationals,1,Greg Anderson,0.037,6.555,209.49,True
+Arizona Nationals,1,Fernando Cuadra Jr.,0.086,10.798,85.46,False
+Arizona Nationals,1,Dallas Glenn,0.055,6.56,210.57,True
+Arizona Nationals,1,David Cuadra,0.026,6.602,208.71,False
+Arizona Nationals,1,Greg Stanfield,0.011,6.582,208.75,True
+Arizona Nationals,1,Troy Coughlin Jr.,0.04,6.587,209.79,False
+Arizona Nationals,2,Matt Hartford,0.067,6.588,208.46,True
+Arizona Nationals,2,Mason McGaha,0.06,6.837,204.48,False
+Arizona Nationals,2,Dallas Glenn,0.048,6.59,209.95,True
+Arizona Nationals,2,Greg Stanfield,0.048,18.127,58.53,False
+Arizona Nationals,2,Greg Anderson,0.069,6.616,209.17,True
+Arizona Nationals,2,Eric Latino,0.102,6.594,209.17,False
+Arizona Nationals,2,Aaron Stanfield,0.052,6.589,208.49,True
+Arizona Nationals,2,Cory Reed,0.063,6.603,209.1,False
+Arizona Nationals,3,Greg Anderson,0.018,6.586,209.79,True
+Arizona Nationals,3,Aaron Stanfield,0.031,16.603,50.14,False
+Arizona Nationals,3,Dallas Glenn,0.032,6.591,209.79,True
+Arizona Nationals,3,Matt Hartford,0.069,6.586,208.49,False
+Arizona Nationals,4,Greg Anderson,-0.041,0.0,0.0,True
+Winternationals,1,Jeg Coughlin,0.007,6.524,209.52,True
+Winternationals,1,Stephen Bell,0.031,6.556,210.54,False
+Winternationals,1,Dallas Glenn,0.028,6.49,211.49,True
+Winternationals,1,Erica Enders,0.013,6.564,210.83,False
+Winternationals,1,Matt Latino,0.018,6.535,211.1,True
+Winternationals,1,Eric Latino,0.058,6.508,210.7,False
+Winternationals,1,Cory Reed,0.066,6.491,210.97,True
+Winternationals,1,Greg Stanfield,0.046,6.532,210.31,False
+Winternationals,1,Matt Hartford,0.043,6.482,211.96,True
+Winternationals,1,Troy Coughlin Jr.,0.018,6.552,209.59,False
+Winternationals,1,Greg Anderson,0.013,6.477,211.0,True
+Winternationals,1,Mason McGaha,0.164,0.0,0.0,False
+Winternationals,1,Deric Kramer,0.052,6.502,210.8,True
+Winternationals,1,Brandon Foster,0.06,6.526,210.8,True
+Winternationals,1,Aaron Stanfield,0.05,14.89,59.05,False
+Winternationals,2,Deric Kramer,0.168,6.535,211.0,True
+Winternationals,2,Matt Latino,-0.5,17.115,51.69,False
+Winternationals,2,Cory Reed,0.249,6.517,210.9,True
+Winternationals,2,Dallas Glenn,0.023,6.505,211.46,True
+Winternationals,2,Matt Hartford,0.04,6.505,211.89,False
+Winternationals,2,Greg Anderson,0.03,6.492,211.56,True
+Winternationals,2,Jeg Coughlin,0.022,6.546,210.77,False
+Winternationals,3,Dallas Glenn,0.017,6.507,211.33,True
+Winternationals,3,Deric Kramer,0.078,14.431,60.58,False
+Winternationals,3,Greg Anderson,0.015,6.489,210.67,True
+Winternationals,3,Cory Reed,0.091,6.517,210.9,False
+Winternationals,4,Greg Anderson,0.027,6.476,210.9,True
+Winternationals,4,Dallas Glenn,0.017,6.503,211.66,False
+4-Wide Nationals,1,Cory Reed,0.091,6.696,205.41,True
+4-Wide Nationals,1,Matt Hartford,0.223,6.631,205.91,True
+4-Wide Nationals,1,Fernando Cuadra Jr.,0.392,6.719,202.7,False
+4-Wide Nationals,1,Mason McGaha,0.012,6.67,206.51,True
+4-Wide Nationals,1,Dallas Glenn,0.059,6.64,206.32,True
+4-Wide Nationals,1,David Cuadra,0.033,6.677,205.51,False
+4-Wide Nationals,1,Aaron Stanfield,0.047,6.687,205.41,False
+4-Wide Nationals,1,Matt Latino,0.037,6.679,205.32,True
+4-Wide Nationals,1,Deric Kramer,0.059,6.669,205.79,True
+4-Wide Nationals,1,Chris McGaha,0.062,6.684,205.35,False
+4-Wide Nationals,1,Cody Coughlin,0.112,6.653,205.35,False
+4-Wide Nationals,1,Greg Anderson,0.063,6.612,206.01,True
+4-Wide Nationals,1,Cristian Cuadra,0.012,6.664,205.35,True
+4-Wide Nationals,1,Jeg Coughlin,0.019,6.66,205.04,False
+4-Wide Nationals,1,Eric Latino,0.101,6.67,203.16,False
+4-Wide Nationals,2,Dallas Glenn,0.037,6.636,206.32,True
+4-Wide Nationals,2,Matt Latino,0.019,6.697,205.29,True
+4-Wide Nationals,2,Deric Kramer,0.058,6.694,206.1,False
+4-Wide Nationals,2,Mason McGaha,0.073,6.867,205.66,False
+4-Wide Nationals,2,Matt Hartford,0.039,6.638,205.66,True
+4-Wide Nationals,2,Greg Anderson,0.043,6.635,206.16,True
+4-Wide Nationals,2,Cristian Cuadra,0.122,24.484,29.32,False
+4-Wide Nationals,2,Cory Reed,-0.126,6.704,203.31,False
+4-Wide Nationals,3,Dallas Glenn,0.03,6.649,206.83,True
+4-Wide Nationals,3,Matt Hartford,0.049,6.638,205.85,False
+4-Wide Nationals,3,Greg Anderson,0.021,6.677,203.55,False
+4-Wide Nationals,3,Matt Latino,0.018,6.699,205.63,False
+4-Wide Carolina,1,Cory Reed,0.479,6.513,211.83,True
+4-Wide Carolina,1,Eric Latino,1.657,6.549,209.69,True
+4-Wide Carolina,1,Cody Coughlin,0.557,8.527,132.75,False
+4-Wide Carolina,1,Chris McGaha,0.008,6.566,210.67,True
+4-Wide Carolina,1,Matt Hartford,0.032,6.557,212.66,True
+4-Wide Carolina,1,Jeg Coughlin,0.018,11.171,95.44,False
+4-Wide Carolina,1,Greg Stanfield,0.02,13.86,68.95,False
+4-Wide Carolina,1,Greg Anderson,0.049,6.487,212.46,True
+4-Wide Carolina,1,Brandon Foster,0.065,6.595,208.81,True
+4-Wide Carolina,1,Kenny Delco,0.062,9.148,101.48,False
+4-Wide Carolina,1,Deric Kramer,0.043,13.083,67.37,False
+4-Wide Carolina,1,Dallas Glenn,0.039,6.481,213.13,True
+4-Wide Carolina,1,Erica Enders,0.019,6.526,210.21,True
+4-Wide Carolina,1,Mason McGaha,0.035,6.547,211.13,False
+4-Wide Carolina,1,Matt Latino,0.008,14.119,61.11,False
+4-Wide Carolina,2,Greg Anderson,0.037,6.512,211.96,True
+4-Wide Carolina,2,Matt Hartford,0.024,6.533,213.23,True
+4-Wide Carolina,2,Chris McGaha,0.074,7.045,205.35,False
+4-Wide Carolina,2,Brandon Foster,0.033,12.502,69.74,False
+4-Wide Carolina,2,Dallas Glenn,0.053,6.519,211.86,True
+4-Wide Carolina,2,Eric Latino,0.076,6.523,210.57,True
+4-Wide Carolina,2,Erica Enders,0.043,6.559,210.6,False
+4-Wide Carolina,2,Cory Reed,0.058,6.547,211.66,False
+4-Wide Carolina,3,Dallas Glenn,0.002,6.495,212.69,True
+4-Wide Carolina,3,Greg Anderson,0.036,6.472,212.13,False
+4-Wide Carolina,3,Matt Hartford,0.052,8.825,112.01,False
+4-Wide Carolina,3,Eric Latino,-0.017,9.294,99.82,False
+New England Nationals,1,Aaron Stanfield,0.021,6.554,211.2,True
+New England Nationals,1,Chris McGaha,0.059,6.973,208.97,False
+New England Nationals,1,Dave Connolly,0.031,6.493,210.6,True
+New England Nationals,1,Greg Stanfield,0.034,6.526,211.46,False
+New England Nationals,1,Matt Hartford,0.0,6.497,213.4,True
+New England Nationals,1,Jeg Coughlin,0.017,6.503,210.9,False
+New England Nationals,1,Cory Reed,0.005,6.546,210.57,True
+New England Nationals,1,Mason McGaha,0.051,12.304,70.98,False
+New England Nationals,1,Dallas Glenn,0.028,6.505,211.99,True
+New England Nationals,1,Troy Coughlin Jr.,0.023,6.535,212.09,False
+New England Nationals,1,Erica Enders,0.014,6.5,211.06,True
+New England Nationals,1,Deric Kramer,0.05,6.539,211.23,False
+New England Nationals,1,Greg Anderson,0.061,6.489,212.03,True
+New England Nationals,1,Kenny Delco,0.07,6.537,210.21,False
+New England Nationals,1,Cody Coughlin,0.116,6.489,212.26,True
+New England Nationals,1,Brandon Miller,0.03,6.585,208.65,False
+New England Nationals,2,Erica Enders,0.041,9.045,112.38,True
+New England Nationals,2,Cory Reed,0.037,28.751,23.85,False
+New England Nationals,2,Matt Hartford,0.01,13.448,100.51,True
+New England Nationals,2,Dallas Glenn,-0.012,6.523,211.83,False
+New England Nationals,2,Greg Anderson,0.032,6.499,211.16,True
+New England Nationals,2,Dave Connolly,0.018,7.683,127.59,False
+New England Nationals,2,Aaron Stanfield,0.01,6.506,213.1,True
+New England Nationals,2,Cody Coughlin,-0.18,6.505,204.39,False
+New England Nationals,3,Erica Enders,0.03,6.954,210.24,True
+New England Nationals,3,Aaron Stanfield,0.021,7.348,172.17,False
+New England Nationals,3,Greg Anderson,0.039,6.487,212.29,True
+New England Nationals,3,Matt Hartford,0.035,6.513,212.96,False
+New England Nationals,4,Greg Anderson,0.074,6.469,212.19,True
+New England Nationals,4,Erica Enders,0.068,19.498,41.79,False
+Thunder Valley Nationals,1,Matt Latino,0.015,6.689,204.7,True
+Thunder Valley Nationals,1,Jeg Coughlin,0.038,11.999,90.43,False
+Thunder Valley Nationals,1,David Cuadra,0.032,6.671,204.91,True
+Thunder Valley Nationals,1,Cristian Cuadra,0.001,15.816,51.76,False
+Thunder Valley Nationals,1,Erica Enders,0.041,6.692,205.72,True
+Thunder Valley Nationals,1,Cory Reed,0.07,7.039,160.46,False
+Thunder Valley Nationals,1,Cody Coughlin,0.041,6.677,204.88,True
+Thunder Valley Nationals,1,Greg Stanfield,-0.025,22.121,32.54,False
+Thunder Valley Nationals,1,Greg Anderson,0.048,6.65,205.72,True
+Thunder Valley Nationals,1,Kenny Delco,-0.002,6.733,199.26,False
+Thunder Valley Nationals,1,Deric Kramer,0.217,6.694,204.48,True
+Thunder Valley Nationals,1,Dallas Glenn,0.031,6.671,205.51,True
+Thunder Valley Nationals,1,Fernando Cuadra Jr.,0.014,13.36,63.71,False
+Thunder Valley Nationals,1,Aaron Stanfield,0.042,6.676,204.7,True
+Thunder Valley Nationals,1,Mason McGaha,0.051,6.749,204.88,False
+Thunder Valley Nationals,2,Aaron Stanfield,0.036,6.709,204.17,True
+Thunder Valley Nationals,2,Cody Coughlin,0.031,18.279,43.53,False
+Thunder Valley Nationals,2,David Cuadra,0.008,6.725,203.95,True
+Thunder Valley Nationals,2,Deric Kramer,0.04,6.713,204.88,False
+Thunder Valley Nationals,2,Dallas Glenn,0.036,6.667,206.23,True
+Thunder Valley Nationals,2,Matt Latino,0.039,6.686,205.19,False
+Thunder Valley Nationals,2,Greg Anderson,0.027,6.646,206.01,True
+Thunder Valley Nationals,2,Erica Enders,0.031,11.385,77.76,False
+Thunder Valley Nationals,3,Dallas Glenn,0.016,6.671,206.23,True
+Thunder Valley Nationals,3,Aaron Stanfield,0.029,7.362,153.51,False
+Thunder Valley Nationals,3,Greg Anderson,0.059,6.644,206.01,True
+Thunder Valley Nationals,3,David Cuadra,0.026,6.699,204.82,False
+Thunder Valley Nationals,4,Greg Anderson,0.021,6.623,205.91,True
+Thunder Valley Nationals,4,Dallas Glenn,-0.002,13.116,65.23,False
+Summit Racing Nationals,1,Aaron Stanfield,0.028,6.633,206.1,True
+Summit Racing Nationals,1,Erica Enders,0.053,6.619,206.04,False
+Summit Racing Nationals,1,Cody Coughlin,0.022,6.611,206.67,True
+Summit Racing Nationals,1,Jeg Coughlin,0.033,6.651,205.72,False
+Summit Racing Nationals,1,Eric Latino,0.068,6.629,206.83,True
+Summit Racing Nationals,1,Deric Kramer,0.041,6.66,205.54,False
+Summit Racing Nationals,1,Cory Reed,0.066,6.591,207.4,True
+Summit Racing Nationals,1,Troy Coughlin Jr.,0.07,6.625,205.29,False
+Summit Racing Nationals,1,Dallas Glenn,0.053,6.581,207.69,True
+Summit Racing Nationals,1,Val Smeland,0.336,8.44,116.19,False
+Summit Racing Nationals,1,Greg Anderson,0.098,6.574,206.73,True
+Summit Racing Nationals,1,Derrick Reese,0.043,6.697,205.01,False
+Summit Racing Nationals,1,Matt Hartford,0.067,6.58,207.75,True
+Summit Racing Nationals,1,Chris McGaha,0.035,6.638,207.15,False
+Summit Racing Nationals,1,Greg Stanfield,0.018,6.612,206.61,True
+Summit Racing Nationals,1,Mason McGaha,0.055,6.641,207.37,False
+Summit Racing Nationals,2,Cory Reed,0.066,6.622,207.75,True
+Summit Racing Nationals,2,Greg Stanfield,0.027,6.689,206.45,False
+Summit Racing Nationals,2,Dallas Glenn,0.032,6.617,207.18,True
+Summit Racing Nationals,2,Cody Coughlin,0.006,6.662,206.42,False
+Summit Racing Nationals,2,Matt Hartford,0.23,6.596,208.1,True
+Summit Racing Nationals,2,Greg Anderson,0.051,6.594,207.27,True
+Summit Racing Nationals,2,Aaron Stanfield,0.019,6.629,207.94,False
+Summit Racing Nationals,3,Dallas Glenn,0.011,6.638,207.02,True
+Summit Racing Nationals,3,Matt Hartford,0.064,9.986,96.72,False
+Summit Racing Nationals,3,Cory Reed,0.056,6.64,207.08,True
+Summit Racing Nationals,3,Greg Anderson,0.063,8.855,110.82,False
+Summit Racing Nationals,4,Cory Reed,0.012,6.648,207.3,True
+Summit Racing Nationals,4,Dallas Glenn,0.039,15.852,52.42,False
+Northwest Nationals,1,Matt Latino,0.093,6.7,177.58,True
+Northwest Nationals,1,Deric Kramer,0.047,17.211,55.77,False
+Northwest Nationals,1,Troy Coughlin Jr.,0.036,6.515,211.16,True
+Northwest Nationals,1,Aaron Stanfield,0.024,6.822,165.58,False
+Northwest Nationals,1,Jeg Coughlin,0.007,6.495,210.64,True
+Northwest Nationals,1,Erica Enders,0.057,6.481,211.79,False
+Northwest Nationals,1,Matt Hartford,0.032,7.665,174.12,True
+Northwest Nationals,1,Mason McGaha,0.058,0.0,0.0,False
+Northwest Nationals,1,Cory Reed,0.043,6.499,210.73,True
+Northwest Nationals,1,Greg Anderson,0.074,6.477,212.36,False
+Northwest Nationals,1,Cody Coughlin,0.085,6.459,210.41,True
+Northwest Nationals,1,Chris McGaha,0.051,6.576,209.85,False
+Northwest Nationals,1,Dallas Glenn,0.043,6.446,212.43,True
+Northwest Nationals,1,Kenny Delco,0.057,12.638,87.99,False
+Northwest Nationals,1,Greg Stanfield,0.046,6.462,212.36,True
+Northwest Nationals,1,Stephen Bell,0.054,6.518,211.2,False
+Northwest Nationals,2,Jeg Coughlin,0.013,6.504,210.73,True
+Northwest Nationals,2,Cory Reed,0.051,6.513,211.03,False
+Northwest Nationals,2,Greg Stanfield,0.006,6.474,212.29,True
+Northwest Nationals,2,Matt Hartford,0.044,6.508,212.29,False
+Northwest Nationals,2,Cody Coughlin,0.026,6.472,211.0,True
+Northwest Nationals,2,Troy Coughlin Jr.,0.036,6.501,211.2,False
+Northwest Nationals,2,Dallas Glenn,0.042,6.454,212.53,True
+Northwest Nationals,2,Matt Latino,0.084,6.495,210.31,False
+Northwest Nationals,3,Jeg Coughlin,0.007,6.497,211.36,True
+Northwest Nationals,3,Cody Coughlin,0.038,6.508,209.92,False
+Northwest Nationals,3,Dallas Glenn,0.036,6.475,211.79,True
+Northwest Nationals,3,Greg Stanfield,-0.062,15.474,71.7,False
+Northwest Nationals,4,Dallas Glenn,0.05,17.42,62.72,True
+Northwest Nationals,4,Jeg Coughlin,-0.009,15.358,68.64,False
+Sonoma Nationals,1,Jeg Coughlin,0.014,6.503,210.93,True
+Sonoma Nationals,1,Matt Hartford,0.029,7.616,115.22,False
+Sonoma Nationals,1,Troy Coughlin Jr.,1.84,15.079,59.28,True
+Sonoma Nationals,1,Matt Latino,0.058,6.505,210.01,True
+Sonoma Nationals,1,Mason McGaha,0.054,7.647,158.11,False
+Sonoma Nationals,1,Cody Coughlin,0.02,6.482,209.72,True
+Sonoma Nationals,1,Erica Enders,0.04,9.939,94.3,False
+Sonoma Nationals,1,Aaron Stanfield,0.017,6.511,211.66,True
+Sonoma Nationals,1,Cory Reed,0.085,6.482,210.54,False
+Sonoma Nationals,1,Greg Anderson,0.027,6.467,210.8,True
+Sonoma Nationals,1,Chris McGaha,0.051,6.553,209.56,False
+Sonoma Nationals,1,Dallas Glenn,0.042,6.461,211.89,True
+Sonoma Nationals,1,Kenny Delco,0.029,6.65,206.29,False
+Sonoma Nationals,1,Greg Stanfield,0.026,6.502,211.36,True
+Sonoma Nationals,1,Stephen Bell,0.067,6.552,209.85,False
+Sonoma Nationals,2,Greg Stanfield,0.031,9.4,119.56,True
+Sonoma Nationals,2,Matt Latino,0.074,13.041,75.79,False
+Sonoma Nationals,2,Aaron Stanfield,0.015,8.061,148.54,True
+Sonoma Nationals,2,Cody Coughlin,-0.013,19.027,39.25,False
+Sonoma Nationals,2,Greg Anderson,0.082,6.54,210.54,True
+Sonoma Nationals,2,Troy Coughlin Jr.,0.063,6.576,209.72,False
+Sonoma Nationals,2,Dallas Glenn,0.051,6.485,211.16,True
+Sonoma Nationals,2,Jeg Coughlin,0.018,12.256,93.77,False
+Sonoma Nationals,3,Greg Stanfield,0.033,7.236,203.46,True
+Sonoma Nationals,3,Greg Anderson,0.047,14.248,57.35,False
+Sonoma Nationals,3,Aaron Stanfield,0.011,6.579,209.85,True
+Sonoma Nationals,3,Dallas Glenn,0.036,13.896,61.08,False
+Sonoma Nationals,4,Greg Stanfield,0.03,6.552,211.49,True
+Sonoma Nationals,4,Aaron Stanfield,0.016,6.568,209.39,False
+Lucas Oil Nationals,1,Eric Latino,0.155,6.643,205.88,True
+Lucas Oil Nationals,1,Cody Coughlin,0.009,15.796,54.92,False
+Lucas Oil Nationals,1,Jeg Coughlin,0.019,6.583,207.85,True
+Lucas Oil Nationals,1,David Cuadra,0.022,32.885,34.01,False
+Lucas Oil Nationals,1,Erica Enders,0.021,6.56,208.55,True
+Lucas Oil Nationals,1,Greg Stanfield,0.025,6.589,208.1,False
+Lucas Oil Nationals,1,Cory Reed,0.006,6.56,207.66,True
+Lucas Oil Nationals,1,Deric Kramer,0.047,6.593,208.59,False
+Lucas Oil Nationals,1,Matt Hartford,0.05,6.581,209.01,True
+Lucas Oil Nationals,1,Troy Coughlin Jr.,0.051,6.582,207.88,False
+Lucas Oil Nationals,1,Dallas Glenn,0.033,6.554,208.1,True
+Lucas Oil Nationals,1,Fernando Cuadra Jr.,-0.001,6.595,205.04,False
+Lucas Oil Nationals,1,Greg Anderson,0.02,6.521,208.07,True
+Lucas Oil Nationals,1,Chris Vang,-0.036,0.0,0.0,False
+Lucas Oil Nationals,1,Aaron Stanfield,0.04,6.566,206.45,True
+Lucas Oil Nationals,1,Cristian Cuadra,0.052,6.567,206.83,False
+Lucas Oil Nationals,2,Aaron Stanfield,0.012,6.579,208.07,True
+Lucas Oil Nationals,2,Cory Reed,0.054,6.582,208.33,False
+Lucas Oil Nationals,2,Erica Enders,0.014,6.572,208.71,True
+Lucas Oil Nationals,2,Matt Hartford,-0.008,13.676,62.97,False
+Lucas Oil Nationals,2,Dallas Glenn,0.013,6.564,208.04,True
+Lucas Oil Nationals,2,Jeg Coughlin,-0.001,6.6,207.56,False
+Lucas Oil Nationals,2,Greg Anderson,0.072,6.551,207.66,True
+Lucas Oil Nationals,2,Eric Latino,0.113,6.598,206.48,False
+Lucas Oil Nationals,3,Dallas Glenn,0.011,6.579,208.14,True
+Lucas Oil Nationals,3,Erica Enders,0.009,6.583,208.75,False
+Lucas Oil Nationals,3,Greg Anderson,0.041,6.555,207.66,True
+Lucas Oil Nationals,3,Aaron Stanfield,0.037,6.583,207.85,False
+Lucas Oil Nationals,4,Greg Anderson,0.025,6.551,206.86,True
+Lucas Oil Nationals,4,Dallas Glenn,0.026,6.577,206.1,False
+US Nationals,1,Fernando Cuadra Jr.,0.056,6.538,207.82,True
+US Nationals,1,Eric Latino,0.063,6.544,209.95,False
+US Nationals,1,Jeg Coughlin,0.059,6.554,207.94,True
+US Nationals,1,Cody Coughlin,-0.013,19.872,40.17,False
+US Nationals,1,Aaron Stanfield,0.014,6.521,211.2,True
+US Nationals,1,Deric Kramer,0.004,6.533,209.79,False
+US Nationals,1,Matt Hartford,0.018,6.522,210.77,True
+US Nationals,1,David Cuadra,0.007,6.552,209.01,False
+US Nationals,1,Cristian Cuadra,0.056,6.564,209.52,True
+US Nationals,1,Cory Reed,0.095,6.531,209.72,False
+US Nationals,1,Dallas Glenn,0.038,6.498,211.79,True
+US Nationals,1,Stephen Bell,0.049,6.557,209.82,False
+US Nationals,1,Greg Anderson,0.043,6.496,210.6,True
+US Nationals,1,Mason McGaha,0.062,6.573,208.55,False
+US Nationals,1,Erica Enders,0.03,6.513,211.1,True
+US Nationals,1,Greg Stanfield,0.017,6.542,203.06,False
+US Nationals,2,Matt Hartford,0.006,6.995,207.82,True
+US Nationals,2,Cristian Cuadra,0.082,7.344,204.91,False
+US Nationals,2,Erica Enders,0.06,6.54,211.0,True
+US Nationals,2,Dallas Glenn,0.039,6.524,210.11,True
+US Nationals,2,Jeg Coughlin,0.007,6.572,209.98,False
+US Nationals,2,Fernando Cuadra Jr.,0.016,6.756,207.88,True
+US Nationals,2,Greg Anderson,0.058,11.685,74.67,False
+US Nationals,3,Matt Hartford,0.031,6.551,209.17,True
+US Nationals,3,Fernando Cuadra Jr.,0.025,6.593,210.08,False
+US Nationals,3,Erica Enders,0.023,6.566,211.0,True
+US Nationals,4,Erica Enders,0.039,6.564,209.95,True
+US Nationals,4,Matt Hartford,0.017,6.609,209.04,False
+Reading Nationals,1,Deric Kramer,0.071,16.451,50.05,True
+Reading Nationals,1,Matt Hartford,-0.012,6.545,208.97,False
+Reading Nationals,1,Eric Latino,0.199,6.559,210.14,True
+Reading Nationals,1,Jeg Coughlin,0.02,7.401,205.72,False
+Reading Nationals,1,Cody Coughlin,0.067,6.545,208.39,True
+Reading Nationals,1,Troy Coughlin Jr.,0.033,6.581,209.04,False
+Reading Nationals,1,Cory Reed,0.025,6.552,209.3,True
+Reading Nationals,1,Matt Latino,0.021,6.592,209.26,False
+Reading Nationals,1,Greg Anderson,0.043,6.529,209.49,True
+Reading Nationals,1,Greg Stanfield,0.039,6.541,210.54,False
+Reading Nationals,1,Erica Enders,0.012,6.54,210.28,True
+Reading Nationals,1,Kenny Delco,-0.011,6.613,207.72,False
+Reading Nationals,1,Dallas Glenn,0.058,6.531,209.2,True
+Reading Nationals,1,Shane Tucker,0.037,6.691,206.86,False
+Reading Nationals,1,Aaron Stanfield,0.035,6.548,210.28,True
+Reading Nationals,1,Brandon Miller,0.059,6.632,207.05,False
+Reading Nationals,2,Eric Latino,0.069,6.625,210.14,True
+Reading Nationals,2,Aaron Stanfield,0.061,6.756,208.49,False
+Reading Nationals,2,Cody Coughlin,0.025,6.564,207.91,True
+Reading Nationals,2,Erica Enders,0.048,6.549,210.11,False
+Reading Nationals,2,Dallas Glenn,0.037,6.542,209.72,True
+Reading Nationals,2,Deric Kramer,-0.111,13.619,63.89,False
+Reading Nationals,2,Greg Anderson,0.044,6.55,209.39,True
+Reading Nationals,2,Cory Reed,0.068,6.581,209.07,False
+Reading Nationals,3,Cody Coughlin,0.057,6.576,207.78,True
+Reading Nationals,3,Eric Latino,0.155,7.091,146.24,False
+Reading Nationals,3,Dallas Glenn,0.115,6.56,209.23,True
+Reading Nationals,4,Dallas Glenn,0.031,6.557,209.23,True
+Reading Nationals,4,Cody Coughlin,0.081,6.562,208.68,False
+Carolina 4-Wide Nationals,1,Matt Hartford,0.064,6.522,208.94,True
+Carolina 4-Wide Nationals,1,Cody Coughlin,0.006,6.586,206.99,True
+Carolina 4-Wide Nationals,1,Cristian Cuadra,0.052,6.962,208.17,False
+Carolina 4-Wide Nationals,1,Deric Kramer,0.063,11.434,79.08,False
+Carolina 4-Wide Nationals,1,Cory Reed,0.045,6.542,208.94,True
+Carolina 4-Wide Nationals,1,Stephen Bell,0.041,6.593,208.14,True
+Carolina 4-Wide Nationals,1,Eric Latino,0.135,6.544,207.56,False
+Carolina 4-Wide Nationals,1,Fernando Cuadra Jr.,0.007,6.855,207.11,False
+Carolina 4-Wide Nationals,1,Greg Anderson,0.051,6.534,208.68,True
+Carolina 4-Wide Nationals,1,Erica Enders,0.029,6.562,209.52,True
+Carolina 4-Wide Nationals,1,Jeg Coughlin,0.037,6.562,209.14,False
+Carolina 4-Wide Nationals,1,David Cuadra,0.052,6.589,208.36,False
+Carolina 4-Wide Nationals,1,Dallas Glenn,0.031,6.529,209.65,True
+Carolina 4-Wide Nationals,1,Aaron Stanfield,0.025,6.545,209.56,True
+Carolina 4-Wide Nationals,1,Greg Stanfield,0.034,6.547,208.65,False
+Carolina 4-Wide Nationals,1,Troy Coughlin Jr.,0.018,10.952,82.15,False
+Carolina 4-Wide Nationals,2,Erica Enders,0.037,6.574,209.59,True
+Carolina 4-Wide Nationals,2,Greg Anderson,0.103,6.538,208.94,True
+Carolina 4-Wide Nationals,2,Cory Reed,0.041,6.607,208.59,False
+Carolina 4-Wide Nationals,2,Stephen Bell,0.08,6.595,208.07,False
+Carolina 4-Wide Nationals,2,Aaron Stanfield,0.021,6.559,209.36,True
+Carolina 4-Wide Nationals,2,Dallas Glenn,0.042,6.54,209.62,True
+Carolina 4-Wide Nationals,2,Matt Hartford,0.05,6.534,209.17,False
+Carolina 4-Wide Nationals,2,Cody Coughlin,0.02,6.565,208.84,False
+Carolina 4-Wide Nationals,3,Dallas Glenn,0.016,6.554,209.95,True
+Carolina 4-Wide Nationals,3,Greg Anderson,0.031,6.562,209.01,False
+Carolina 4-Wide Nationals,3,Erica Enders,0.032,6.572,209.2,False
+Carolina 4-Wide Nationals,3,Aaron Stanfield,0.022,13.39,65.73,False
+Midwest Nationals,1,Fernando Cuadra Jr.,0.061,6.586,208.04,True
+Midwest Nationals,1,Cody Coughlin,0.015,9.784,98.06,False
+Midwest Nationals,1,Greg Anderson,0.078,6.527,209.1,True
+Midwest Nationals,1,Mason McGaha,0.05,9.77,96.28,False
+Midwest Nationals,1,Matt Latino,0.006,6.56,206.95,True
+Midwest Nationals,1,Aaron Stanfield,0.029,6.547,210.08,False
+Midwest Nationals,1,Matt Hartford,0.035,6.545,210.05,True
+Midwest Nationals,1,Cristian Cuadra,0.028,6.585,207.21,False
+Midwest Nationals,1,Chris Vang,0.033,6.601,207.72,True
+Midwest Nationals,1,Cory Reed,0.103,6.538,207.02,False
+Midwest Nationals,1,Dallas Glenn,0.01,6.538,209.52,True
+Midwest Nationals,1,Jeg Coughlin,0.037,6.549,210.37,False
+Midwest Nationals,1,Troy Coughlin Jr.,0.001,6.581,208.88,True
+Midwest Nationals,1,Eric Latino,0.058,6.536,209.59,False
+Midwest Nationals,1,Erica Enders,0.031,6.545,210.44,True
+Midwest Nationals,1,Greg Stanfield,0.013,6.58,208.36,False
+Midwest Nationals,2,Troy Coughlin Jr.,0.009,6.626,208.42,True
+Midwest Nationals,2,Fernando Cuadra Jr.,0.03,6.634,207.66,False
+Midwest Nationals,2,Matt Latino,0.035,6.569,207.5,True
+Midwest Nationals,2,Chris Vang,0.005,6.612,206.7,False
+Midwest Nationals,2,Matt Hartford,0.003,6.557,209.43,True
+Midwest Nationals,2,Erica Enders,0.025,6.57,209.92,False
+Midwest Nationals,2,Greg Anderson,0.024,6.548,208.71,True
+Midwest Nationals,2,Dallas Glenn,0.02,6.568,208.42,False
+Midwest Nationals,3,Matt Hartford,0.046,6.562,209.85,True
+Midwest Nationals,3,Troy Coughlin Jr.,0.003,14.396,57.84,False
+Midwest Nationals,3,Greg Anderson,0.04,6.551,208.71,True
+Midwest Nationals,3,Matt Latino,0.035,6.601,207.53,False
+Midwest Nationals,4,Greg Anderson,0.021,6.531,209.33,True
+Midwest Nationals,4,Matt Hartford,0.038,6.543,209.49,False
+FallNationals,1,Deric Kramer,0.053,6.564,209.23,True
+FallNationals,1,Chris Vang,0.022,6.601,208.22,False
+FallNationals,1,Jeg Coughlin,0.058,6.578,209.06,True
+FallNationals,1,Matt Latino,0.057,6.596,208.25,False
+FallNationals,1,Eric Latino,0.11,6.559,209.23,True
+FallNationals,1,Greg Stanfield,0.038,6.636,210.03,False
+FallNationals,1,Matt Hartford,0.041,6.554,208.51,True
+FallNationals,1,Stephen Bell,0.038,6.602,209.33,False
+FallNationals,1,Dallas Glenn,0.044,6.537,208.97,True
+FallNationals,1,Cody Coughlin,0.016,6.571,208.29,False
+FallNationals,1,Cory Reed,0.009,6.534,208.65,True
+FallNationals,1,Troy Coughlin Jr.,0.02,6.598,209.34,False
+FallNationals,1,Greg Anderson,0.099,6.532,208.2,True
+FallNationals,1,David Cuadra,-0.11,6.584,209.52,False
+FallNationals,1,Aaron Stanfield,0.013,6.568,209.13,True
+FallNationals,1,Erica Enders,0.028,6.556,208.91,False
+FallNationals,2,Aaron Stanfield,0.049,6.603,208.89,True
+FallNationals,2,Matt Hartford,-0.064,18.593,43.86,False
+FallNationals,2,Dallas Glenn,0.041,6.574,208.66,True
+FallNationals,2,Eric Latino,0.133,6.601,209.38,False
+FallNationals,2,Jeg Coughlin,0.046,6.602,208.74,True
+FallNationals,2,Cory Reed,0.099,6.565,208.36,False
+FallNationals,2,Greg Anderson,0.096,6.547,208.73,True
+FallNationals,2,Deric Kramer,0.079,6.585,209.31,False
+FallNationals,3,Dallas Glenn,0.047,6.627,208.7,True
+FallNationals,3,Jeg Coughlin,0.011,11.52,92.02,False
+FallNationals,3,Aaron Stanfield,0.027,6.614,208.77,True
+FallNationals,3,Greg Anderson,0.049,6.632,207.7,False
+FallNationals,4,Dallas Glenn,0.034,6.605,208.89,True
+FallNationals,4,Aaron Stanfield,0.024,6.622,208.75,False
+Nevada Nationals,1,Matt Latino,0.042,6.704,206.07,True
+Nevada Nationals,1,Greg Stanfield,0.042,8.822,108.12,False
+Nevada Nationals,1,Jeg Coughlin,0.053,6.617,207.05,True
+Nevada Nationals,1,Eric Latino,0.028,6.677,207.72,False
+Nevada Nationals,1,Matt Hartford,0.024,6.594,207.43,True
+Nevada Nationals,1,Deric Kramer,0.048,6.607,207.5,False
+Nevada Nationals,1,Erica Enders,0.029,6.615,207.62,True
+Nevada Nationals,1,David Cuadra,0.1,6.611,207.37,False
+Nevada Nationals,1,Dallas Glenn,0.036,6.587,207.08,True
+Nevada Nationals,1,Dave Connolly,0.075,6.613,204.91,False
+Nevada Nationals,1,Fernando Cuadra Jr.,0.027,6.622,206.89,True
+Nevada Nationals,1,Cory Reed,0.059,6.599,206.2,False
+Nevada Nationals,1,Greg Anderson,0.041,6.572,206.57,True
+Nevada Nationals,1,Troy Coughlin Jr.,0.02,6.629,206.92,False
+Nevada Nationals,1,Aaron Stanfield,0.022,6.595,208.17,True
+Nevada Nationals,1,Cristian Cuadra,0.031,6.642,206.99,False
+Nevada Nationals,2,Jeg Coughlin,0.031,6.672,207.05,True
+Nevada Nationals,2,Aaron Stanfield,0.019,6.715,207.62,False
+Nevada Nationals,2,Matt Hartford,0.04,6.623,207.15,True
+Nevada Nationals,2,Fernando Cuadra Jr.,-0.019,22.878,32.04,False
+Nevada Nationals,2,Dallas Glenn,0.03,6.598,207.05,True
+Nevada Nationals,2,Erica Enders,0.023,6.63,207.3,False
+Nevada Nationals,2,Greg Anderson,0.034,6.599,206.67,True
+Nevada Nationals,2,Matt Latino,0.032,6.632,206.54,False
+Nevada Nationals,3,Matt Hartford,0.043,6.603,207.4,True
+Nevada Nationals,3,Jeg Coughlin,0.013,6.668,206.45,False
+Nevada Nationals,3,Dallas Glenn,0.026,6.606,206.92,True
+Nevada Nationals,3,Greg Anderson,0.033,6.603,205.91,False
+Nevada Nationals,4,Dallas Glenn,0.006,6.602,206.61,True
+Nevada Nationals,4,Matt Hartford,0.012,6.625,207.5,False
