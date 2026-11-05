@@ -6810,10 +6810,8 @@ PM,New England Nationals,2023,1,Tony Wilson,0.008,5.782,249.3,True,Stan Shelton
 PM,New England Nationals,2023,1,Stan Shelton,-0.069,5.856,244.03,False,Tony Wilson
 PM,New England Nationals,2023,1,Tylor Miller,0.025,5.952,241.24,True,Khalid alBalooshi
 PM,New England Nationals,2023,1,Khalid alBalooshi,-0.074,6.049,200.44,False,Tylor Miller
-PM,New England Nationals,2023,1,Doug Winters,0.055,5.929,239.1,True,"Dmitry
- Samorukov"
-PM,New England Nationals,2023,1,"Dmitry
- Samorukov",0.045,8.263,116.08,False,Doug Winters
+PM,New England Nationals,2023,1,Doug Winters,0.055,5.929,239.1,True,Dmitry Samorukov
+PM,New England Nationals,2023,1,Dmitry Samorukov,0.045,8.263,116.08,False,Doug Winters
 PM,New England Nationals,2023,1,Todd Tutterow,0.033,5.857,246.17,True,Kris Thorne
 PM,New England Nationals,2023,1,Kris Thorne,-0.022,5.862,243.55,False,Todd Tutterow
 PM,New England Nationals,2023,1,JR Gray,0.035,5.877,243.72,True,Marcus Birt
@@ -7653,10 +7651,8 @@ PM,Southern Nationals,2026,1,Derek Menholt,0.049,5.769,243.63,True,Nick Januik
 PM,Southern Nationals,2026,1,Nick Januik,0.065,5.834,248.16,False,Derek Menholt
 PM,Southern Nationals,2026,1,Sidnei Frigo,0.042,6.622,198.55,True,Justin Bond
 PM,Southern Nationals,2026,1,Justin Bond,0.07,7.884,155.76,False,Sidnei Frigo
-PM,Southern Nationals,2026,1,Mike Stavrinos,0.058,5.726,254.28,True,"Mike
- Castellana"
-PM,Southern Nationals,2026,1,"Mike
- Castellana",0.097,8.541,108.26,False,Mike Stavrinos
+PM,Southern Nationals,2026,1,Mike Stavrinos,0.058,5.726,254.28,True,Mike Castellana
+PM,Southern Nationals,2026,1,Mike Castellana,0.097,8.541,108.26,False,Mike Stavrinos
 PM,Southern Nationals,2026,1,Mike Thielen,0.039,5.744,250.55,True,JR Gray
 PM,Southern Nationals,2026,1,JR Gray,0.03,5.936,249.12,False,Mike Thielen
 PM,Southern Nationals,2026,2,Lyle Barnett,0.026,6.179,244.21,True,R alBalooshi
@@ -7803,10 +7799,8 @@ PM,Nationals at The Rock,2026,1,Rickie Smith,0.042,5.673,253.24,True,Mike Thiele
 PM,Nationals at The Rock,2026,1,Mike Thielen,0.032,5.722,248.07,False,Rickie Smith
 PM,Nationals at The Rock,2026,1,Steve Jackson,0.024,5.671,247.39,True,Billy Banaka
 PM,Nationals at The Rock,2026,1,Billy Banaka,0.066,5.664,256.41,False,Steve Jackson
-PM,Nationals at The Rock,2026,1,Mike Stavrinos,0.05,5.669,251.54,True,"Kevin
- Rivenbark"
-PM,Nationals at The Rock,2026,1,"Kevin
- Rivenbark",-0.006,5.788,247.25,False,Mike Stavrinos
+PM,Nationals at The Rock,2026,1,Mike Stavrinos,0.05,5.669,251.54,True,Kevin Rivenbark
+PM,Nationals at The Rock,2026,1,Kevin Rivenbark,-0.006,5.788,247.25,False,Mike Stavrinos
 PM,Nationals at The Rock,2026,1,JR Gray,0.009,5.705,251.4,True,Shane Gray
 PM,Nationals at The Rock,2026,1,Shane Gray,0.022,5.736,249.86,False,JR Gray
 PM,Nationals at The Rock,2026,1,Nick Januik,0.031,5.691,253.24,True,Chip King

@@ -511,6 +511,9 @@ def _extract_runs(race_id, rnd, segs, wins):
         perf = _parse_perf_segment(seg)
         if not name or not perf:
             continue
+        # Collapse soft-wrap newlines/extra spaces so a driver is not split into
+        # two identities ("Mike\n Castellana" vs "Mike Castellana").
+        name = re.sub(r"\s+", " ", name).strip()
         rt, et, mph = perf
         out.append(
             {

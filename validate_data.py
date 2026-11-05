@@ -18,7 +18,9 @@ ROOT = Path(__file__).parent
 # Loose plausibility bounds per class (full pulls; broken runs can be slow, so
 # upper bounds are generous -- we only flag the physically impossible).
 ET_BOUNDS = {"TF": (3.5, 20), "FC": (3.5, 20), "PS": (6.0, 20), "PM": (5.2, 20)}
-MPH_MAX = 345.0
+# Top Fuel national speed record is 346.95 (Langdon, Martin MI, 2026); leave
+# headroom so legitimate records are not flagged, only the physically impossible.
+MPH_MAX = 360.0
 RT_BOUNDS = (-0.5, 2.0)
 NAME_RE = re.compile(r"^[A-Za-z][A-Za-z.'\- ]{1,40}$")
 

@@ -5,9 +5,9 @@ Run after universal_parser.py has produced master_runs.csv.
 
 import csv
 import json
-from datetime import date as _date
+from datetime import datetime, timezone
 from pathlib import Path
-from collections import Counter
+from collections import Counter, defaultdict
 
 ROOT = Path(__file__).parent
 RAW = ROOT / "raw_data"
@@ -222,14 +222,33 @@ def main():
         sizes = [len(d) for d in races.values()]
         field_avg["{}_{}".format(*key)] = round(sum(sizes) / len(sizes), 1) if sizes else 0
 
-    # Latest-dated race drives the ticker (lastRace)
+    version = _read_version()
+    updated = datetime.now(timezone.utc).strftime("%m.%d.%y")
+
+    # Latest-dated race drives the single-line "last race" (footer "data through")
     dated = [(d, r, y) for (r, y), d in race_meta.items() if d]
     if dated:
         last_date, last_race, last_year = max(dated)
-        ticker = _fmt_ticker(last_race, last_year, last_date,
-                             disc_cities.get((last_race, last_year), ""))
+        last_race_line = _fmt_ticker(last_race, last_year, last_date,
+                                     disc_cities.get((last_race, last_year), ""))
     else:
-        ticker = "NHRA RT.DI"
+        last_race_line = "NHRA RT.DI"
+
+    # Scrolling ticker: version + update date + the most recent races and the
+    # classes captured for each. Auto-generated, so it bumps every publish.
+    cls_by_race = defaultdict(set)
+    for r in rows:
+        cls_by_race[(r["r"], r["y"])].add(r["c"])
+    order = ["TF", "FC", "PS", "PM", "PN", "PB"]
+    parts = []
+    for d, race, year in sorted(dated, reverse=True)[:6]:
+        cs = cls_by_race[(race, year)]
+        label = ("PDRA " if cs <= {"PN", "PB"} else "") + race
+        cstr = "/".join(c for c in order if c in cs)
+        mdy = "{}.{}.{}".format(d[5:7], d[8:10], d[2:4])
+        parts.append("{} — {} ({})".format(label.upper(), mdy, cstr))
+    ticker = ">> RT.DI {} // UPDATED {} // LATEST: {}".format(
+        version, updated, " // ".join(parts)) if parts else ">> RT.DI {}".format(version)
 
     data = {
         "runs": rows,
@@ -238,8 +257,10 @@ def main():
             for k, v in sorted(race_meta.items(), key=lambda kv: (kv[1] or "", kv[0][0]))
         ],
         "fieldAvg": field_avg,
-        "version": _read_version(),
-        "lastRace": ticker,
+        "version": version,
+        "updated": updated,
+        "ticker": ticker,
+        "lastRace": last_race_line,
     }
 
     out_json = ROOT / "rt_di_data.json"
