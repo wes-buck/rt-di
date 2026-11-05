@@ -5,6 +5,9 @@ name: DRC Recon (temporary)
 # Temporary: delete once the production pipeline is in place.
 on:
   workflow_dispatch:
+  push:
+    branches: [claude/cool-davinci-vxlzac]
+    paths: [tools/recon_drc.py, .github/workflows/recon.yml]
 
 jobs:
   recon:
