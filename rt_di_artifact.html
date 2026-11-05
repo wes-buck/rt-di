@@ -742,7 +742,7 @@
           <th data-sort="avg" class="num sorted">AVG RT<span class="arrow">↓</span></th>
           <th data-sort="best" class="num">BEST<span class="arrow">↕</span></th>
           <th data-sort="worst" class="num">WORST<span class="arrow">↕</span></th>
-          <th data-sort="bir" class="num">% BEST IN ROUND<span class="arrow">↕</span></th>
+          <th data-sort="lf" class="num" title="How often this driver had the quickest legal reaction time in the actual matchup (head-to-head or 4-wide). Byes excluded; own red-lights count against.">LEAVES 1ST<span class="arrow">↕</span></th>
           <th data-sort="wl" class="num">ROUND W-L<span class="arrow">↕</span></th>
         </tr>
       </thead>
@@ -805,7 +805,7 @@
   <div class="footer">
     <b>METHODOLOGY:</b> Every elimination run sourced from CompuLink timing data via DragRaceCentral.com "Summary of Eliminations" reports.
     Reaction times measured to the .001. Fouls (negative RT) and DQs (no valid timing) are excluded from leaderboard averages but included in best/worst counts.
-    "% BEST IN ROUND" = pair- or quad-best reaction time across all rounds the driver competed in.<br>
+    "LEAVES 1ST" = how often the driver had the quickest legal reaction time in the actual matchup (beating the other lane, or holding the best clean light when an opponent fouled). A driver's own red-lights count against them; byes are excluded.<br>
     <b>SAMPLE:</b> <span id="footer-counts"></span>.<br>
     <b>FIELD SIZE:</b> <span id="footer-fields"></span>. Run-count disparities across classes are primarily a function of field size, not data quality.<br>
     <span id="footer-meta"><b>UPDATED:</b> 11.04.26 // <b>RT.DI v1.7.1</b> // © DRAG ILLUSTRATED 2026</span><br>
@@ -925,6 +925,10 @@
       if (!groups[k] || r.rt < groups[k].rt) groups[k] = r;
     });
 
+    // RT of every driver keyed by race|year|round, for head-to-head "leaves first"
+    const rtByKey = {};
+    runs.forEach(r => { rtByKey[r.r + '|' + r.y + '|' + r.rd + '|' + r.d] = r.rt; });
+
     const drivers = {};
     runs.forEach(r => {
       const d = drivers[r.d] = drivers[r.d] || {
@@ -937,6 +941,8 @@
         birTotal: 0,
         roundW: 0,
         roundL: 0,
+        lfWins: 0,
+        lfTotal: 0,
       };
       d.runs++;
       if (r.w) d.roundW++; else d.roundL++;
@@ -948,6 +954,16 @@
         const k = r.r + '|' + r.y + '|' + r.rd;
         if (groups[k] && groups[k].d === r.d) d.birWins++;
       }
+      // Leaves first: quickest legal reaction in the actual matchup (head-to-head or 4-wide)
+      if (r.o && r.o.length) {
+        const oppRTs = r.o.map(function(n){ return rtByKey[r.r + '|' + r.y + '|' + r.rd + '|' + n]; })
+                           .filter(function(v){ return v !== undefined; });
+        if (oppRTs.length) {
+          d.lfTotal++;
+          const legalOpp = oppRTs.filter(function(v){ return v > 0; });
+          if (r.rt > 0 && (legalOpp.length === 0 || r.rt < Math.min.apply(null, legalOpp))) d.lfWins++;
+        }
+      }
     });
 
     return Object.values(drivers).map(d => ({
@@ -957,6 +973,7 @@
       best: d.best === Infinity ? null : d.best,
       worst: d.worst === -Infinity ? null : d.worst,
       bir: d.birTotal ? d.birWins / d.birTotal : null,
+      lf: d.lfTotal ? d.lfWins / d.lfTotal : null,
       wl: d.roundW + '-' + d.roundL,
       wlNum: (d.roundW + d.roundL) > 0 ? d.roundW / (d.roundW + d.roundL) : 0,
     }));
@@ -1087,7 +1104,7 @@
         '<td class="num ' + (isLeader ? 'leader' : '') + '" data-label="AVG RT">' + fmtAvg(r.avg) + '</td>' +
         '<td class="num" data-label="BEST">' + fmtRT(r.best) + '</td>' +
         '<td class="num" data-label="WORST">' + fmtRT(r.worst) + '</td>' +
-        '<td class="num" data-label="% BEST IN RD">' + fmtPct(r.bir) + '</td>' +
+        '<td class="num" data-label="LEAVES 1ST">' + fmtPct(r.lf) + '</td>' +
         '<td class="num" data-label="ROUND W-L">' + r.wl + '</td>' +
       '</tr>';
     }).join('');
