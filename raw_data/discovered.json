@@ -1,5 +1,5 @@
 {
- "frontier": 424302,
+ "frontier": 424504,
  "stories": {
   "424124": {
    "city": "LAS VEGAS",
@@ -90,6 +90,114 @@
    "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
    "reason": "class 'Top Alcohol Funny Car' not tracked",
    "status": "skipped"
+  },
+  "424435": {
+   "city": "LAS VEGAS",
+   "event": "26th annual MOPAR NHRA Las Vegas Nationals powered by Dodge",
+   "reason": "class 'Pro Stock Motorcycle' not tracked",
+   "status": "skipped"
+  },
+  "424490": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Top Dragster' not tracked",
+   "status": "skipped"
+  },
+  "424491": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Top Sportsman' not tracked",
+   "status": "skipped"
+  },
+  "424492": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Junior Dragster Shootout' not tracked",
+   "status": "skipped"
+  },
+  "424493": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Legacy Nitro Funny Car' not tracked",
+   "status": "skipped"
+  },
+  "424494": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Super Gas' not tracked",
+   "status": "skipped"
+  },
+  "424495": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Super Comp' not tracked",
+   "status": "skipped"
+  },
+  "424496": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Stock Eliminator' not tracked",
+   "status": "skipped"
+  },
+  "424497": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Super Stock' not tracked",
+   "status": "skipped"
+  },
+  "424498": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Competition Eliminator' not tracked",
+   "status": "skipped"
+  },
+  "424499": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Top Alcohol Dragster' not tracked",
+   "status": "skipped"
+  },
+  "424500": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Top Alcohol Funny Car' not tracked",
+   "status": "skipped"
+  },
+  "424501": {
+   "city": "POMONA",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "reason": "class 'Pro Stock Motorcycle' not tracked",
+   "status": "skipped"
+  },
+  "424502": {
+   "city": "POMONA",
+   "class": "PS",
+   "confident": true,
+   "date": "2026-11-15",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "race": "Finals",
+   "status": "ingested",
+   "year": 2026
+  },
+  "424503": {
+   "city": "POMONA",
+   "class": "FC",
+   "confident": true,
+   "date": "2026-11-15",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "race": "Finals",
+   "status": "ingested",
+   "year": 2026
+  },
+  "424504": {
+   "city": "POMONA",
+   "class": "TF",
+   "confident": true,
+   "date": "2026-11-15",
+   "event": "61st annual In-N-Out Burger NHRA Finals",
+   "race": "Finals",
+   "status": "ingested",
+   "year": 2026
   }
  }
 }

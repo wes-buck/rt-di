@@ -7880,3 +7880,92 @@ PM,Nevada Nationals,2026,3,Mike Stavrinos,0.077,9.847,66.17,True,JR Gray
 PM,Nevada Nationals,2026,3,JR Gray,-0.3,8.249,111.89,False,Mike Stavrinos
 PM,Nevada Nationals,2026,4,Justin Bond,0.114,5.66,253.47,True,Mike Stavrinos
 PM,Nevada Nationals,2026,4,Mike Stavrinos,0.07,5.791,230.69,False,Justin Bond
+PS,Finals,2026,1,Dave Connolly,0.022,6.535,209.52,True,Cody Anderson
+PS,Finals,2026,1,Cody Anderson,0.019,6.542,209.62,False,Dave Connolly
+PS,Finals,2026,1,Deric Kramer,0.038,6.562,209.36,True,Stephen Bell
+PS,Finals,2026,1,Stephen Bell,0.077,6.558,209.95,False,Deric Kramer
+PS,Finals,2026,1,Troy Coughlin Jr.,0.036,6.549,209.14,True,Jeg Coughlin
+PS,Finals,2026,1,Jeg Coughlin,-0.362,17.185,69.4,False,Troy Coughlin Jr.
+PS,Finals,2026,1,Matt Hartford,0.167,6.563,209.52,True,Kenny Delco
+PS,Finals,2026,1,Kenny Delco,-0.32,20.094,54.33,False,Matt Hartford
+PS,Finals,2026,1,Greg Anderson,0.031,6.521,209.23,True,Shane Tucker
+PS,Finals,2026,1,Shane Tucker,-0.012,6.605,210.18,False,Greg Anderson
+PS,Finals,2026,1,Matt Latino,0.026,6.519,209.49,True,Erica Enders
+PS,Finals,2026,1,Erica Enders,0.039,6.528,210.18,False,Matt Latino
+PS,Finals,2026,1,Greg Stanfield,0.028,6.532,210.41,True,Aaron Stanfield
+PS,Finals,2026,1,Aaron Stanfield,0.036,6.536,209.52,False,Greg Stanfield
+PS,Finals,2026,1,Dallas Glenn,2.08,21.92,60.26,True,
+PS,Finals,2026,2,Dallas Glenn,0.012,6.528,209.62,True,Dave Connolly
+PS,Finals,2026,2,Dave Connolly,0.015,6.562,209.62,False,Dallas Glenn
+PS,Finals,2026,2,Greg Stanfield,0.028,6.547,210.14,True,Deric Kramer
+PS,Finals,2026,2,Deric Kramer,0.046,6.552,209.33,False,Greg Stanfield
+PS,Finals,2026,2,Greg Anderson,0.056,6.516,210.18,True,Matt Hartford
+PS,Finals,2026,2,Matt Hartford,0.036,6.593,210.01,False,Greg Anderson
+PS,Finals,2026,2,Matt Latino,0.012,6.535,208.94,True,Troy Coughlin Jr.
+PS,Finals,2026,2,Troy Coughlin Jr.,-0.002,10.593,85.63,False,Matt Latino
+PS,Finals,2026,3,Matt Latino,0.048,6.536,209.2,True,Greg Stanfield
+PS,Finals,2026,3,Greg Stanfield,0.046,6.54,210.31,False,Matt Latino
+PS,Finals,2026,3,Dallas Glenn,0.034,6.531,209.26,True,Greg Anderson
+PS,Finals,2026,3,Greg Anderson,0.044,6.522,209.72,False,Dallas Glenn
+PS,Finals,2026,4,Dallas Glenn,0.009,6.531,209.23,True,Matt Latino
+PS,Finals,2026,4,Matt Latino,0.021,6.529,209.85,False,Dallas Glenn
+FC,Finals,2026,1,Bobby Bode,0.065,4.047,315.42,True,Jack Beckman
+FC,Finals,2026,1,Jack Beckman,0.071,9.387,79.93,False,Bobby Bode
+FC,Finals,2026,1,Austin Prock,0.066,3.893,334.82,True,Paul Lee
+FC,Finals,2026,1,Paul Lee,0.078,3.952,327.51,False,Austin Prock
+FC,Finals,2026,1,J.R. Todd,0.071,3.956,331.28,True,Julie Nataas
+FC,Finals,2026,1,Julie Nataas,0.1,4.289,221.23,False,J.R. Todd
+FC,Finals,2026,1,Jim Campbell,0.085,4.03,304.8,True,Ron Capps
+FC,Finals,2026,1,Ron Capps,0.072,6.191,111.73,False,Jim Campbell
+FC,Finals,2026,1,Alexis DeJoria,0.096,3.888,331.77,True,Dave Richards
+FC,Finals,2026,1,Dave Richards,0.136,3.989,320.51,False,Alexis DeJoria
+FC,Finals,2026,1,Cruz Pedregon,0.071,3.934,313.88,True,Jason Rupert
+FC,Finals,2026,1,Jason Rupert,0.097,3.931,332.34,False,Cruz Pedregon
+FC,Finals,2026,1,Jordan Vandergriff,0.086,3.938,331.61,True,Jeff Arend
+FC,Finals,2026,1,Jeff Arend,0.058,4.034,312.35,False,Jordan Vandergriff
+FC,Finals,2026,1,Daniel Wilkerson,0.068,3.946,325.92,True,Matt Hagan
+FC,Finals,2026,1,Matt Hagan,0.054,3.988,328.06,False,Daniel Wilkerson
+FC,Finals,2026,2,J.R. Todd,0.056,3.93,333.08,True,Bobby Bode
+FC,Finals,2026,2,Bobby Bode,0.048,3.94,323.35,False,J.R. Todd
+FC,Finals,2026,2,Austin Prock,0.063,3.908,333.74,True,Cruz Pedregon
+FC,Finals,2026,2,Cruz Pedregon,0.066,3.983,291.89,False,Austin Prock
+FC,Finals,2026,2,Alexis DeJoria,0.068,3.887,332.67,True,Jordan Vandergriff
+FC,Finals,2026,2,Jordan Vandergriff,0.074,3.959,329.83,False,Alexis DeJoria
+FC,Finals,2026,2,Daniel Wilkerson,0.078,3.962,325.45,True,Jim Campbell
+FC,Finals,2026,2,Jim Campbell,0.127,4.733,171.84,False,Daniel Wilkerson
+FC,Finals,2026,3,Daniel Wilkerson,0.105,3.913,325.3,True,Austin Prock
+FC,Finals,2026,3,Austin Prock,0.066,9.064,105.68,False,Daniel Wilkerson
+FC,Finals,2026,3,J.R. Todd,0.05,3.929,332.84,True,Alexis DeJoria
+FC,Finals,2026,3,Alexis DeJoria,0.081,3.906,332.18,False,J.R. Todd
+FC,Finals,2026,4,J.R. Todd,0.057,3.89,331.2,True,Daniel Wilkerson
+FC,Finals,2026,4,Daniel Wilkerson,0.082,3.925,318.17,False,J.R. Todd
+TF,Finals,2026,1,Justin Ashley,0.04,3.766,336.15,True,Shawn Reed
+TF,Finals,2026,1,Shawn Reed,0.035,10.809,76.98,False,Justin Ashley
+TF,Finals,2026,1,Billy Torrence,0.083,3.731,337.58,True,Spencer Massey
+TF,Finals,2026,1,Spencer Massey,0.05,5.936,108.63,False,Billy Torrence
+TF,Finals,2026,1,Tony Stewart,0.204,3.733,328.46,True,Clay Millican
+TF,Finals,2026,1,Clay Millican,0.101,4.089,242.54,False,Tony Stewart
+TF,Finals,2026,1,Maddi Gordon,0.073,3.749,333.41,True,Cameron Ferre
+TF,Finals,2026,1,Cameron Ferre,0.069,3.956,305.36,False,Maddi Gordon
+TF,Finals,2026,1,Doug Kalitta,0.075,3.715,334.07,True,Bernie Plourd
+TF,Finals,2026,1,Bernie Plourd,0.142,5.131,138.2,False,Doug Kalitta
+TF,Finals,2026,1,Leah Pruett,0.063,3.794,319.9,True,Will Smith
+TF,Finals,2026,1,Will Smith,0.038,3.894,282.72,False,Leah Pruett
+TF,Finals,2026,1,Antron Brown,0.054,4.199,263.98,True,Tony Schumacher
+TF,Finals,2026,1,Tony Schumacher,0.078,5.645,115.89,False,Antron Brown
+TF,Finals,2026,1,Shawn Langdon,0.063,3.845,319.9,True,Josh Hart
+TF,Finals,2026,1,Josh Hart,0.051,5.494,130.95,False,Shawn Langdon
+TF,Finals,2026,2,Leah Pruett,0.054,3.757,0.0,True,Antron Brown
+TF,Finals,2026,2,Antron Brown,0.056,3.789,0.0,False,Leah Pruett
+TF,Finals,2026,2,Shawn Langdon,0.036,3.842,293.54,True,Tony Stewart
+TF,Finals,2026,2,Tony Stewart,0.068,5.77,114.64,False,Shawn Langdon
+TF,Finals,2026,2,Billy Torrence,0.08,3.716,334.65,True,Maddi Gordon
+TF,Finals,2026,2,Maddi Gordon,0.087,3.747,335.82,False,Billy Torrence
+TF,Finals,2026,2,Doug Kalitta,0.071,3.712,339.96,True,Justin Ashley
+TF,Finals,2026,2,Justin Ashley,0.022,4.643,166.11,False,Doug Kalitta
+TF,Finals,2026,3,Shawn Langdon,0.039,3.713,333.08,True,Billy Torrence
+TF,Finals,2026,3,Billy Torrence,0.087,3.719,335.23,False,Shawn Langdon
+TF,Finals,2026,3,Doug Kalitta,0.064,3.677,343.59,True,Leah Pruett
+TF,Finals,2026,3,Leah Pruett,0.061,4.185,226.77,False,Doug Kalitta
+TF,Finals,2026,4,Doug Kalitta,0.053,3.657,339.19,True,Shawn Langdon
+TF,Finals,2026,4,Shawn Langdon,0.044,3.675,335.82,False,Doug Kalitta
