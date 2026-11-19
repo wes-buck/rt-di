@@ -20,7 +20,7 @@ on:
         type: boolean
         default: false
   push:
-    branches: [claude/cool-davinci-vxlzac]   # lets the pipeline be tested on the dev branch
+       branches: [main, claude/cool-davinci-vxlzac]   # main = auto-deploy on manual edits; dev branch = testing  # lets the pipeline be tested on the dev branch
     paths:
       - run.py
       - drc_discover.py
